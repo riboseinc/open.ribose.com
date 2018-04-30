@@ -1,0 +1,2 @@
+export SITE_HOSTNAME=somehostname.example.com
+export SITE_REGION=some-aws-region-3
