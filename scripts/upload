@@ -1,0 +1,3 @@
+S3_BUCKET=$$(aws s3api list-buckets --query "Buckets[?contains(Name, '$(HOSTNAME)')] | [0].Name" | jq -r '.'); \
+echo "[bucket] is \"$${S3_BUCKET}\""; \
+aws s3 sync _site/ s3://$${S3_BUCKET} --size-only --delete --region $(REGION)

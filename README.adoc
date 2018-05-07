@@ -4,122 +4,51 @@
 
 This is the Ribose Open Site (Hub) located at https://open.ribose.com.
 
-Built with https://jekyllrb.com[Jekyll].
+The site is implemented as a https://jekyllrb.com[Jekyll] site and configured
+in _config.yml. Site data is located in this directory and build gets created
+in _site.
 
-== Structure
+== Development
 
-The site is implemented as a https://jekyllrb.com[Jekyll] site.
+=== Getting started
 
-It has a `_config.yml` for specifying the directory structure, metadata, build
-defaults, etc.
+* Ensure you have reasonable Ruby version
+* Run `bundle` from within site directory to install Ruby dependencies
 
-And since it's also a
-https://github.com/asciidoctor/jekyll-asciidoc[Jekyll-AsciiDoc] site, the
-syntax used for writing posts is AsciiDoc, instead of the default Markdown.
+=== Serving the site
 
-=== Inputs
+* Run `jekyll serve` from within site directory
 
-All source files are inside the `_jekyll/` directory, as specified in
-`_config.yml`.
+== Operations
 
-=== Outputs
+The site is hosted on AWS using S3 behind CloudFront (CF).
 
-All output files live inside the `_site/` directory, and its content have been
-`gitignore`-d.
+=== Getting started
 
+Exact AWS service setup is outside of the scope of this README.
 
-== Usage
+Obtain from your operations contact an inventory .rc file relevant
+to the environment you’re deploying.
 
-=== Preparation
+It would contain the variables such as S3_BUCKET, HOSTNAME, AWS_REGION,
+CF_DISTRIBUTION. Do not version that file in the repository.
 
-To begin developing,
+=== Deployment
 
-[source,sh]
-----
-make prep
-----
+The executable `./scripts/deploy` builds the site, uploads it to S3
+and invalidates CF cache.
 
-which would install the necessary Ruby gems for you.
-
-=== Auto-build
-
-To make it watch for file changes and build automatically (which watches only
-the files specified in the above Inputs section), run:
+Run it like this:
 
 [source,sh]
 ----
-make watch
-----
-
-If you want to be sure all outputs are cleaned prior to building, run:
-
-[source,sh]
-----
-make clean-watch
-----
-
-=== Just build
-
-The non-watching equivalents for the above are simply:
-
-[source,sh]
-----
-make build
-----
-
-[source,sh]
-----
-make clean-build
-----
-
-
-== Deployment
-
-This section is only for deployment.
-
-=== Configuration
-
-Configure the hostname and region in the `ro-site.rc` file as you know it.
-
-[source,sh]
-----
-cp ro-site.rc.template ro-site.rc
-vi ro-site.rc
-----
-
-=== Uploading to S3
-
-If you have access to the bucket, run this.
-
-[source,sh]
-----
-export AWS_PROFILE=myprofile
 source ro-site.rc
-make upload
+./scripts/deploy
 ----
-
-=== Clear CloudFront caching
-
-The sites are accessed via CloudFront. If you're seeing
-stale data after `make upload`, most likely the CloudFront
-cache needs to be invalidated.
-
-Your AWS account must be authorized to invalidate the CloudFront
-cache for this distribution.
-
-[source,sh]
-----
-export AWS_PROFILE=myprofile
-source ro-site.rc
-make clear-cf
-----
-
 
 == Contributing
 
-. Ensure all tests pass
 . Create your feature branch (`git checkout -b my-new-feature`)
 . Commit your changes (`git commit -am 'Add some feature'`)
 . Push to the branch (`git push origin my-new-feature`)
 . Create new Pull Request
-

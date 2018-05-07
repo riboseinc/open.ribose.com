@@ -1,0 +1,3 @@
+bundle exec jekyll build
+./scripts/upload
+./scripts/clear_cf

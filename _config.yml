@@ -1,0 +1,44 @@
+# Open Hub theme setup
+
+title: Ribose Open
+
+description: >-
+  Write open hub description, mission, etc. here.
+  It will appear in document head meta for search results, and elsewhere.
+
+seo:
+  type: Organization
+
+social:
+  links:
+    - https://twitter.com/RiboseUS
+    - https://github.com/riboseinc
+
+
+# Not expected to change further settings
+
+markdown: kramdown
+theme: jekyll-theme-open-hub
+plugins:
+  - jekyll-seo-tag
+
+collections:
+  projects:
+    output: false
+  posts:
+    output: true
+    permalink: /blog/:month-:day-:year/:title/
+  pages:
+    output: true
+    permalink: /:name/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: _posts
+      type: posts
+    values:
+      layout: post
