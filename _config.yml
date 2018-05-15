@@ -19,8 +19,6 @@ social:
 
 markdown: kramdown
 theme: jekyll-theme-open-hub
-plugins:
-  - jekyll-seo-tag
 
 collections:
   projects:
