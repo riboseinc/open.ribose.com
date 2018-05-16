@@ -1,5 +1,11 @@
 = Ribose Open Site
 
+This site is using the Jekyll Open Hub theme.
+
+See https://github.com/riboseinc/jekyll-theme-open-hub[theme documentation].
+
+See https://github.com/riboseinc/open.ribose.com/wiki/Listing-of-open-projects[list of open projects] being added here.
+
 == Introduction
 
 This is the Ribose Open Site (Hub) located at https://open.ribose.com.
