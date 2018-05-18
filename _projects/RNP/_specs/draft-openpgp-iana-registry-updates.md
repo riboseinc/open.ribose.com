@@ -2,7 +2,7 @@
 title: IANA Registry Updates for OpenPGP
 description: Changes motivated by recently proposed extensions to OpenPGP.
 ietf_datatracker_id: draft-openpgp-iana-registry-updates
-ietf_datatracker_ver: 01
+ietf_datatracker_ver: "01"
 ---
 
 ```
