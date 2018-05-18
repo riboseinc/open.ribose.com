@@ -1,31 +1,27 @@
-node('docker') {
+node() {
   deleteDir()
 
   stage 'Checkout'
   checkout scm
 
-  def buildEnv = docker.image('ruby:latest')
-  buildEnv.pull()
-  buildEnv.inside {
-    stage 'D/L dependencies'
-    sh 'bundle'
+  stage 'D/L dependencies'
+  sh 'bundle'
 
-    stage 'Build'
-    sh 'rake build:production'
+  stage 'Build'
+  sh 'rake build:production'
 
-    stage 'Test'
-    try {
-      sh 'rake test:production'
-    } catch (err) {
-      currentBuild.result = 'UNSTABLE'
-    }
-
-    stage 'Build production'
-    sh 'rake build:production'
-    archive 'output/**'
-
-    stash includes: 'output/**', name: 'built-site'
+  stage 'Test'
+  try {
+    sh 'rake test:production'
+  } catch (err) {
+    currentBuild.result = 'UNSTABLE'
   }
+
+  stage 'Build production'
+  sh 'rake build:production'
+  archive 'output/**'
+
+  stash includes: 'output/**', name: 'built-site'
 }
 
 if (currentBuild.result == 'UNSTABLE') {
