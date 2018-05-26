@@ -31,25 +31,29 @@ The site is hosted on AWS using S3 behind CloudFront (CF).
 
 === Getting started
 
-Exact AWS service setup is outside of the scope of this README.
+0. Make sure you have AWS CLI tools installed.
 
-Obtain from your operations contact an inventory .rc file relevant
-to the environment you’re deploying.
+1. Obtain from your operations contact an inventory .rc file relevant
+   to the environment you’re deploying.
+   
+   It would contain the variables such as S3_BUCKET, HOSTNAME, AWS_REGION,
+   CF_DISTRIBUTION. Do not version that file in the repository!
+   
+   We’ll assume that file is named ro-site.rc.
 
-It would contain the variables such as S3_BUCKET, HOSTNAME, AWS_REGION,
-CF_DISTRIBUTION. Do not version that file in the repository.
+2. Add AWS profile to your ~/.aws/credentials. We’ll assume it’s called `ribose-open`.
 
 === Deployment
 
-The executable `./scripts/deploy` builds the site, uploads it to S3
-and invalidates CF cache.
+Use the provided Rakefile to upload the site and reset CF cache if needed.
 
 Run it like this:
 
 [source,sh]
 ----
+export AWS_PROFILE=ribose-open
 source ro-site.rc
-./scripts/deploy
+rake s3upload
 ----
 
 == Contributing
