@@ -1,2 +1,5 @@
-CF_DISTRIBUTION=$$(aws cloudfront list-distributions --query "DistributionList.Items[].{DomainName: DomainName, OriginDomainName: Origins.Items[0].DomainName, DistributionID: Id}[?contains(OriginDomainName, '$(HOSTNAME)')] | [0].DistributionID" | jq -r '.'); \
-aws cloudfront create-invalidation --distribution-id $${CF_DISTRIBUTION} --paths /\*
+#!/bin/bash
+
+CF_DISTRIBUTION=$(aws cloudfront list-distributions --query "DistributionList.Items[].{DomainName: DomainName, OriginDomainName: Origins.Items[0].DomainName, DistributionID: Id}[?contains(OriginDomainName, '${SITE_HOSTNAME}')] | [0].DistributionID" | jq -r '.')
+
+aws cloudfront create-invalidation --distribution-id ${CF_DISTRIBUTION} --paths /\*
