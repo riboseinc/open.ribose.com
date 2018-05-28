@@ -6,7 +6,9 @@ node() {
 
   stage 'D/L dependencies'
   withRvm('ruby-2.3.1') {
-    sh 'bundle'
+    sh 'ruby --version'
+    sh 'gem install bundle'
+    // sh 'bundle'
   }
 
   stage 'Build'
@@ -42,14 +44,14 @@ if (currentBuild.result == 'UNSTABLE') {
   }
 }
 
-def withRvm(version, cl) {
+def withRvm(String version, Closure cl) {
   withRvm(version, "executor-${env.EXECUTOR_NUMBER}") {
     cl()
   }
 }
 
-def withRvm(version, gemset, cl) {
-  RVM_HOME='$HOME/.rvm'
+def withRvm(String version, String gemset, Closure cl) {
+  final RVM_HOME='$HOME/.rvm'
   paths = [
     "$RVM_HOME/gems/$version@$gemset/bin",
     "$RVM_HOME/gems/$version@global/bin",
@@ -71,7 +73,8 @@ def withRvm(version, gemset, cl) {
     "IRBRC=$RVM_HOME/rubies/$version/.irbrc",
     "RUBY_VERSION=$version"
   ]) {
-    sh 'gem install bundler'
+    sh 'rvm info'
+    sh 'ruby --version'
     cl()
   }
 }
