@@ -1,13 +1,10 @@
-node('ecs-indigo.v46.highmem') {
+node('ecs') {
   deleteDir()
 
   stage 'Checkout'
   checkout scm
 
   stage 'D/L dependencies'
-  sh 'ruby --version'
-  sh 'pwd'
-  sh 'ls -la'
   sh 'gem install bundler'
   sh 'bundle'
 
