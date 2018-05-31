@@ -31,17 +31,17 @@ The site is hosted on AWS using S3 behind CloudFront (CF).
 
 === Getting started
 
-0. Make sure you have AWS CLI tools installed.
+. Make sure you have AWS CLI tools installed.
 
-1. Obtain from your operations contact an inventory .rc file relevant
-   to the environment you’re deploying.
-   
-   It would contain the variables such as S3_BUCKET, HOSTNAME, AWS_REGION,
-   CF_DISTRIBUTION. Do not version that file in the repository!
-   
-   We’ll assume that file is named ro-site.rc.
+. Obtain from your operations contact an inventory .rc file relevant
+to the environment you’re deploying.
++
+It would contain the variables such as S3_BUCKET, HOSTNAME, AWS_REGION,
+CF_DISTRIBUTION. Do not version that file in the repository!
++
+We’ll assume that file is named ro-site.rc.
 
-2. Add AWS profile to your ~/.aws/credentials. We’ll assume it’s called `ribose-open`.
+. Add AWS profile to your ~/.aws/credentials. We’ll assume it’s called `ribose-open`.
 
 === Deployment
 
