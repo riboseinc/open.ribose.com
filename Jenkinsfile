@@ -2,7 +2,7 @@ node("${env.NODE}") {
   currentBuild.result = "SUCCESS"
 
   try {
-    stage('Clena up') {
+    stage('Clean up') {
       deleteDir()
     }
 
