@@ -1,0 +1,25 @@
+stages:
+- build
+- deploy
+
+build:
+  stage: build
+  image: ruby:2.4.4
+  before_script:
+  - gem install jekyll bundler
+  - bundle --full-index
+  script:
+  - bundle exec jekyll build
+  artifacts:
+    paths:
+    - _site/
+
+deploy:
+  stage: deploy
+  image: python:latest
+  before_script:
+  - pip install awscli
+  script:
+  - aws s3 cp _site/ s3://$S3_BUCKET_NAME/ --recursive
+  after_script:
+  - rm -r _site
