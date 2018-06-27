@@ -9,6 +9,14 @@ $header-background: linear-gradient(135deg, $primary-dark-color 0%, #2864DD 100%
 $hero-background: linear-gradient(135deg, $primary-dark-color 0%, #2864DD 100%);
 $superhero-background: linear-gradient(135deg, $primary-dark-color 0%, #2864DD 100%);
 
+$hub-software--primary-color: #FAC174;
+$hub-software--primary-dark-color: #F0B464;
+$hub-software--hero-background: linear-gradient(135deg, $hub-software--primary-dark-color 0%, #F6C481 100%);
+
+$hub-specs--primary-color: #F38B93;
+$hub-specs--primary-dark-color: #EA7680;
+$hub-specs--hero-background: linear-gradient(135deg, $hub-specs--primary-dark-color 0%, #F58B94 100%);
+
 @import '{{ site.theme }}';
 
 .site-logo svg path {

@@ -2,6 +2,14 @@
 
 title: Ribose Open
 
+tagline: >-
+  Open source projects for developers and designers
+
+pitch: >-
+  Write open hub pitch here.
+  <br>
+  It will appear on home page hero unit.
+
 description: >-
   Write open hub description, mission, etc. here.
   It will appear in document head meta for search results, and elsewhere.
@@ -15,10 +23,12 @@ social:
     - https://github.com/riboseinc
 
 
-# Not expected to change further settings
+# Required by Open Project theme
 
 markdown: kramdown
 theme: jekyll-theme-open-project
+
+includes_dir: .
 
 collections:
   projects:
