@@ -16,7 +16,7 @@ task :default => ["serve:development"]
 
 desc "cleans the output directory"
 task :clean do
-  sh "jekyll clean"
+  sh "bundle exec jekyll clean"
 end
 
 namespace :deploy do
