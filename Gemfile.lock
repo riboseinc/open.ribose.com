@@ -73,6 +73,7 @@ GEM
     pathutil (0.16.1)
       forwardable-extended (~> 2.6)
     public_suffix (3.0.2)
+    rake (12.3.1)
     rb-fsevent (0.10.3)
     rb-inotify (0.9.10)
       ffi (>= 0.5.0, < 2)
@@ -101,6 +102,7 @@ DEPENDENCIES
   jekyll-seo-tag
   jekyll-theme-open-project (~> 1.0.0.pre3)
   jekyll-theme-open-project-helpers (~> 0.1.6)
+  rake
   tzinfo-data
 
 BUNDLED WITH
