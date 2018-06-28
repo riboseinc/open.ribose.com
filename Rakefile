@@ -57,12 +57,12 @@ namespace :build do
 
   desc "build development site"
   task :development => [:clean] do
-    sh "jekyll build --drafts"
+    sh "bundle exec jekyll build --drafts"
   end
 
   desc "build production site"
   task :production => [:clean] do
-    sh "JEKYLL_ENV=production jekyll build --config=_config.yml,_config_prod.yml"
+    sh "JEKYLL_ENV=production bundle exec jekyll build --config=_config.yml,_config_prod.yml"
   end
 end
 
@@ -70,12 +70,12 @@ namespace :serve do
 
   desc "serve development site"
   task :development => [:clean] do
-    sh "jekyll serve --drafts"
+    sh "bundle exec jekyll serve --drafts"
   end
 
   desc "serve production site"
   task :production => [:clean] do
-    sh "JEKYLL_ENV=production jekyll serve --config=_config.yml,_config_prod.yml"
+    sh "JEKYLL_ENV=production bundle exec jekyll serve --config=_config.yml,_config_prod.yml"
   end
 end
 
