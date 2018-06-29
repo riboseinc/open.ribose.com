@@ -59,7 +59,7 @@ GEM
       jekyll-data
       jekyll-seo-tag (~> 2.0)
       jekyll-theme-open-project-helpers (~> 1.0.0.pre)
-    jekyll-theme-open-project-helpers (1.0.0.pre)
+    jekyll-theme-open-project-helpers (1.0.0.pre2)
       git
       jekyll (~> 3.8.3)
     jekyll-watch (2.0.0)
@@ -108,7 +108,7 @@ DEPENDENCIES
   jekyll-feed (~> 0.6)
   jekyll-seo-tag
   jekyll-theme-open-project (~> 1.0.0.pre5)
-  jekyll-theme-open-project-helpers (~> 1.0.0.pre)
+  jekyll-theme-open-project-helpers (~> 1.0.0.pre2)
   tzinfo-data
 
 BUNDLED WITH
