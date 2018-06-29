@@ -1,3 +1,8 @@
+_projects/*/_specs
+_projects/*/_software
+_projects/*/_includes
+_projects/*/_posts
+
 # Project-specific
 .ruby-version
 node_modules/
