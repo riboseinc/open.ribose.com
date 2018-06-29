@@ -16,11 +16,11 @@ node("${env.NODE}") {
     }
 
     stage('Test') {
-      sh 'bundle exec rake test:production'
+      sh 'rake test:production'
     }
 
     stage('Build production') {
-      sh 'bundle exec rake build:production'
+      sh 'rake build:production'
     }
 
     stage('Deploy') {
