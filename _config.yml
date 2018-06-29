@@ -22,39 +22,8 @@ social:
     - https://twitter.com/RiboseUS
     - https://github.com/riboseinc
 
+is_hub: true
 
-# Required by Open Project theme
+permalink: /blog/:month-:day-:year/:title/
 
-markdown: kramdown
 theme: jekyll-theme-open-project
-
-includes_dir: .
-
-exclude:
-  - '*.yml'
-  - 'README.*'
-  - 'Gemfile*'
-  - 'Jenkinsfile'
-  - 'Rakefile'
-  - 'ro-site*'
-
-collections:
-  projects:
-    output: false
-  posts:
-    output: true
-    permalink: /blog/:month-:day-:year/:title/
-  pages:
-    output: true
-    permalink: /:name/
-
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: default
-  - scope:
-      path: _posts
-      type: posts
-    values:
-      layout: post
