@@ -22,6 +22,11 @@ social:
     - https://twitter.com/RiboseUS
     - https://github.com/riboseinc
 
+legal:
+  name: Ribose
+  tos_link: https://www.ribose.com/tos
+  privacy_policy_link: https://www.ribose.com/privacy
+
 is_hub: true
 
 permalink: /blog/:month-:day-:year/:title/
