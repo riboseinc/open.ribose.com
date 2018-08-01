@@ -1,0 +1,68 @@
+---
+layout: post
+title: "Building an open project network"
+date: 2018-07-31 00:00:00
+categories: ribose-open
+featured: true
+author:
+  name: Anton Strogonoff
+  email: anton@strogonoff.name
+excerpt: >-
+  Some details behind Ribose Open, and software that powers it.
+---
+
+See Welcome to Ribose Open! for a bit of general background about what this is.
+
+== How does it work?
+
+(TBD: Diagram)
+
+Simply speaking, Ribose Open is a network of Jekyll sites:
+there’s a top-level site (so-called “hub site”),
+and there’s a “project site” for each open project that’s part of this hub.
+Each project may include one or more open-source software packages or specifications.
+
+The hub site provides an index of its child open projects,
+as well as navigable indexes of software and specifications associated with those projects.
+Each project site, in turn, is responsible for providing software documentation
+and specification contents.
+
+Each site can have a blog that provides engineering updates;
+hub site displays a “combined” blog timeline
+that’s put together from each of its open project sites.
+
+== Linking multiple Jekyll sites at build stage
+
+(TBD: Build process)
+
+The entities within one hub are aware of each other.
+Where those entities interlink (such as when a project site needs to show the logo
+of its parent open hub or documentation pages of project’s software packages),
+Jekyll build will fetch the data from appropriate Git repos.
+
+Thanks to not duplicating content and, arguably, to not using Git submodules,
+site maintenance is simpler; and thanks to not using client-side XHR for loading data
+sites open faster with fewer HTTP requests, are more accessible and search engine friendly.
+
+== Open-source
+
+The software that powers Ribose Open is made available as Open Project framework.
+
+Together, the framework is responsible for the consistent look and feel to sites
+that are part of one open hub
+(with wustyling that can be individualized to an extent through SASS variables),
+and for the build system that takes care of pulling the data
+necessary to display each site.
+
+At this time, the framework consists of the Open Project Jekyll theme, its companion Jekyll plugin,
+and documentation for those gems.
+
+Most of the software powering the open hub site suite is available as open source software
+under MIT license. The only part that’s not yet public is the CI infrastructure
+that makes the sites deployed automatically (that infrastructure isn’t very complex,
+though, as most of the heavy-lifting is done at Jekyll build stage at plugin level).
+
+Using those as building blocks, you can bring up a similar “open hub” for your company.
+We’re working on improving the documentation for the framework,
+as well as bundling it in a way that is simpler to deploy
+(we’re leaning towards bundling a single Terraform configuration).
