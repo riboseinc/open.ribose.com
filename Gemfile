@@ -11,7 +11,7 @@ source "https://rubygems.org"
 gem "jekyll", "~> 3.8.3"
 
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
-gem "jekyll-theme-open-project", "~> 1.1.19"
+gem "jekyll-theme-open-project", "~> 1.1.20"
 #gem "jekyll-theme-open-project", :path => "../jekyll-theme-open-project"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
@@ -25,7 +25,7 @@ group :jekyll_plugins do
   gem "jekyll-data"
   gem "jekyll-asciidoc"
   gem "git"
-  gem "jekyll-theme-open-project-helpers", "~> 1.1.19"
+  gem "jekyll-theme-open-project-helpers", "~> 1.1.20"
   #gem "jekyll-theme-open-project-helpers", :path => "../jekyll-theme-open-project-helpers"
 end
 
