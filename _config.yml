@@ -30,3 +30,5 @@ is_hub: true
 permalink: /blog/:month-:day-:year/:title/
 
 theme: jekyll-theme-open-project
+
+url: https://open.ribose.com/
