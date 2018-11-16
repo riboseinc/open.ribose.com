@@ -14,7 +14,7 @@ $hero-background: linear-gradient(135deg, $primary-dark-color 0%, #2864DD 100%);
 $superhero-background: linear-gradient(135deg, $primary-dark-color 0%, #2864DD 100%);
 
 $hub-software--primary-color: #FAC174;
-$hub-software--primary-dark-color: #F0B464;
+$hub-software--primary-dark-color: darken(#F0B464, 20%);
 $hub-software--hero-background: linear-gradient(135deg, $hub-software--primary-dark-color 0%, #F6C481 100%);
 
 $hub-specs--primary-color: #F38B93;
