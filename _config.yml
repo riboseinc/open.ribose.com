@@ -33,6 +33,10 @@ theme: jekyll-theme-open-project
 
 url: https://open.ribose.com/
 
+algolia_search:
+  api_key: '40a5c3929d2f6d51c9a062d2bdf00c20'
+  index_name: 'prod_riboseopen'
+
 tag_namespaces:
   software:
     writtenin: "Written in"
