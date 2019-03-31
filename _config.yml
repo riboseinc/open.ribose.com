@@ -1,13 +1,12 @@
 # Open Project theme setup
 
-title: Ribose Open
+title: Open-source projects for developers and designers
+title_html: Open-source projects for&nbsp;developers and&nbsp;designers
 
 tagline: >-
-  Ribose Open
-
-pitch: >-
-  Open-source projects for developers<br>
-  and designers
+  <strong>Open-source projects</strong>
+  <br>
+  for&nbsp;developers and&nbsp;designers
 
 description: >-
   Open source projects for developers and designers

@@ -6,12 +6,9 @@
 $font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 
 $primary-color: #05C7DF;
-$primary-dark-color: #0446CC;
 $accent-color: #FF6357;
 
-$header-background: linear-gradient(135deg, $primary-dark-color 0%, #2864DD 100%);
-$hero-background: linear-gradient(135deg, $primary-dark-color 0%, #2864DD 100%);
-$superhero-background: linear-gradient(135deg, $primary-dark-color 0%, #2864DD 100%);
+$main-background: linear-gradient(135deg, #2864DD 0%, $primary-color 100%);
 
 $hub-software--primary-color: #FAC174;
 $hub-software--primary-dark-color: darken(#F0B464, 20%);
@@ -27,16 +24,39 @@ $hub-specs--hero-background: linear-gradient(135deg, $hub-specs--primary-dark-co
   fill: white;
 }
 
-.layout--home > .underlay.header {
-  overflow-x: hidden;
-
-  @media screen and (min-width: $widescreen-breakpoint) {
-    background:
-      repeat-x bottom center/auto 30px url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='80' height='10' viewBox='0 0 80 10'><polygon fill='white' points='0,0 28,0 35,10 45,10 52,0 80,0 80,10 0,10'/></svg>"),
-      $superhero-background;
+.site--hub.layout--home {
+  > main {
+    > .main-section {
+      > .title {
+        color: $main-font-color;
+      }
+    }
   }
+  > .underlay.header {
+    overflow-x: hidden;
 
-  .cta .button {
-    border-radius: 4px;
+    @media screen and (min-width: $bigscreen-breakpoint) {
+      .hero {
+        padding-bottom: 20px;
+      }
+    }
+    @media screen and (min-width: $widescreen-breakpoint) {
+      background:
+        repeat-x bottom center/auto 30px url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='80' height='10' viewBox='0 0 80 10'><polygon fill='white' points='0,0 28,0 35,10 45,10 52,0 80,0 80,10 0,10'/></svg>"),
+        $main-background;
+
+      .hero {
+        // To accommodate convex-concave SVG-based border
+        padding-bottom: 80px;
+      }
+    }
+
+    .hero .title {
+      font-weight: normal;
+    }
+
+    .cta .button {
+      border-radius: 4px;
+    }
   }
 }
