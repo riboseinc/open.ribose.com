@@ -61,7 +61,7 @@ namespace :build do
 
   desc "build production site"
   task :production => [:clean] do
-    sh "JEKYLL_ENV=production jekyll build --config=_config.yml,_config_prod.yml"
+    sh "JEKYLL_ENV=production jekyll build --config=_config.yml"
   end
 end
 
