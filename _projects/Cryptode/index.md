@@ -1,7 +1,6 @@
 ---
 title: Cryptode
 description: CLI VPN manager for macOS. Formerly known as RVC.
-featured: true
 home_url: https://www.cryptode.com/
 tags: [C]
 site:
