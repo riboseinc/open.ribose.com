@@ -6,7 +6,7 @@ rvm:
 before_script:
 - bundle
 script:
-- bundle exec rake build:production
+- bundle exec rake test:production && rake build:production
 install:
 - pip install --user awscli
 deploy:
