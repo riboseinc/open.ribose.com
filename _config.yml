@@ -14,6 +14,10 @@ description: >-
 seo:
   type: Organization
 
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
 social:
   links:
     - https://twitter.com/RiboseUS
