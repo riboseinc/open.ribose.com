@@ -37,4 +37,4 @@ gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # For testing generated HTML pages and links
 gem "rake"
-gem "html-proofer", "= 3.9.2"
+gem "html-proofer"
