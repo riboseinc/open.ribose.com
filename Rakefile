@@ -2,7 +2,6 @@ require 'html-proofer'
 
 $outputDir = "./_site"
 $testOpts = {
-  :assume_extension => true,
   # Ignore errors "linking to internal hash # that does not exist"
   :url_ignore => ["#"],
   # Allow empty alt tags (e.g. alt="") as these represent presentational images
