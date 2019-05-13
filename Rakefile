@@ -5,7 +5,7 @@ $testOpts = {
   :verbose => true,
   :log_level => :debug,
   # Ignore errors "linking to internal hash # that does not exist"
-  :url_ignore => ["#"],
+  :url_ignore => ["#", "https://www.ribose.com/privacy", "https://www.ribose.com/tos"],
   # Allow empty alt tags (e.g. alt="") as these represent presentational images
   :empty_alt_ignore => true
 }
