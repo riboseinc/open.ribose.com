@@ -22,6 +22,7 @@ gem "jekyll-theme-open-project", "~> 2.0.9"
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.6"
   gem "jekyll-seo-tag"
+  gem "jekyll-sitemap"
   gem "jekyll-data"
   gem "jekyll-asciidoc"
   gem "git"
