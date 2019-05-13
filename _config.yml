@@ -34,7 +34,7 @@ permalink: /blog/:month-:day-:year/:title/
 
 theme: jekyll-theme-open-project
 
-url: https://open.ribose.com/
+url: https://open.ribose.com
 
 algolia_search:
   api_key: '40a5c3929d2f6d51c9a062d2bdf00c20'
