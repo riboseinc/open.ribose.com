@@ -1,7 +1,6 @@
 ---
 title: Nereon
 description: Specification for application configuration and logging.
-featured: true
 home_url: https://www.nereon.com/
 tags: [C, Rust]
 site:
