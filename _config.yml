@@ -50,10 +50,32 @@ tag_namespaces:
     audience: "Audience"
     completion_status: "Status"
 
+# This has to be duplicated from jekyll-theme-open-project gem.
+includes_dir: .
+
+collections:
+  projects:
+    output: true
+  software:
+    output: true
+    permalink: /software/:path/
+  specs:
+    output: true
+    permalink: /specs/:path/
+  posts:
+    output: true
+    permalink: /blog/:month-:day-:year/:title/
+  pages:
+    output: true
+    permalink: /:name/
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
 exclude:
+  - _projects/**/assets/css/*.scss
+  - _projects/**/_software/_*_repo/*
+  - _projects/**/_specs/**/*
   - Gemfile
   - Gemfile.lock
   - node_modules
