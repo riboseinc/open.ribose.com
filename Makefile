@@ -6,10 +6,10 @@ clean:
 	bundle exec jekyll clean
 
 _site:
-	bundle exec rake build:development
+	bundle exec jekyll build --trace
 
 serve:
-	bundle exec rake serve:development
+	bundle exec jekyll serve --trace
 
 update-init:
 	git submodule update --init

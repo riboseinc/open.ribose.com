@@ -30,12 +30,12 @@ jobs:
       - uses: actions/checkout@master
       - name: Update gems
         run: |
-          gem install bundler -v "~> 2"
+          gem install bundler
           bundle install --jobs 4 --retry 3
       # - name: Test site
       #   run: |
       #     bundle exec rake test:production
       - name: Build site
         run: |
-          bundle exec rake build:production
+          make _site
 

@@ -5,5 +5,5 @@ featured: true
 home_url: "https://www.rnpgp.com/"
 tags: [Ruby, Go, C++, RFC]
 site:
-  git_repo_url: "https://github.com/riboseinc/rnpgp.com"
+  git_repo_url: "https://github.com/rnpgp/rnpgp.com"
 ---

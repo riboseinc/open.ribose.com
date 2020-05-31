@@ -5,6 +5,6 @@ home_url: https://www.relaton.com/
 featured: true
 tags: [Ruby]
 site:
-  git_repo_url: "https://github.com/riboseinc/relaton.com"
+  git_repo_url: "https://github.com/relaton/relaton.com"
 ---
 
