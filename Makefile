@@ -1,9 +1,20 @@
 SHELL := /bin/bash
 
-clean:
-	rm -rf _projects/*/.git; \
-	rm -rf _projects/*/_software/*/.git; \
-	rm -rf _projects/*/_specs/*/.git; \
-	git clean -xdf
+all: _site
 
-.PHONY: clean
+clean:
+	bundle exec jekyll clean
+
+_site:
+	bundle exec rake build:development
+
+serve:
+	bundle exec rake serve:development
+
+update-init:
+	git submodule update --init
+
+update-modules:
+	git submodule foreach git pull origin master
+
+.PHONY: all clean serve update-init update-modules

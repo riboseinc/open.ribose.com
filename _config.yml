@@ -49,3 +49,22 @@ tag_namespaces:
   specs:
     audience: "Audience"
     completion_status: "Status"
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Makefile
+  - Rakefile
+  - monitor.sh
+  - README.adoc
+  - babel.config.js
+  - package.json
+  - package-lock.json
