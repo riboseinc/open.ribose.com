@@ -4,6 +4,7 @@ all: _site
 
 clean:
 	bundle exec jekyll clean
+	rm -rf _projects/*/_specs _projects/*/_software _projects/*/assets _projects/*/_posts _site .jekyll-cache
 
 _site:
 	bundle exec jekyll build --trace
