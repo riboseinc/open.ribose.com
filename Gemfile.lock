@@ -57,13 +57,13 @@ GEM
       jekyll (>= 3.8, < 5.0)
     jekyll-sitemap (1.4.0)
       jekyll (>= 3.7, < 5.0)
-    jekyll-theme-open-project (2.1.5)
+    jekyll-theme-open-project (2.1.6)
       git (~> 1.4)
       jekyll (~> 4.1.1)
       jekyll-data (~> 1.0)
       jekyll-seo-tag (~> 2.0)
-      jekyll-theme-open-project-helpers (= 2.1.4)
-    jekyll-theme-open-project-helpers (2.1.4)
+      jekyll-theme-open-project-helpers (= 2.1.5)
+    jekyll-theme-open-project-helpers (2.1.5)
       fastimage (~> 2.1.4)
       git (~> 1.4)
       jekyll (~> 4.0)
@@ -81,7 +81,9 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.4.0)
-    nokogiri (1.11.1-x86_64-darwin)
+    nokogiri (1.11.4-x86_64-darwin)
+      racc (~> 1.4)
+    nokogiri (1.11.4-x86_64-linux)
       racc (~> 1.4)
     nokogumbo (2.0.4)
       nokogiri (~> 1.8, >= 1.8.4)
@@ -110,6 +112,7 @@ GEM
 
 PLATFORMS
   x86_64-darwin-19
+  x86_64-linux
 
 DEPENDENCIES
   git
@@ -120,8 +123,8 @@ DEPENDENCIES
   jekyll-redirect-from
   jekyll-seo-tag
   jekyll-sitemap
-  jekyll-theme-open-project
-  jekyll-theme-open-project-helpers
+  jekyll-theme-open-project (~> 2.1.6)
+  jekyll-theme-open-project-helpers (~> 2.1.5)
   kramdown-parser-gfm
   kramdown-syntax-coderay
   rake
