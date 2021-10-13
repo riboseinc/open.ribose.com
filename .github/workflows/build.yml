@@ -5,36 +5,24 @@ on:
     branches:
       - '*'         # matches every branch
       - '*/*'       # matches every branch containing a single '/'
-      - '!master'   # excludes master
-      - '!staging'   # excludes master
+      - '!main'     # excludes main
+      - '!staging'  # excludes staging
 
 jobs:
   build:
     name: Build site
     runs-on: ubuntu-latest
     steps:
-      - name: Setup prerequisites
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y curl make libxml2-dev libxslt-dev openssl
-      - name: Setup snaps
-        run: |
-          sudo snap install yq
-          sudo snap install aws-cli --classic
-          sudo snap install node --classic --channel=10/stable
-      - name: Use Ruby
-        uses: actions/setup-ruby@v1
+      - uses: actions/checkout@v2
+
+      - uses: actions/setup-node@v2
         with:
-          ruby-version: '2.6'
-          architecture: 'x64'
-      - uses: actions/checkout@master
-      - name: Update gems
-        run: |
-          gem install bundler
-          bundle install --jobs 4 --retry 3
-      # - name: Test site
-      #   run: |
-      #     bundle exec rake test:production
+          node-version: '14'
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: 3.0
+          bundler-cache: true
+
       - name: Build site
         run: |
           make _site
