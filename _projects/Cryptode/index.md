@@ -5,5 +5,4 @@ home_url: https://www.cryptode.com/
 tags: [C]
 site:
   git_repo_url: "https://github.com/cryptode/cryptode.com"
-  git_repo_branch: master
 ---
