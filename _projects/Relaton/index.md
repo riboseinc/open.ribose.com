@@ -6,6 +6,6 @@ featured: true
 tags: [Ruby]
 site:
   git_repo_url: "https://github.com/relaton/relaton.org"
-  git_repo_branch: master
+  git_repo_branch: main
 ---
 
