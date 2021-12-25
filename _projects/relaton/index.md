@@ -1,7 +1,7 @@
 ---
 title: Relaton
 description: Bibliographic information repository.
-home_url: https://www.relaton.org
+home_url: https://www.relaton.org/
 featured: true
 tags: [Ruby]
 site:
