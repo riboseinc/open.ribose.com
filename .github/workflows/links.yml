@@ -1,6 +1,10 @@
 name: links
 
 on:
+  push:
+    branches:
+      - main
+      - staging
   repository_dispatch:
   workflow_dispatch:
   schedule:
