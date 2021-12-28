@@ -23,7 +23,8 @@ jobs:
 
       - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: 3.0
+          # Due to https://github.com/actions/runner/issues/849, we have to use quotes for '3.0'
+          ruby-version: '3.0'
           bundler-cache: true
 
       - name: Build site
