@@ -3,10 +3,9 @@ name: build
 on:
   push:
     branches:
-      - '*'         # matches every branch
-      - '*/*'       # matches every branch containing a single '/'
       - '!main'     # excludes main
       - '!staging'  # excludes staging
+  pull_request:
 
 jobs:
   build:
