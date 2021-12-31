@@ -15,29 +15,29 @@ jobs:
   link_checker:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+      - uses: actions/checkout@v2
 
-    - uses: ruby/setup-ruby@v1
-      with:
-        ruby-version: '3.1'
-        bundler-cache: true
+      - uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.1'
+          bundler-cache: true
 
-    - name: Build site
-      env:
-        JEKYLL_ENV: production
-      run: make _site
+      - name: Build site
+        env:
+          JEKYLL_ENV: production
+        run: make _site
 
-    - name: Link Checker
-      uses: lycheeverse/lychee-action@v1.2.0
-      with:
-        args: --verbose --no-progress --exclude-file .lycheeignore -- _site/**/*.html
-        fail: true
-      env:
-        GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+      - name: Link Checker
+        uses: lycheeverse/lychee-action@v1.2.0
+        with:
+          args: --verbose --no-progress --exclude-file .lycheeignore -- _site/**/*.html
+          fail: true
+        env:
+          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
 
-    - name: Create Issue From File
-      uses: peter-evans/create-issue-from-file@v2
-      with:
-        title: Link Checker Report
-        content-filepath: ./lychee/out.md
-        labels: report, automated issue
+      - name: Create Issue From File
+        uses: peter-evans/create-issue-from-file@v2
+        with:
+          title: Link Checker Report
+          content-filepath: ./lychee/out.md
+          labels: report, automated issue
