@@ -1,0 +1,81 @@
+---
+layout: post
+title:  "RA-2023-04-11: Security vulnerabilities fixed in RNP 0.16.3"
+date: 2023-04-11
+categories: advisory
+id: RA-2023-04-11
+cve_id: CVE-2021-33589
+excerpt: >-
+  This advisory notice covers the following: CVE-2023-29479 and
+  CVE-2023-29480.
+---
+= RA-2023-04-11: Security vulnerabilities fixed in RNP 0.16.3
+
+== Metadata
+
+ID:: RA-2023-05-30
+
+This advisory notice covers the following:
+
+* <<CVE-2023-29479>>
+* <<CVE-2023-29480>>
+
+[[CVE-2023-29479]]
+== CVE-2023-29479
+
+link:/cves/CVE-2023-29479.json[download as CVE JSON 5.0^]
+
+Name:: Hang when processing certain OpenPGP messages
+Link:: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-29479[CVE-2023-29479^]
+Problem:: https://cwe.mitre.org/data/definitions/400.html[CWE-400^] Uncontrolled Resource Consumption
+Impact:: https://capec.mitre.org/data/definitions/607.html[CAPEC-607^] Obstruction
+Affected vendors:: Ribose
+Affected products:: https://www.rnpgp.org[RNP^], from versions 0.16.1 through 0.16.2
+
+=== Vulnerability details
+
+Certain malformed OpenPGP messages could trigger incorrect parsing of
+PKESK/SKESK packets causing the library to hang.
+
+
+=== Additional details
+
+Upgrading to https://www.rnpgp.org[RNP^] 0.16.3 fixes this issue.
+
+Affected versions are used by https://www.thunderbird.net[Thunderbird^] up to
+version 102.9.1, which would cause the Thunderbird user interface to hang.
+
+
+=== Credits
+
+- Ribose RNP Team (finder, reporter)
+- https://google.github.io/oss-fuzz/[oss-fuzz^] (tool)
+
+
+[[CVE-2023-29480]]
+== CVE-2023-29480
+
+link:/cves/CVE-2023-29480.json[download as CVE JSON 5.0^]
+
+Name:: Secret keys remain unlocked after usage in certain cases
+Link:: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2023-29480[CVE-2023-29480^]
+Problem:: https://cwe.mitre.org/data/definitions/922.html[CWE-922^] Insecure Storage of Sensitive Information
+Impact:: https://capec.mitre.org/data/definitions/37.html[CAPEC-37^] Retrieve Embedded Sensitive Data
+Affected vendors:: Ribose
+Affected products:: https://www.rnpgp.org[RNP^], from versions 0.16.1 through 0.16.2
+
+=== Vulnerability details
+
+In certain cases, some secret keys remain unlocked after usage, due to the
+premature destruction of an unnamed KeyLocker before it was able to re-lock
+keys.
+
+
+=== Additional details
+
+Upgrading to https://www.rnpgp.org[RNP^] 0.16.3 fixes this issue.
+
+=== Credits
+
+- Falko Strenzke (https://github.com/falko-strenzke[@falko-strenzke^])
+  (reporter)

@@ -27,6 +27,10 @@ legal:
   name: Ribose Group Inc.
   tos_link: https://www.ribose.com/tos
   privacy_policy_link: https://www.ribose.com/privacy
+  security_advisories_link: /advisories/
+  disclosure_policy_link: /cve-policy/
+  security_feedback_link: /feedback/
+
 
 is_hub: true
 
@@ -68,6 +72,9 @@ collections:
   pages:
     output: true
     permalink: /:name/
+  advisories:
+    output: true
+    permalink: /advisories/:slug/
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

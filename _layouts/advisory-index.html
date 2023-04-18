@@ -1,0 +1,16 @@
+---
+layout: default
+---
+{% assign advisories = site.advisories | reverse %}
+
+<section class="items">
+  {% if site.is_hub %}
+    {% include assets/symbol.svg %}
+  {% endif %}
+
+  {% for item in advisories %}
+    {% assign can_be_featured = false %}
+
+    {% include post-card.html post=item can_be_featured=can_be_featured %}
+  {% endfor %}
+</section>

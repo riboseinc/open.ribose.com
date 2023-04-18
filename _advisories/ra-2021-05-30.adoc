@@ -1,0 +1,83 @@
+---
+layout: post
+title:  "RA-2021-05-30: Security vulnerabilities fixed in RNP 0.15.1"
+date: 2021-05-30
+categories: advisory
+id: RA-2021-05-30
+cve_id: CVE-2021-33589
+excerpt: >-
+  This advisory notice covers the following: CVE-2021-33589.
+---
+:page-liquid:
+
+= RA-2021-05-30: Security vulnerabilities fixed in RNP 0.15.1
+
+(was: RI-2021-001)
+
+== Metadata
+
+ID:: RA-2021-05-30
+
+This advisory notice covers the following:
+
+* <<CVE-2021-33589>>
+
+
+[[CVE-2021-33589]]
+== CVE-2021-33589
+
+link:/cves/CVE-2021-33589.json[download as CVE JSON 5.0^]
+
+Name:: Key protection settings not copied after unprotect action
+Affected vendors:: Ribose
+Affected products:: https://www.rnpgp.org[RNP^], versions prior to 0.15.1
+
+=== Abstract
+
+A key decrypted through `rnp_key_unprotect` will remain unprotected
+after after a subsequent call of `rnp_key_protect`.
+
+
+=== Vulnerability details
+
+This issue was discovered in Thunderbird versions 78.8.1 to 78.10.1,
+where it was found that a key decrypted through `rnp_key_unprotect`
+will remain unprotected after after a subsequent call of
+`rnp_key_protect`.
+
+This issue was the cause of https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-29956[CVE-2021-29956^]
+which is described in https://bugzilla.mozilla.org/show_bug.cgi?id=1710290#c0[Bugzilla Bug 1710290^].
+
+In RNP versions prior to 0.15.1, calling `rnp_key_protect` on a
+key that was "`unprotected`" by `rnp_key_unprotect` will not result
+in a re-protected key, as:
+
+* `rnp_key_unlock` is designed to temporarily decrypt secret key data to
+  make the secret key usable. This call does not overwrite key protection
+  settings.
+
+* `rnp_key_unprotect` decrypts key data and overwrites key protection
+  settings, and stores key data in unprotected form.
+
+In the aforementioned scenario, due to the call sequence of calling
+`rnp_key_unprotect` and then `rnp_key_protect`, the key protection
+settings were not properly copied within RNP, leaving key material in the clear.
+This would not happen if the key underwent `rnp_key_unlock`, then
+`rnp_key_protect` instead.
+
+
+=== Additional details
+
+From https://www.rnpgp.org[RNP^] 0.15.1 and onwards `rnp_key_protect` implements re-protection
+for keys that have been "`unprotected`" by `rnp_key_unprotect`.
+
+Upgrading to https://www.rnpgp.org[RNP^] 0.15.1 fixes this issue. If unprotected keys have
+been saved outside of https://www.rnpgp.org[RNP^], a re-protection step needs to apply.
+
+For https://www.thunderbird.net[Thunderbird^] users, auto-re-protection has been implemented in the
+latest release. Please refer to https://bugzilla.mozilla.org/show_bug.cgi?id=1710290#c0[Bugzilla Bug 1710290^]
+for more details.
+
+=== Credits
+
+- Kai Engert (https://www.mozilla.org[Mozilla^]) and Thunderbird users.

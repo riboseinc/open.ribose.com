@@ -1,0 +1,33 @@
+---
+layout: article
+title: Feedback and security reports
+permalink: /feedback/
+---
+== Feedback and security reports
+
+We love to hear from you!
+
+=== General feedback and bugs on Ribose open source projects
+
+For general issues or bugs on our open source projects, please enter them at
+their respective GitHub public issue tracker:
+
+RNP:: https://github.com/rnpgp/rnp/issues
+
+Metanorma:: https://github.com/metanorma/metanorma/issues
+
+NOTE: The GitHub issue trackers are publicly viewable. Please report security
+issues via dedicated channels.
+
+=== Security reporting
+
+For reporting security vulnerabilities or security bugs, or bugs with sensitive
+content, please report them via the following link:
+
+* https://www.ribose.com/security/feedback[Ribose Security Feedback form]
+
+We will respond to your report within 1 working day.
+Your response will be kept confidential unless instructed otherwise.
+
+NOTE: We may have to contact you via separate channels
+in order to verify the report.
