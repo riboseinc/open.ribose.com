@@ -1,6 +1,6 @@
 _projects/*/_specs
 _projects/*/_software
-_projects/*/assets
+# _projects/*/assets
 _projects/*/_posts
 
 # Project-specific
