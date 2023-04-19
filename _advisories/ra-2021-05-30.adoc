@@ -29,6 +29,13 @@ This advisory notice covers the following:
 link:/cves/CVE-2021-33589.json[download as CVE JSON 5.0^]
 
 Name:: Key protection settings not copied after unprotect action
+Link:: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2021-33589[CVE-2021-33589^]
+Problem::
+  - https://cwe.mitre.org/data/definitions/522.html[CWE-522^] Insufficiently
+    Protected Credentials
+  - https://cwe.mitre.org/data/definitions/922.html[CWE-922^] Insecure Storage
+    of Sensitive Information
+Impact:: https://capec.mitre.org/data/definitions/37.html[CAPEC-37^] Retrieve Embedded Sensitive Data
 Affected vendors:: Ribose
 Affected products:: https://www.rnpgp.org[RNP^], versions prior to 0.15.1
 
