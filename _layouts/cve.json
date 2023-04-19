@@ -1,5 +1,4 @@
 ---
 layout: null
 ---
-{% capture cve_id %}{{ page.path | replace: ".json", "" | replace: "cves/", ""}}{% endcapture %}
-{{ site.data.cves[cve_id] | jsonify }}
+{% capture cve_id %}{{ page.path | replace: ".json", "" | replace: "cves/", ""}}{% endcapture %}{{ site.data.cves[cve_id] | jsonify }}
