@@ -31,6 +31,16 @@ legal:
   disclosure_policy_link: /cve-policy/
   security_feedback_link: /feedback/
 
+# AsciiDoc / AsciiDoctor
+# https://github.com/asciidoctor/jekyll-asciidoc#configuration
+#
+asciidoc:
+  processor: asciidoctor
+  ext: asciidoc,adoc,ad
+  # page_attribute_prefix: jekyll
+  require_front_matter_header: true
+
+asciidoctor: {}
 
 is_hub: true
 
