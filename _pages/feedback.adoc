@@ -1,32 +1,23 @@
 ---
 layout: article
 title: Feedback and security reports
+revision_date: 2023-11-15
+revision_date_template: "Last revised on: {{ revision_date | date: '%b %d, %Y' }}"
 permalink: /feedback/
+hero_include: index-page-hero.html
 ---
-== Feedback and security reports
 
-We love to hear from you!
+== We'd love to hear from you!
 
 === General feedback and bugs on Ribose open source projects
 
-For general issues or bugs on our open source projects, please enter them at
-their respective GitHub public issue tracker:
+For general issues or bugs on our open source projects,
+please enter them at their respective GitHub public issue tracker,
+_e.g.,_ https://github.com/rnpgp/rnp/issues
 
-RNP:: https://github.com/rnpgp/rnp/issues
+NOTE: The GitHub issue trackers are publicly viewable.
+Please report security issues via link:/cve-policy[dedicated channels].
 
-Metanorma:: https://github.com/metanorma/metanorma/issues
+=== Security feedback
 
-NOTE: The GitHub issue trackers are publicly viewable. Please report security
-issues via dedicated channels.
-
-=== Security reporting
-
-For reporting security vulnerabilities or security bugs, or bugs with sensitive
-content, please report them via the following email:
-
-* security.reports@ribose.com
-
-Your response will be kept confidential unless instructed otherwise.
-
-NOTE: We may have to contact you via separate channels
-in order to verify the report.
+Please refer to link:/cve-policy[our Disclosure Policy].
