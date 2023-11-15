@@ -22,9 +22,9 @@ issues via dedicated channels.
 === Security reporting
 
 For reporting security vulnerabilities or security bugs, or bugs with sensitive
-content, please report them via the following link:
+content, please report them via the following email:
 
-* https://www.ribose.com/security/feedback[Ribose Security Feedback form]
+* security.reports@ribose.com
 
 We will respond to your report within 1 working day.
 Your response will be kept confidential unless instructed otherwise.
