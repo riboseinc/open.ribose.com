@@ -26,7 +26,6 @@ content, please report them via the following email:
 
 * security.reports@ribose.com
 
-We will respond to your report within 1 working day.
 Your response will be kept confidential unless instructed otherwise.
 
 NOTE: We may have to contact you via separate channels
