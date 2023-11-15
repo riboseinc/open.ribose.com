@@ -1,0 +1,14 @@
+---
+title: Terms of Service
+description: Ribose Terms of Service
+revision_date: 2023-11-15
+revision_date_template: "Last revised on: {{ revision_date | date: '%b %d, %Y' }}"
+permalink: /tos/
+layout: page
+hero_include: index-page-hero.html
+---
+:page-liquid:
+
+== Under construction
+
+Relevant issue: https://github.com/riboseinc/open.ribose.com/issues/142[^]

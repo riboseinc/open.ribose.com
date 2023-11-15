@@ -25,8 +25,8 @@ social:
 
 legal:
   name: Ribose Group Inc.
-  tos_link: https://www.ribose.com/tos
-  privacy_policy_link: https://www.ribose.com/privacy
+  tos_link: /tos/
+  privacy_policy_link: /privacy/
   security_advisories_link: /advisories/
   disclosure_policy_link: /cve-policy/
   security_feedback_link: /feedback/

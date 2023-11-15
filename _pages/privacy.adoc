@@ -1,0 +1,16 @@
+---
+title: Privacy Policy
+description: Ribose Open Privacy Policy.
+revision_date: 2023-11-15
+revision_date_template: "Last revised on: {{ revision_date | date: '%b %d, %Y' }}"
+permalink: /privacy/
+layout: page
+hero_include: index-page-hero.html
+---
+:page-liquid:
+
+== Under construction
+
+Relevant issue: https://github.com/riboseinc/open.ribose.com/issues/142[^]
+
+In short, we don't collect any information from you.
