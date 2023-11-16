@@ -1,7 +1,7 @@
 ---
 title: Terms of Service
 description: Ribose Terms of Service
-revision_date: 2023-11-15
+revision_date: 2023-11-16
 revision_date_template: "Last revised on: {{ revision_date | date: '%b %d, %Y' }}"
 permalink: /tos/
 layout: page
@@ -9,6 +9,430 @@ hero_include: index-page-hero.html
 ---
 :page-liquid:
 
-== Under construction
+== Terms
 
-Relevant issue: https://github.com/riboseinc/open.ribose.com/issues/142[^]
+. Ribose is the sole owner of the Ribose products,
+software, services and web sites ("Services") of Ribose Inc. (a
+British Virgin Islands corporation) ("Ribose", "we" or "us").
+
+. Set out below are terms and conditions for use of the Services ("General
+Terms").
+
+. Additional legal notices and/or terms may be applicable to certain Services
+("Additional Terms").
+
+. The General Terms and the Additional Terms collectively form a legally binding
+agreement between you and Ribose ("Terms"). Additional Terms
+take precedence for any conflicts between the Additional Terms and General
+Terms for that particular Service which the Additional Terms apply to.
+
+== Acceptance
+
+. Your usage of the Services constitutes your agreement to be bound by the Terms.
+Clicking to accept or agree to the Terms also signifies your acceptance of the
+Terms.
+
+. You are advised to check the General Terms periodically for updates, as your
+continued use of the Services signifies your acceptance of any changed items.
+General Terms can be found at link:{% link _pages/tos.adoc %}[Terms of Service].
+
+== Provision of Services
+
+. Ribose subsidiaries and affiliated legal entities
+("Subsidiaries and Affiliates") may provide the Services to you on behalf of
+Ribose. You acknowledge and agree that Subsidiaries and
+Affiliates will be entitled to provide the Services to you.
+
+
+. Ribose is committed to providing the best experience for users.
+You acknowledge and agree that the form and nature of the Services may change
+from time to time without prior notice to you.
+
+. Ribose may temporarily or permanently stop providing the Services
+in part or in full to you at Ribose's sole discretion without
+prior notice. You may stop using the Services at any time without needing to
+specifically inform Ribose.
+
+. You acknowledge and agree that if Ribose disables access to your
+account, you may be prevented from accessing the Services, your account details
+or any content associated with your account.
+
+. You acknowledge and agree that while Ribose may not currently
+have set limits on transactions or capacity on the Services, such limits may be
+set or changed by Ribose at any time, at Ribose's
+sole discretion without prior notice.
+
+. Data provided by you to Ribose may be classified according to
+type and origin. You represent and warrant that you will not use the Services
+for any purposes prohibited by any laws or regulations applicable to the data
+relating to your use of the Services, and you agree that your use of the
+Services and any Content is solely at your own risk.
+
+== Intellectual Property
+
+. You acknowledge and agree that Ribose own all legal right, title
+and interest in and to the Services, including any intellectual property rights
+that subsist in the Services. Such rights belong to Ribose
+globally where such rights exist and regardless of the status of registration
+of those rights.
+
+. The Services may contain information designated confidential by
+Ribose.  You agree that you shall not disclose such information
+without Ribose's prior written consent.
+
+. The Services and all of its contents (articles, text, photographs, images,
+illustrations, graphics, video material, audio material, and software —
+collectively, the "intellectual property"), are protected by patent,
+copyright, trademark and other laws or various countries and international
+conventions. The intellectual property is owned or controlled by
+Ribose. The Services are protected by patents and inventions
+("Patents and Inventions").  Additionally, the Services itself is
+protected by copyright as a collective work and/or compilation.
+
+. No portion of the Services may be reproduced, duplicated, copied, sold, or
+otherwise exploited for any commercial purpose that is not expressly permitted
+by Ribose.
+
+. Except as expressly set forth in the Terms, you may not copy, download,
+display, distribute, publish, enter into a database, perform, modify, create
+derivative works, transmit, post, decompile, reverse engineer, disassemble or
+in any way exploit any of our intellectual property or the Services itself, or
+any part thereof.
+
+. You agree that you shall not remove, obscure, or alter any proprietary rights
+notices (including copyright and trade mark notices) that may be affixed to or
+contained within the Services.
+
+. The Ribose name and Ribose-branded seals, logos,
+and related marks are registered trademarks/design marks of
+Ribose, or otherwise unregistered marks that carry the goodwill
+of Ribose. All rights reserved. Nothing in the Terms gives you
+rights to use any of Ribose's trade names, trade marks, service
+marks, logos, domain names, and other distinctive brand features.
+
+. If you have been explicitly permitted by Ribose by a separate
+written agreement to use any of these brand features, you agree that your use
+of such features will comply with that agreement, the Terms, and
+Ribose's brand feature guidelines. Ribose's brand
+features guidelines can be requested by sending an email to
+{{ site.emails.support }}.
+
+.. directly or indirectly challenge the validity, enforceability, or scope of
+coverage of the Patents and Inventions or any patent or patent application
+arising out of or from the Patents and Inventions in any jurisdiction, and,
+without limiting the generality of the foregoing, agrees not to interfere with
+the examination procedures or commence or participate in any opposition
+procedures or judicial nullity action, whether complete or partial, with
+respect to the Patents and Inventions; or
+
+.. file, or cause to be filed, any patent application based upon or arising out of
+the Patents and Inventions including, without limitation, any improvement
+patent applications or patents based on or related to the Patents and
+Inventions or any patent applications or patents that design around the Patents
+and Inventions.  Any invention that is based upon or arises out of the Patents
+and Inventions shall be owned solely by Ribose and you agree to
+assign any such invention to Ribose.
+
+== Account information and security
+
+. You may be required to provide information about yourself ("Personal
+Information") in order to access certain Services or for continued use of
+the Services. Such information may be requested as part of the registration
+process for the Services or through your continued use of the Services. You
+agree that Personal Information you provide to Ribose will always
+be accurate, correct and up to date.
+
+. You agree and understand that you are solely responsible for access control to
+your account, including keeping confidential of access credentials to your
+account for access to the Services. Consequently, you agree that you are solely
+responsible to Ribose for all activities that occur under your
+account.
+
+. If you are aware of any unauthorized use of your account or your access
+credentials, you agree to notify Ribose immediately at
+{{ site.emails.support }}.
+
+. You agree to the use of your data in accordance with Ribose's
+Privacy policy. Ribose's Privacy policy is located at
+link:{% link _pages/privacy.adoc %}[Privacy Notice].
+
+== Proper Use
+
+. You may not use the Services for any purpose that is unlawful or prohibited by
+the Terms, or cause damage on or through the Services. You promise that none of
+your actions on or through the Services will violate any applicable local,
+state, national or international law, regulation, generally accepted
+practices or guidelines.
+
+. You agree to only access the Services through interfaces provided by
+Ribose unless you have been specifically allowed to do so under a
+separate agreement with Ribose. You agree not to access or
+attempt to access the Services using automated means including through scripts
+and crawlers.
+
+. You agree that you will not engage or attempt to engage in any activity that
+interferes with or disrupts the Services or any part of that support,
+constitute or facilitate the Services.
+
+. You agree to defend, indemnify and hold Ribose, its officers,
+directors, employees, agents, licensors, business associates, and suppliers
+harmless from and against any actual or threatened claims, actions or
+demands, liabilities and settlements including, without limitation,
+reasonable legal and accounting fees, resulting from, or alleged to result
+from, your use of the Services in a manner that violates or is alleged to
+violate the Terms or any applicable law.
+
+== Content
+
+. Information accessible as part of or through your use of the Services may
+originate from a third party other than Ribose ("Content").
+Such Content is the sole responsibility of the party whom such content is
+originated from. Ribose makes no representation, recommendation
+or warranty of any kind on such Content and accepts no responsibility or
+liability in respect of any part of such Content.
+
+. You understand that certain Content presented in or through the Services,
+including advertisements and sponsored content, may be intellectual property
+owned by third parties who provide such Content to Ribose. You
+agree not to modify, rent, lease, loan, sell, distribute or create derivative
+works based on this Content in whole or in part unless you have been authorized
+to do so by the owners of that Content.
+
+. Ribose reserves the right to screen, filter, review, modify,
+refuse or remove any Content from the Services.
+
+== Your content
+
+. Ribose obtains no right, title or interest from you (or your
+licensors) under the Terms or to any Content that you submit, post or
+display on or through the Services other than the limited license stated below.
+You agree that you are solely responsible for protecting and enforcing your
+rights and Ribose has no obligation to do so on your behalf.
+
+. You agree that you are solely responsible for (and that Ribose
+has no responsibility to you or to any third party for) any Content that
+you create, transmit or display through or in the Services, and hence solely
+responsible for any consequences of such actions, including any damage or loss
+to Ribose.
+
+. You agree you will not use any trade mark, service mark, trade name, logo of
+any company or organization in a way that is likely or intended to cause
+confusion about the owner or authorized user of such marks, names or logos.
+
+. For content submitted, posted or displayed on or through the Services ("Your
+Content"), you give Ribose a perpetual, irrevocable, worldwide,
+royalty-free, and non-exclusive license to reproduce, adapt, modify, translate,
+publish, publicly perform, publicly display and distribute Your Content, for
+the sole purpose of enabling Ribose to display, distribute,
+provision and promote the Services ("Content License").
+
+. Ribose may offer syndicated services through or in conjunction
+with other parties. You allow Ribose to make Your Content
+available to other parties whom Ribose has relationships for the
+provision of syndicated services, and to use such Content in connection with
+the provision of those services through the Content License.
+
+. You confirm and warrant to Ribose that you have all the rights,
+power and authority necessary to grant the Content License. Furthermore, you
+confirm and warrant that Ribose will not infringe any right of
+any third party, or incur any liability or damages of any kind as a result of
+your submission of Your Content to Ribose or providing the
+Services to you.
+
+== Advertising content
+
+. You agree that Ribose may place advertising on the Services. Some
+advertisements or promotions may be targeted to certain information stored on
+or associated with the Services. Form, nature and implementation of advertising
+by Ribose on the Services may change without prior notice.
+
+== External content
+
+. The Services may provide links to resources not operated by
+Ribose ("External Resources"). You acknowledge and agree that
+Ribose is not responsible for External Resources, and therefore
+is not liable for any loss or damage which may be incurred by you as a result
+of accessing External Resources, or as a result of placing reliance on External
+Resources.
+
+. Ribose reserves the right to remove or de-link any External
+Resources without giving prior notice and without incurring any liability on
+its part.
+
+. You acknowledge and agree that quotations or comments of Ribose
+personnel on External Resources do not reflect the opinion of
+Ribose.
+
+== Ribose software
+
+. Ribose assigns you a personal, worldwide, royalty-free,
+non-assignable and non-exclusive license to use the software provided to you by
+Ribose as part of the Services or for facilitation of providing
+the Services to you ("Software"). This license is for the sole purpose of
+enabling you to use the Services in accordance to the Terms.
+
+. You may not copy, download, display, distribute, publish, enter into a
+database, perform, modify, create derivative works, transmit, post, decompile,
+reverse engineer, disassemble, attempt to extract the source code or in any way
+exploit the Software or any part thereof, unless required by law or explicitly
+permitted by Ribose in writing.
+
+. The Software may require updating from Ribose from time to time.
+You agree to receive such updates and permit Ribose to deliver
+these to you in order to facilitate the providing of Services to you.
+
+== Transactions
+
+. Certain areas of the Services enable you to apply to join one or more of the
+Ribose programs. The terms of those programs and the terms
+governing your application for registration and participation in those programs
+are set forth in the License Agreement(s) for such program(s). Your receipt of
+an electronic or other form of order confirmation does not signify our
+acceptance of your application, nor does it constitute an acceptance into the
+program. Ribose reserves the right after receipt of your order to
+accept or decline your application as provided in the License Agreement
+governing the particular program(s) for which you apply.
+
+== Termination
+
+. The Terms will continue to apply until terminated as set out below.
+
+. You may terminate your legal agreement with Ribose, by:
+
+.. notifying Ribose through a written notice sent to
+Ribose's address described at the beginning of the Terms; and
+
+.. close or delete your accounts for all Services, where this option is available
+to you.
+
+. Ribose may terminate its legal agreement with you if:
+
+.. you have breached any provision of the Terms, or determined by
+Ribose that you are unable to comply with the Terms; or
+
+.. Ribose is required to do so by law; or
+
+.. Ribose is no longer able to provide the Services to you
+
+. Upon termination of the Terms, all of the legal rights, obligations and
+liabilities that you and Ribose have benefited from, been subject
+to (or which have accrued over time whilst the Terms have been in force) or
+which are expressed to continue indefinitely, shall be unaffected by this
+cessation, and the provisions of sections "Disclaimer of Warranty, Limitation of Liability, and Release" and "Others" shall continue to apply to such
+rights, obligations and liabilities indefinitely.
+
+== Disclaimer of Warranty, Limitation of Liability, and Release
+
+. Ribose does not guarantee the accuracy of information found on the
+Services. Your reliance on information found on the Services is at your own risk.
+
+. THE SERVICES, AND ALL ITS CONTENTS, IS PROVIDED TO YOU "AS IS." RIBOSE MAKES
+NO WARRANTIES OR REPRESENTATIONS, EXPRESS OR IMPLIED, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
+PURPOSE, TITLE, NON-INFRINGEMENT OF THE RIGHTS OF THIRD PARTIES, DATA ACCURACY,
+OR QUIET ENJOYMENT.
+
+. UNDER NO CIRCUMSTANCES WILL RIBOSE OR ANY OTHERS INVOLVED IN CREATING THE
+SERVICES AND ITS CONTENTS BE LIABLE FOR ANY DAMAGES OR INJURY, INCLUDING ANY
+DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, PUNITIVE OR OTHER DAMAGES
+RESULTING FROM ANY CIRCUMSTANCE INVOLVING THE SERVICES OR ITS CONTENT
+(INCLUDING BUT NOT LIMITED TO DAMAGES OR INJURY CAUSED BY ERROR, OMISSION,
+INTERRUPTION, DEFECT, FAILURE OF PERFORMANCE, MISDIRECTED OR REDIRECTED
+TRANSMISSIONS, FAILED INTERNET CONNECTIONS, UNAUTHORIZED USE OF THE SERVICES,
+LOST DATA, DELAY IN OPERATION OR TRANSMISSION, BREACH OF SECURITY, LINE
+FAILURE, DEFAMATORY, OFFENSIVE OR ILLEGAL CONDUCT OF ANY USER OF THE SERVICES,
+OR COMPUTER VIRUS, WORM, TROJAN HORSE OR OTHER HARMFUL COMPONENT), EVEN IF YOU
+HAVE ADVISED RIBOSE IN ADVANCE OF THE POSSIBILITY OF SUCH DAMAGE.
+
+. RIBOSE DOES NOT WARRANT OR MAKE ANY REPRESENTATIONS REGARDING THE MATERIALS ON
+THE SERVICES IN TERMS OF THEIR TIMELINESS, CORRECTNESS, ACCURACY, RELIABILITY,
+OR OTHERWISE. WHILE WE MAKE REASONABLE EFFORTS TO PROVIDE ACCURATE AND TIMELY
+INFORMATION ABOUT RIBOSE ON THE SERVICES, YOU SHOULD NOT ASSUME THAT THE
+INFORMATION PROVIDED IS ALWAYS UP TO DATE OR THAT THE SERVICES CONTAINS ALL THE
+RELEVANT INFORMATION AVAILABLE ABOUT OUR COMPANY. WE UNDERTAKE NO OBLIGATION TO
+VERIFY OR MAINTAIN THE CURRENCY OF SUCH INFORMATION.
+
+. Applicable law may not allow the exclusion of certain warranties or the
+limitation or exclusion of liability for incidental or consequential damages.
+Accordingly, some of the above limitations or exclusions may not apply to you.
+However, in no event shall Ribose's aggregate liability to you or
+any third party for damages, losses, and causes of action exceed the amount
+paid by you, if any, for accessing the Services or $100, whichever is lesser.
+You agree to bring any and all actions within one year from the date of the
+accrual of the cause of action, and that actions brought after this date will
+be barred.
+
+. In the event that you have a dispute with Ribose, you release
+Ribose (and our officers, directors, agents, and employees) from
+claims, demands, and damages (actual and consequential) of every kind and
+nature, known and unknown, suspected and unsuspected, disclosed and
+undisclosed, arising out of or in any way connected with such disputes.
+
+== Others
+
+. Ribose reserves the right to seek all remedies available at law
+and in equity for violations of the Terms, including suspending or blocking
+your access to the Services.
+
+. Nothing in the Terms shall constitute or be deemed to constitute a partnership
+between the parties hereto and no party shall have the authority or power to
+bind any other or create a liability against any other in any way or for any
+purpose.
+
+. You shall not assign,
+transfer, convey, license, subcontract, delegate or otherwise dispose of,
+wholly or partially, any of your rights or obligations under the Terms
+without obtaining the prior written notice of Ribose.
+
+. No delay or failure by
+Ribose to enforce any of the Terms shall constitute a waiver of
+any of our rights under the Terms. Neither the receipt of any funds by
+Ribose nor the reliance of any person on our actions shall be
+deemed to constitute a waiver of any part of the Terms. Only a specific,
+written waiver signed by an authorized representative of Ribose
+shall have any legal effect.
+
+. If any clause or provision
+set forth in the Terms is determined to be illegal, invalid or unenforceable
+under present or future law, the clause or provision shall be deemed to be
+deleted without affecting the enforceability of all remaining clauses or
+provisions.
+
+== Governing Law and Jurisdiction
+
+. User agrees that the
+Terms and any disputes arising under or related to the Terms and/or the Privacy
+Notice or to the Services will be governed by and shall be construed in
+accordance with the laws of the Hong Kong SAR without regard to conflict of
+laws, and the exclusive venue for any dispute relating to this Agreement shall
+be in the courts of the Hong Kong SAR, provided that Ribose shall
+always be permitted to bring any action or proceedings against user in any
+other court of competent jurisdiction and Ribose shall always be
+permitted to choose the laws of any other competent jurisdiction.
+
+. This
+English-language Terms of Service statement is Ribose's official
+agreement with users of the Services. In case of any inconsistency between this
+English-language Terms of Service statement and its translation into another
+language, this English-language document shall prevail.
+
+. Specifically excluded from
+application to this Agreement is that law known as the United Nations
+Convention on the International Sale of Goods.
+
+== Changes to Terms
+
+. Ribose reserves the right, in its sole discretion, to modify, alter, or otherwise
+change the Terms at any time. We will provide notice of such change on the
+General Terms page.
+
+. Your continued use of the Services constitutes your acceptance of and agreement
+to be bound by these
+changes without limitation, qualification or change. If at any time you
+determine that you do not accept these changes, please refer to section
+"Termination" to terminate the relationship.
+
+== For More Information
+
+. If you have any questions regarding our Terms of Service, please send an
+email to {{ site.emails.support }}.

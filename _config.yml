@@ -51,6 +51,9 @@ theme: jekyll-theme-open-project
 url: https://open.ribose.com
 
 emails:
+  press: press@ribose.com
+  privacy: privacy@ribose.com
+  support: support@ribose.com
   security: security.reports@ribose.com
 
 algolia_search:
