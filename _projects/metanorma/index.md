@@ -1,9 +1,9 @@
 ---
 title: Metanorma
-description: The standard for standards.
+description: Intelligent standards
 featured: true
 home_url: https://www.metanorma.org/
-tags: [Ruby, Python, Proposal, RFC]
+tags: [standards,pdf,ruby]
 site:
   git_repo_url: "https://github.com/metanorma/metanorma.org"
 ---
