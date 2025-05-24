@@ -1,15 +1,15 @@
 # Open Project theme setup
 
-title: Ribose Open
-title_html: Open-source projects for&nbsp;developers and&nbsp;designers
+title: Ribose
+title_html: Collaborative technologies for all
 
 tagline: >-
-  <strong>Open-source projects</strong>
+  <strong>Collaborative technologies</strong>
   <br>
-  for&nbsp;developers and&nbsp;designers
+  for&nbsp;all
 
 description: >-
-  Open source projects for developers and designers
+  Collaborative technologies for all
 
 seo:
   type: Organization
@@ -48,7 +48,7 @@ permalink: /blog/:month-:day-:year/:title/
 
 theme: jekyll-theme-open-project
 
-url: https://open.ribose.com
+url: https://www.ribose.com
 
 emails:
   press: press@ribose.com
