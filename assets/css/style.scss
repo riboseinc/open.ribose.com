@@ -60,3 +60,24 @@ $hub-specs--hero-background: linear-gradient(135deg, $hub-specs--primary-dark-co
     }
   }
 }
+
+
+// This is a fix for the logo size
+.site--hub {
+  &.layout--home > main > .other-projects,
+  &.layout--project-index > main {
+    .item {
+      .logo {
+        display: inline-block;
+        height: 60px;
+        width: 60px;
+      }
+
+      .logo > :only-child {
+        width: 60px;
+        height: 60px;
+        vertical-align: middle;
+      }
+    }
+  }
+}
