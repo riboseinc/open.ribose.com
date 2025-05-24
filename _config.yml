@@ -46,7 +46,7 @@ is_hub: true
 
 permalink: /blog/:month-:day-:year/:title/
 
-theme: jekyll-theme-open-project
+theme: jekyll-theme-rop
 
 url: https://www.ribose.com
 
@@ -70,7 +70,7 @@ tag_namespaces:
     audience: "Audience"
     completion_status: "Status"
 
-# This has to be duplicated from jekyll-theme-open-project gem.
+# This has to be duplicated from jekyll-theme-rop gem.
 includes_dir: .
 
 collections:
