@@ -64,6 +64,17 @@ $hub-specs--hero-background: linear-gradient(135deg, $hub-specs--primary-dark-co
 
 // This is a fix for the logo size
 .site--hub {
+  .hub-symbol {
+    width: 60px;
+    height: 60px;
+    margin-right: 10px;
+
+    svg {
+      width: 100%;
+      height: 100%;
+    }
+  }
+
   &.layout--home > main > .other-projects,
   &.layout--project-index > main {
     .item {
