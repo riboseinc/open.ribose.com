@@ -76,6 +76,7 @@ includes_dir: .
 collections:
   projects:
     output: true
+    permalink: /projects/:path/
   software:
     output: true
     permalink: /software/:path/
