@@ -2,7 +2,6 @@
 title: LutaML
 description: Multi-format information modelling
 home_url: https://www.lutaml.org/
-featured: true
 tags: [model,ruby]
 site:
   git_repo_url: "https://github.com/lutaml/lutaml.org"
