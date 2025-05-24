@@ -17,15 +17,15 @@ jobs:
       url: ${{ github.ref == 'refs/heads/main' && 'https://open.ribose.com' || 'https://staging-open.ribose.com' }}
 
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
 
       - uses: unfor19/install-aws-cli-action@v1
-      - uses: actions/setup-node@v2
+      - uses: actions/setup-node@v4
         with:
-          node-version: '14'
+          node-version: '16'
       - uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1'
+          ruby-version: '3.3'
           bundler-cache: true
 
       - name: Build site
