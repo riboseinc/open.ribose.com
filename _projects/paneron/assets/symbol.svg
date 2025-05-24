@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 488.1 143.8">
+  <!-- Generator: Adobe Illustrator 29.5.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 137)  -->
+  <defs>
+    <style>
+      .st0 {
+        fill: none;
+      }
+
+      .st1, .st2 {
+        fill-rule: evenodd;
+      }
+
+      .st1, .st3 {
+        fill: #fff;
+      }
+
+      .st2 {
+        fill: #0a598c;
+      }
+
+      .st4 {
+        isolation: isolate;
+      }
+
+      .st5 {
+        clip-path: url(#clippath-1);
+      }
+
+      .st6 {
+        clip-path: url(#clippath-3);
+      }
+
+      .st7 {
+        clip-path: url(#clippath-4);
+      }
+
+      .st8 {
+        clip-path: url(#clippath-2);
+      }
+
+      .st9 {
+        fill: #275888;
+        font-family: LucidaGrande-Bold, 'Lucida Grande';
+        font-size: 80px;
+        font-weight: 700;
+      }
+
+      .st10 {
+        letter-spacing: 0em;
+      }
+
+      .st11 {
+        letter-spacing: 0em;
+      }
+
+      .st12 {
+        letter-spacing: 0em;
+      }
+
+      .st13 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="st0" x="-241.2" y="-613" width="1024" height="1366"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="st0" width="140" height="140"/>
+    </clipPath>
+    <clipPath id="clippath-2">
+      <rect class="st0" width="140" height="140"/>
+    </clipPath>
+    <clipPath id="clippath-3">
+      <rect class="st0" width="140" height="140"/>
+    </clipPath>
+    <clipPath id="clippath-4">
+      <rect class="st0" x="43.3" y="35.8" width="71.3" height="104.2"/>
+    </clipPath>
+  </defs>
+  <g class="st13">
+    <g class="st5">
+      <g class="st4">
+        <g class="st8">
+          <g class="st6">
+            <path class="st2" d="M69.9.6c38.2,0,69.3,31,69.3,69.3s-31,69.3-69.3,69.3S.6,108.1.6,69.9,31.7.6,69.9.6Z"/>
+            <rect class="st3" x="32" y="35.8" width="17.9" height="17.9"/>
+            <g class="st7">
+              <image width="298" height="435" transform="translate(43.3 35.8) scale(.2)" xlink:href="paneron-logo-1.png"/>
+            </g>
+            <path class="st1" d="M76.2,53.6l-1.6,22.3h10.9l1.6-22.3h-10.9ZM43.3,141.1l6.6-81.8h5.8v-23.5h31.4c16.3,0,27.5,13.2,27.5,29.6s-11.2,29.6-27.5,29.6h-3.1s-11.4,0-11.4,0v1.3l-3.8,44.9h-25.5Z"/>
+          </g>
+        </g>
+      </g>
+    </g>
+    <text class="st9" transform="translate(187.8 98.4)"><tspan class="st11" x="0" y="0">Pa</tspan><tspan class="st12" x="86.7" y="0">ne</tspan><tspan class="st10" x="176.5" y="0">ro</tspan><tspan x="254.5" y="0">n</tspan></text>
+  </g>
+</svg>
