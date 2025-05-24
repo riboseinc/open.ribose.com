@@ -1,8 +1,8 @@
 ---
 title: Cryptode
-description: CLI VPN manager for macOS. Formerly known as RVC.
+description: CLI VPN manager for macOS
 home_url: https://www.cryptode.com/
-tags: [C]
+tags: [vpn,C]
 site:
   git_repo_url: "https://github.com/cryptode/cryptode.com"
 ---

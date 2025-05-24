@@ -1,11 +1,10 @@
 ---
 title: Relaton
-description: Bibliographic information repository.
+description: Interoperable bibliographic information
 home_url: https://www.relaton.org/
 featured: true
-tags: [Ruby]
+tags: [bibliographic,citation,metadata,ruby,js]
 site:
   git_repo_url: "https://github.com/relaton/relaton.org"
   git_repo_branch: main
 ---
-
