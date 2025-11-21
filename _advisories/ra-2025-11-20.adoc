@@ -1,0 +1,121 @@
+---
+layout: post
+title:  "RA-2025-11-20: Security vulnerability fixed in RNP 0.18.1"
+date: 2025-11-20
+categories: advisory
+id: RA-2025-11-20
+cve_id: CVE-2025-13470
+excerpt: >-
+  This advisory notice covers the following: CVE-2025-13470.
+---
+= RA-2025-11-20: Security vulnerability fixed in RNP 0.18.1
+
+== Metadata
+
+ID:: RA-2025-11-20
+
+This advisory notice covers the following:
+
+* <<CVE-2025-13470>>
+
+
+[[CVE-2025-13470]]
+== CVE-2025-13470
+
+link:/cves/CVE-2025-13470.json[download as CVE JSON 5.0^]
+
+Name:: Use of Insufficiently Random Values in Session Key Generation for PKESK
+Link:: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-13470[CVE-2025-13470]
+Problem:: https://cwe.mitre.org/data/definitions/CWE-330[CWE-330^] Use of Insufficiently Random Values
+Impact:: Confidentiality issue for PKESK-encrypted data
+Affected vendors:: Ribose
+Affected products:: https://www.rnpgp.org[RNP], version 0.18.0 ONLY
+
+=== Vulnerability details
+
+RNP version 0.18.0 contains a vulnerability in session key generation for
+PKESK (Public Key Encrypted Session Key) packets. Session keys are generated
+without cryptographically random values.
+
+During refactoring, the session key initialization for SKESK (passphrase-based
+encryption) was correctly updated. However, the corresponding initialization for
+PKESK (public key encryption) was not implemented, resulting in vulnerable
+session keys.
+
+This is a confidentiality vulnerability affecting messages encrypted with
+RNP 0.18.0 using public key encryption. The vulnerable session key values
+may allow decryption without the recipient's private key.
+
+The vulnerability affects only public key encryption (PKESK packets).
+Passphrase-based encryption (SKESK packets) is not affected.
+
+
+=== Additional details
+
+Upgrading to https://www.rnpgp.org[RNP] 0.18.1 fixes this issue.
+
+RNP 0.17.1 and all earlier versions are not affected by this vulnerability,
+which was introduced only in version 0.18.0.
+
+=== Affected users
+
+==== Standalone RNP 0.18.0 users
+
+This includes:
+
+* Direct installation from source
+
+* Installation via Linux distributions that packaged v0.18.0:
+  Debian 14 (unstable), Devuan unstable, EPEL 8/9/10, Exherbo,
+  Fedora 41/42/43/Rawhide, FreeBSD Ports, Homebrew, Kali Linux Rolling,
+  nixpkgs unstable, OpenBSD Ports, openmamba, openSUSE Tumbleweed
+
+==== https://www.thunderbird.net[Thunderbird] users (varies by distribution)
+
+Whether Thunderbird is affected depends on the source of your distribution
+package:
+
+* **Upstream Thunderbird (NOT AFFECTED):** Official Mozilla binaries and most
+  distributions use bundled RNP 0.17.1, which is not affected.
+
+* **Distribution-packaged Thunderbird (MAY BE AFFECTED):** Some distributions
+  build Thunderbird to use system RNP instead of bundled RNP. Notably, Gentoo
+  with `+system-librnp` USE flag uses system RNP. If system RNP is version
+  0.18.0, Thunderbird **IS AFFECTED**.
+
+To check if your Thunderbird uses system RNP, run:
+
+[source,sh]
+----
+ldd $(which thunderbird) | grep librnp
+----
+
+If this shows a system path (e.g., `/usr/lib/librnp.so`), check your RNP
+version with `pkg-config --modversion librnp`. If no output or the library is
+in Thunderbird's directory, it uses the Thunderbird-bundled RNP, which is not
+affected.
+
+Users who encrypted sensitive data using RNP 0.18.0 (standalone or via
+Thunderbird with system RNP 0.18.0) should consider re-encrypting that data
+with RNP 0.18.1 or 0.17.1 based on their security requirements and threat model.
+
+==== Timeline
+
+* 2025-06-19: RNP 0.18.0 released (vulnerability introduced)
+* 2025-11-07: Vulnerability discovered and reported by Johannes Roth (MTG AG)
+* 2025-11-19: CVE-2025-13402 assigned by Red Hat
+* 2025-11-20: CVE-2025-13470 assigned by Ribose/MITRE
+* 2025-11-20: Fix developed and tested
+* 2025-11-21: RNP 0.18.1 released with fix
+* 2025-11-21: Public disclosure (this advisory)
+
+==== References
+
+* **CVE:** https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-13470[CVE-2025-13470]
+* **Red Hat CVE:** https://access.redhat.com/security/cve/cve-2025-13402
+* **Red Hat Bugzilla:** https://bugzilla.redhat.com/show_bug.cgi?id=2415863
+* **GitHub Release:** https://github.com/rnpgp/rnp/releases/tag/v0.18.1
+
+=== Credits
+
+- Johannes Roth, MTG AG (https://github.com/TJ-91[@TJ-91^]) (reporter)
