@@ -1,0 +1,75 @@
+---
+layout: post
+title: "Ribose achieves ISO/IEC 27001 certification"
+date: 2013-10-19 15:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  Ribose achieves ISO/IEC 27001 certification
+
+---
+= Ribose achieves ISO/IEC 27001 certification
+
+**Ribose first consumer-focused social collaboration platform to achieve ISO/IEC 27001 certification**
+
+*Hong Kong, 21 October 2013 --* http://www.ribose.com[Ribose], a start-up
+that is redefining the way individuals and organizations collaborate to
+get better results, today announced that it has achieved
+link:http://www.iso.org[ISO]/link:http://www.iec.ch[IEC] 27001 certification
+covering all aspects of the company, including its social collaboration
+platform.
+
+The certification was awarded by the http://www.bsigroup.com[British
+Standards Institute (BSI)], the originator of the ISO/IEC 27001
+standard. Ribose is the first -- and currently the only -- non-enterprise,
+consumer-focused collaboration platform to achieve this certification.
+This strongly demonstrates that stringent controls on information
+security are integral to all processes within Ribose.
+
+ISO/IEC 27001 is an international standard that specifies wide-ranging
+requirements for implementing, operating, maintaining and improving an
+information security management system. Certification is awarded only
+after a neutral independent accredited auditor has conducted a thorough
+audit has assessed and verified that the organization's applications,
+systems, processes and services comply with the standard.
+
+"`As a cloud collaboration platform provider, Ribose is committed to
+safeguarding user information to the highest standards,`" explains Ronald
+Tse, founder of Ribose. "`We're proud to announce that the scope of our
+certification is as comprehensive as possible: it fully covers our
+organization and our collaboration platform, from design, development
+and operations to support processes. Our users can be confident that
+their privacy and data will always be respected and protected and that
+they can collaborate freely on Ribose to innovate and succeed with their
+teams.`"
+
+Emmanuel Herve, managing director of BSI Hong Kong and VP Standards and
+Professional Service of BSI Asia Pacific, echoes these sentiments: "`With
+an extensive certification scope, Ribose's ISO/IEC 27001 certification
+gives stakeholders and customers a powerful guarantee that their
+information will always be safely handled. We're proud to have raised
+the bar in social collaboration security and enabled more individuals
+and organizations to work successfully with Ribose.`"
+
+== About Ribose
+
+Ribose helps individuals and organizations worldwide cooperate
+effectively through its social collaboration platform. By focusing on
+the "`whole of collaboration`", Ribose has taken online social
+collaboration to a new level. Whether planning social events for family
+and friends or running complex business projects, you will find that
+Ribose makes it easy, effective and genuinely fun. Ribose is currently
+in public beta, is free to use, and is already redefining collaboration
+results for many. Founded in 2008, Ribose is headquartered in Hong Kong
+with an office in Los Angeles, CA. http://www.ribose.com
+
+---
+
+Originally published at:
+
+* http://www.prnewswire.com/news-releases/ribose-achieves-isoiec-27001-certification-228623871.html[PRNewswire: Ribose achieves ISO/IEC 27001 certification]
+* http://en.prnasia.com/story/87737-0.shtml[PRNewswire Asia: Ribose achieves ISO/IEC 27001 certification]
+* http://hk.prnasia.com/story/87737-2.shtml[PRNewswire HK: Ribose 獲得 ISO/IEC 27001 認證]

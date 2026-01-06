@@ -1,0 +1,99 @@
+---
+layout: post
+title: "Ribose Completes First Transition Assessment to ISO/IEC 27001:2022 Conformance with BSI Pacific Limited"
+date: 2022-12-02 00:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  Ribose Completes First Transition Assessment to ISO/IEC 27001:2022 Conformance with BSI Pacific Limited
+---
+= Ribose Completes First Transition Assessment to ISO/IEC 27001:2022 Conformance with BSI Pacific Limited
+
+{blank}[2 December 2022 -- London, UK]
+
+http://www.ribose.com[Ribose] has completed the first verified transition
+assessment with https://www.bsigroup.com/en-HK/[BSI Pacific Limited] towards
+https://www.iso.org/contents/news/2022/10/new-iso-iec-27001.html[ISO/IEC 27001:2022],
+the third edition of the international standard for information security
+management systems.
+
+https://www.iso.org/standard/82875.html[ISO/IEC 27001:2022] is the latest
+iteration of the information security management system standard that aligns
+with the 93 comprehensive information security controls of
+https://www.iso.org/standard/75652.html[ISO/IEC 27002:2022] organized into
+organizational, people, physical and technical aspects, resulting in improved
+performance in privacy protection, data leakage prevention and risk management.
+
+Ribose completed its ISO/IEC 27001:2022 transition assessment with the issuance
+of a letter of conformity by BSI on November 30, 2022. Ribose's certifications
+to the previous editions,
+https://www.iso.org/standard/54534.html[ISO/IEC 27001:2013] and
+https://www.iso.org/standard/42103.html[ISO/IEC 27001:2005], were also awarded
+by BSI, a leading conformity assessment body and the originator of the ISO/IEC
+27001 standard.
+
+"Our users are innovative leaders in their industries. With organizations today
+increasingly faced with cybersecurity challenges that risks innovation, ISO/IEC
+27001 helps protect our users with a holistic cyber resilience framework." noted
+Ronald Tse, founder of Ribose. "By upgrading our processes early to the latest
+edition of ISO/IEC 27001, our users can rest assured their data is
+well-protected under our continual commitment to information security."
+
+Michael Lam, Managing Director, Assurance Division,
+https://www.bsigroup.com[BSI] APAC Region, remarked,
+"Today's world increasingly operates on digital trust, which requires a laser
+sharp focus on managing cybersecurity risks. As the original developer of the
+ISO/IEC 27001 standard, BSI is proud to support Ribose's commitment to
+world-class security in its verified transition to the latest edition of ISO/IEC
+27001."
+
+
+---
+
+== About Ribose
+
+Ribose creates asymmetric security™ and standardization technologies trusted by
+industries with heightened cybersecurity needs. Having pioneered the
+comprehensive approach to verifiable cybersecurity, Ribose is a Deloitte
+Technology FAST 20 and http://www.redherring.com/[Red Herring Top 100 Global]
+company, and received the CSA APAC Enterprise Award and several
+http://www.stevieawards.com/iba/[Stevie® Awards] for its innovations.
+
+Ribose is the first cloud service provider (CSP) to achieve certification to the
+CSA CCM 4.0 and to achieve the highest security tiers in
+https://www.nist.gov/cyberframework[NIST CSF] and
+https://www.imda.gov.sg/regulations-and-licensing-listing/ict-standards-and-quality-of-service/IT-Standards-and-Frameworks/Compliance-and-Certification[MTCS].
+It is also certified to
+https://www.iso.org/iso-9001-quality-management.html[ISO 9001],
+https://www.iso.org/iso-14001-environmental-management.html[ISO 14001],
+https://apmg-international.com/product/iso-iec-20000[ISO/IEC 20000],
+https://www.iso.org/standard/75106.html[ISO 22301],
+https://www.iso.org/isoiec-27001-information-security.html[ISO/IEC 27001],
+https://www.iso.org/standard/43757.html[ISO/IEC 27017],
+https://www.iso.org/standard/76559.html[ISO/IEC 27018],
+https://www.iso.org/standard/71670.html[ISO/IEC 27701] and
+https://www.iso.org/iso-45001-occupational-health-and-safety.html[ISO 45001].
+
+Learn more at: https://www.ribose.com/[ribose.com].
+
+== About BSI
+
+Since 1901, BSI is the business improvement and standards company that enables
+organizations to turn standards of best practice into habits of excellence,
+'inspiring trust for a more resilient world'. For over a century BSI has driven
+best practice in organizations around the world. Working with over 86,000
+clients across 195 countries, it is a truly global business with skills and
+experience across all sectors including automotive, aerospace, built
+environment, food and retail and healthcare. Through its expertise in Standards
+and Knowledge, Assurance Services, Regulatory Services and Consulting Services,
+BSI helps clients to improve their performance, grow sustainably, manage risk
+and ultimately become more resilient.
+
+Learn more at: https://www.bsigroup.com/[bsigroup.com].
+
+---
+
+Originally published at link:https://www.businesswire.com/news/home/20221201005462/en/Ribose-Completes-First-Transition-Assessment-to-ISOIEC-270012022-Conformance-with-BSI-Pacific-Limited[BusinessWire].

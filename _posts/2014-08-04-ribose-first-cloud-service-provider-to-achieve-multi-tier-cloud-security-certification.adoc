@@ -1,0 +1,112 @@
+---
+layout: post
+title: "Ribose first Cloud Service Provider to achieve Multi-Tier Cloud Security certification"
+date: 2014-08-04 15:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  Ribose first Cloud Service Provider to achieve Multi-Tier Cloud Security certification
+---
+= Ribose first Cloud Service Provider to achieve Multi-Tier Cloud Security certification
+
+*Compliant to Singapore Standard SS 584, world's first multi-tiered cloud standard*
+
+*Singapore/Hong Kong, 5 August 2014 --* http://www.ribose.com[Ribose] has
+become the world's first cloud service provider (CSP) to achieve
+Singapore's
+https://www.imda.gov.sg/regulations-licensing-and-consultations/ict-standards-and-quality-of-service/it-standards-and-frameworks/mtcs-certification-scheme[Multi-Tier
+Cloud Security (MTCS)] certification.
+
+Initiated by the https://www.imda.gov.sg[Infocomm Development Authority of
+Singapore (IDA)] and developed under the
+http://www.itsc.org.sg[Information Technology Standards Committee
+(ITSC)], the MTCS is a Singapore Standard (SS 584:2013) that specifies
+stringent security and operational requirements for CSPs to encourage
+adoption of sound risk management and security practices. The
+certification specifies three tiers of security certification, with
+level three being the highest.
+
+Ribose's level one MTCS certification was awarded after thorough
+evaluation by http://www.bsigroup.com[BSI (British Standards
+Institution)], a participating Certification Body for the MTCS standard.
+
+IDA Assistant Chief Executive Khoong Hock Yun said, "`Cloud computing is
+a key enabler for Singapore's drive to become a Smart Nation. Security
+of the cloud is a critical concern answered by the Multi-Tier Cloud
+Security standard. We are heartened that global industry players have
+taken a keen interest in it and are signing on to adopt the measures.`"
+
+"`BSI has demonstrated its leadership position in cloud security
+certification by delivering the world's first MTCS certification to
+Ribose. Through our global network of BSI offices, we are proud to have
+been Ribose's certification partner in several milestone security
+certification -- including
+http://www.iso.org/iso/home/standards/management-standards/iso27001.htm[ISO/IEC
+27001:2013], http://cloudsecurityalliance.org/[CSA's]
+https://cloudsecurityalliance.org/star/certification/[STAR] and now
+MTCS,`" explained Owen Xu, General Manager of BSI Singapore. "`These
+multiple certifications stand as clear testament of Ribose's dedication
+to data security and privacy.`"
+
+According to Ribose founder Ronald Tse, "`By achieving MTCS
+certification, Ribose has reached another milestone in our commitment to
+data security and protection. This latest achievement further enhances
+our comprehensive portfolio of security certifications, giving users the
+peace of mind to collaborate online with confidence using the Ribose
+platform. We thank the IDA and BSI for their guidance and support, which
+have enabled Ribose to become the world's first MTCS certified cloud
+service provider.`"
+
+'''
+
+== About Ribose
+
+Ribose makes collaborating easy and fun. Whether planning business
+projects or social events, the Ribose platform helps users collaborate
+through world-class security certified to the highest standards,
+including
+http://www.iso.org/iso/home/standards/management-standards/iso27001.htm[ISO/IEC
+27001], https://cloudsecurityalliance.org/star/certification/[CSA STAR],
+https://www.mesalliance.org/communities/CDSA/production-security-guidelines/[CDSA
+CPS] and
+https://www.imda.gov.sg/regulations-licensing-and-consultations/ict-standards-and-quality-of-service/it-standards-and-frameworks/mtcs-certification-scheme[IDA
+MTCS]. Also available as part of the
+http://govstore.service.gov.uk/cloudstore/search/?q=ribose[UK
+Government's G-Cloud] program, Ribose is free to use:
+http://www.ribose.com.
+
+For further details, see
+http://gsp.ngp.org.sg/csp-registry/csp-self-disclosures/[Ribose on IDA's
+Infocomm Resource Marketplace].
+
+== https://www.imda.gov.sg[About IDA]
+
+The mission of the IDA is to develop information technology and
+telecommunications within Singapore with a view to serve citizens of all
+ages and companies of all sizes. IDA does this by actively supporting
+the growth of innovative technology companies and start-ups in
+Singapore, working with leading global IT companies as well as
+developing excellent information technology and telecommunications
+infrastructure, policies and capabilities for Singapore. For more news
+and information, visit https://www.imda.gov.sg.
+
+== About BSI
+
+The British Standards Institution is the business standards company that
+helps businesses turn best practices of into habits of excellence. As
+the world's first national standards body and a founding member of ISO,
+BSI is an organization whose standards inspire excellence across the
+globe: http://www.bsigroup.com.
+
+---
+
+Originally published at:
+
+* http://www.prnewswire.com/news-releases/ribose-first-cloud-service-provider-to-achieve-multi-tier-cloud-security-certification-269957841.html[PRNewswire: Ribose first Cloud Service Provider to achieve Multi-Tier Cloud Security certification]
+* http://en.prnasia.com/story/102196-0.shtml[PRNewswire HK: Ribose First Cloud Service Provider to Achieve Multi-Tier Cloud Security certification]
+* http://hk.prnasia.com/story/102247-2.shtml[PRNewswire HK: Ribose 成為全球首家獲多等級雲端安全認證的雲端服務供應商]
+* http://www.prnasia.com/story/102246-1.shtml[PRNewswire CN: Ribose成为全球首家获多等级云安全认证的云服务供应商]
+

@@ -1,0 +1,92 @@
+---
+layout: post
+title: "Announcing the Ribose Retrace Challenge + Rewards"
+date: 2017-08-09 23:47:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  Announcing the Ribose Retrace Challenge + Rewards
+---
+= Announcing the Ribose Retrace Challenge + Rewards
+
+[[the-retrace-project]]
+== The "retrace" project
+
+We've been working on an open source project called
+"link:https://riboseinc.github.io/retrace/[retrace]".
+
+retrace (with a lower "r") is a versatile security vulnerability / bug
+discovery tool through monitoring and modifying the behavior of compiled
+binaries on Linux, OpenBSD/FreeBSD/NetBSD (shared object) and macOS
+(dynamic library).
+
+It can be used to assist reverse engineering / debugging
+dynamically-linked ELF and Mach-O binary executables.
+
+[[the-challenge]]
+== The Challenge
+
+We are announcing 3 separate challenges that comes with rewards, in
+order to encourage usage of retrace and make retrace better. Rewards go
+up to US$ 1,000 each so it could be very interesting.
+
+The challenge period runs from 2017-08-09 to 2017-10-10 inclusive, with
+the winning challengers announced on 2017-10-16 here (and the retrace
+GitHub page).
+
+Full details of the Retrace Challenge here:
+https://riboseinc.github.io/retrace/
+
+[[bug-challenge]]
+== Bug Challenge
+
+The Bug Challenge encourages finding bugs (any bug AND security
+vulnerabilities) in well-known software (OSS / proprietary) using
+retrace.
+
+Challenge rewards are given according to the CVE CVSS score of the entry
+-- for example, a confirmed Critical CVE reported using retrace, there
+is a grand prize of $1,000 -- there are multiple prizes for each
+category.
+
+[[improvement-challenge]]
+== Improvement Challenge
+
+The improvement challenge is to improve the actual retrace tool in form
+of code. The challenger should write code that improves retrace (library
+or CLI) to do something useful. For example, the "Best Improvement"
+grand prize is again $1,000. See the retrace page for the other
+categories.
+
+[[usage-challenge]]
+== Usage Challenge
+
+The "usage challenge" is to discover creative and interesting ways of
+using retrace in form of code. The challenger should write code that
+utilizes and incorporates retrace (lib or CLI) to do something useful
+AND interesting. The results will be incorporated in the /examples
+directory of the retrace repo for public usage, for the benefit of all.
+As an example, the "Most Useful" grand prize is $500.
+
+[[who-are-we]]
+== Who are we?
+
+We are Ribose, the secure sharing company. We believe privacy and
+security form the foundation of liberty, and our goal is to empower
+people to freely communicate and achieve productivity. Through an
+approach we call "asymmetric security™", we leverage deep security and
+technology expertise to create highly-secure products validated to the
+world's most stringent requirements and regulations.
+
+We created retrace to aid developers and security researchers to develop
+better code that leads the world to a better place.
+
+[[link]]
+== Link
+
+Here's the link to the challenge. May the best win!
+
+https://github.com/riboseinc/retrace[https://riboseinc.github.io/retrace/]

@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Ribose is now in private Beta"
+date: 2012-05-28 00:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  Ribose is now in private Beta
+---
+= Ribose is now in private Beta
+
+In order to provide the best collaborative experience possible,
+currently each user account is limited to a certain number of
+invitations. If you'd like to send more invitations to collaborate with
+more people, send us a message using the 'Give Us Feedback' menu on the
+launch bar. Thanks!
+
+Ribose Team

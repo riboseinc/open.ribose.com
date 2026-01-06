@@ -1,0 +1,173 @@
+---
+layout: post
+title: "Ribose achieves world's most extensive integrated management system compliant to PAS 99: Certified integration of seven management systems"
+date: 2015-07-07 16:00:00 
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  Ribose achieves world's most extensive integrated management system compliant to PAS 99: Certified integration of seven management systems
+---
+= Ribose achieves world's most extensive integrated management system compliant to PAS 99: Certified integration of seven management systems
+
+{blank}[8 July 2015 -- Hong Kong] -- Cloud collaboration platform provider Ribose
+has achieved the world's most extensive
+http://www.thecqi.org/Knowledge-Hub/Resources/Factsheets/Integrated-management-systems/[integrated management system (IMS)]
+certified to the
+http://www.bsigroup.com/en-GB/pas-99-integrated-management/[PAS 99]
+standard.
+
+Certified by http://www.bsigroup.com[BSI (British Standards Institution)],
+Ribose's IMS covers all seven of the company's management
+systems, each already compliant to a separate management system standard
+(MSS) including:
+
+* http://www.iso.org/iso/iso_9000[ISO 9001:2008] Quality management
+systems -- Requirements, the international standard for quality
+management systems (QMS)
+* http://www.iso.org/iso/home/standards/management-standards/iso14000.htm[ISO
+14001:2004] Environmental management systems -- Requirements with
+guidance for use, the international standard for environmental
+management systems (EMS)
+* http://www.bsigroup.com/en-GB/ohsas-18001-occupational-health-and-safety/[BS
+OHSAS 18001:2007] Occupational health and safety management systems --
+Requirements, the internationally applied British Standard for
+occupational health and safety management systems (OHSMS)
+* http://www.isoiec20000certification.com[ISO/IEC 20000-1:2011]
+Information technology -- Service management -- Part 1: Service management
+system requirements, the international standard for IT service
+management systems (SMS)
+* http://www.bsigroup.com/en-GB/iso-22301-business-continuity/[ISO
+22301:2012] Societal security -- Business continuity management systems --
+Requirements, the international standard for business continuity
+management systems (BCMS)
+* http://www.iso.org/iso/iso27001[ISO/IEC 27001:2013] Information
+technology -- Security techniques -- Information security management
+systems -- Requirements, the international standard for information
+security management systems (ISMS)
+* http://www.iso.org/iso/home/standards/management-standards/iso50001.htm[ISO
+50001:2011] Energy management systems -- Requirements with guidance for
+use, the international standard for energy management systems (EnMS)
+
+PAS 99 is the world's first framework for integrating management systems
+built on different management systems standards (MSS), specifying
+requirements for streamlining MSSs, allowing for improved business
+focus, a more universal approach to risk mitigation and improved
+operational efficiency.
+
+Created to align with the http://www.iso.org/directives[ISO Directive
+Annex SL], the PAS 99:2012 standard goes a step further by ensuring the
+results of streamlining management systems work effectively and as
+intended. At present, PAS 99 certification is the only impartial way to
+determine if an IMS has achieved its intention of integrating operating
+systems efficiently and effectively, providing a common bar on how an
+integrated management system should function and continuously improve
+through certification.
+
+According to Ribose's founder Ronald Tse, "`Ribose chose to build a
+streamlined, integrated management system right from the beginning. As a
+small company with a limited number of staff, we wanted to manage all
+aspects of the company as efficiently as possible. Streamlining our IMS
+through PAS 99 certification helped us avoid overlapping elements and
+duplicated effort across our different management systems.`"
+
+"`Taking our commitment to holistic, comprehensive collaboration to
+heart, we have integrated our information security, business continuity,
+quality, IT services, environmental, energy and occupational health and
+safety management systems into a whole -- allowing us to effectively
+manage these aspects of our operations without the typical overhead that
+can bog down non-integrated systems,`" explained Mr. Tse. "`Our highly
+dynamic information security management system, which has continuously
+received the highest security ratings and certified to the most
+stringent security standards including CSA STAR, CSA C-STAR, MTCS and
+AICPA SOC, also operates as part of this IMS.`"
+
+Mr. Tse concluded, "`PAS 99 certification confirms that Ribose has
+integrated its management systems correctly, and that the IMS performs
+effectively -- providing better oversight and control for our management
+team, while ensuring the highest level of service for our users.`"
+
+Emmanuel Herve, Managing Director of BSI Hong Kong and VP of Standards,
+remarked, "`We commend Ribose for its commitment to the highest levels of
+corporate governance. Standards are designed to level the playing field,
+and Ribose's numerous achievements in certification attest that smaller
+businesses can indeed compete against larger organizations by building
+upon standards.`"
+
+Mr. Herve added, "`Management systems help companies get more from their
+business, and integrating these management systems allows them to
+realize even greater benefits without additional investment of time or
+money. PAS 99 provides a framework for the most streamlined method to
+achieve this goal. We congratulate Ribose on being the first company to
+integrate seven management systems under PAS 99, setting a strong
+example for the industry to follow.`"
+
+'''
+
+== About Ribose
+
+Ribose is a cloud collaboration platform that makes
+https://www.ribose.com/features[working together easy and fun] while
+https://www.ribose.com/commitments[keeping your data safe]. As the
+world's first cloud service provider certified to
+https://www.imda.gov.sg/regulations-licensing-and-consultations/ict-standards-and-quality-of-service/it-standards-and-frameworks/mtcs-certification-scheme[MTCS
+(Multi-Tier Cloud Security)],
+https://cloudsecurityalliance.org/star/attestation/[CSA STAR
+Attestation], https://cloudsecurityalliance.org/star/certification/[CSA
+STAR Certification]
+(https://cloudsecurityalliance.org/research/ccm/[Cloud Controls Matrix,
+CCM 3.0.1]) and the first Software-as-a-Service platform to complete the
+https://cloudsecurityalliance.org/star/c-star/[CSA C-STAR Assessment],
+Ribose has been consistently awarded the industry's highest cloud
+security ratings year after year: the highest security tier, Level 3, in
+MTCS and the highest maturity level, Gold, in STAR Certification.
+
+Ribose is also certified to http://www.iso.org/iso/iso_9000[ISO 9001],
+http://www.iso.org/iso/home/standards/management-standards/iso14000.htm[ISO
+14001],
+http://www.bsigroup.com/en-GB/ohsas-18001-occupational-health-and-safety/[OHSAS
+18001], http://www.isoiec20000certification.com[ISO/IEC 20000],
+http://www.bsigroup.com/en-GB/iso-22301-business-continuity/[ISO 22301],
+http://www.iso.org/iso/iso27001[ISO/IEC 27001],
+http://www.iso.org/iso/home/standards/management-standards/iso50001.htm[ISO
+50001], http://www.bsigroup.com/en-GB/pas-99-integrated-management/[PAS
+99], https://www.cyberstreetwise.com/cyberessentials[Cyber Essentials
+Plus],
+https://www.mesalliance.org/communities/CDSA/production-security-guidelines/[CDSA
+Content Protection Security (CPS)] and http://www.aicpa.org/soc[AICPA
+Service Organization Control (SOC)] standards, and approved by the
+https://www.digitalmarketplace.service.gov.uk/[UK Government's G-Cloud
+program] for government use.
+
+Ribose is free to use: https://www.ribose.com[ribose.com].
+
+== About BSI
+
+BSI (British Standards Institution) equips businesses with the necessary
+solutions to turn standards of best practice into habits of excellence.
+As the world's first National Standards Body and a founding member of
+the http://www.iso.org/[International Organization for Standardization
+(ISO)], BSI is responsible for originating many of the world's most
+commonly used management systems standards and publishes over 2,700
+standards annually.
+
+Independently assessed and accredited globally by http://anab.org/[ANAB
+(ANSI-ASQ National Accreditation Board)] and by over 26 other
+accreditation bodies around the world including
+http://www.ukas.com/[UKAS (United Kingdom Accreditation Service)], BSI
+is globally recognized as a champion of best practice.
+
+For more information, please visit:
+http://www.bsigroup.com/[bsigroup.com].
+
+
+---
+
+Originally published at:
+
+* http://www.businesswire.com/news/home/20150707006427/en/Ribose-Achieves-World%E2%80%99s-Extensive-Integrated-Management-System[Business Wire: Ribose Achieves World's Most Extensive Integrated Management System Compliant to PAS 99]
+* http://www.enhancedonlinenews.com/news/eon/20150707006428/en/ribose/collaboration/security[Business Wire EON: Ribose Achieves World's Most Extensive Integrated Management System Compliant to PAS 99]
+* http://www.businesswire.com/news/home/20150707006427/en/Ribose-Achieves-World%E2%80%99s-Extensive-Integrated-Management-System[Business Wire Chinese Traditional:]http://www.businesswire.com/news/home/20150707006429/zh-HK/[Ribose實現全球覆蓋管理體系標準最廣泛的PAS99合規整合管理體系]
+* http://www.businesswire.com/news/home/20150707006427/en/Ribose-Achieves-World%E2%80%99s-Extensive-Integrated-Management-System[Business Wire Chinese Simplified:]http://www.businesswire.com/news/home/20150707006430/zh-CN/[Ribose实现全球覆盖管理体系标准最广泛的PAS99合规综合管理体系]

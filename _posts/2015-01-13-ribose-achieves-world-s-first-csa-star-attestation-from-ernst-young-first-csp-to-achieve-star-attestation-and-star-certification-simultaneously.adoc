@@ -1,0 +1,104 @@
+---
+layout: post
+title: "Ribose achieves world's first CSA STAR Attestation from Ernst & Young: First CSP to achieve STAR Attestation and STAR Certification simultaneously"
+date: 2015-01-13 16:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  Ribose achieves world's first CSA STAR Attestation from Ernst & Young: First CSP to achieve STAR Attestation and STAR Certification simultaneously
+---
+= Ribose achieves world's first CSA STAR Attestation from Ernst & Young: First CSP to achieve STAR Attestation and STAR Certification simultaneously
+
+*Hong Kong / Seattle / London, 14 January 2015 --*
+http://www.ribose.com[Ribose] has become the world's first cloud service
+provider (CSP) to achieve https://cloudsecurityalliance.org[Cloud Security Alliance's (CSA)]
+http://www.cloudsecurityalliance.org/star/attestation/[STAR Attestation],
+and is currently the only CSP to have achieved both
+https://cloudsecurityalliance.org/star/certification/[STAR Certification]
+and STAR Attestation.
+
+STAR Attestation provides a framework for Certified Public Accountants
+to express an opinion of key factors relating to CSPs' service
+descriptions, as well as suitability and effectiveness of systems
+controls. Ribose's achievement was accomplished through completing a
+http://www.aicpa.org/InterestAreas/FRC/AssuranceAdvisoryServices/Pages/SORHome.aspx[Service Organization Controls (SOC) 2]
+attestation performed by global professional services organization
+https://www.ey.com[Ernst & Young (EY)], using criteria from the 2014 edition of
+http://www.aicpa.org/[American Institute of Certified Public Accountants' (AICPA)]
+http://www.aicpa.org/INTERESTAREAS/INFORMATIONTECHNOLOGY/RESOURCES/TRUSTSERVICES/Pages/default.aspx[Trust Service Principles and Criteria (TSP 100)]
+together with CSA's
+https://cloudsecurityalliance.org/research/ccm/[Cloud Controls Matrix (CCM) 3.0.1].
+
+According to Jim Reavis, CEO of CSA, "`Our mission is to promote trust
+and transparency in the cloud, and STAR Attestation plays a key role in
+achieving this goal. As the first CSP to achieve STAR Attestation,
+Ribose has strengthened its position as a pioneer in cloud security --
+and also proven the tremendous value of demonstrating cloud security
+compliance through AICPA attestations with CCM. This is a major
+milestone for both Ribose and CSA.`"
+
+"`This engagement is the first STAR Attestation globally, representing a
+significant achievement for Ribose, CSA and EY. In fact, our
+professionals had to develop new methodology to integrate the new CCM
+and TSP 100 standards in a streamlined attestation process,`" explained
+Vincent Chan, Advisory Services Leader for EY Hong Kong and Macau. "`EY
+was a natural choice for Ribose's attestation as our partners were
+involved with the development of the STAR attestation scheme.`"
+
+Ribose founder Ronald Tse remarked, "`Achieving STAR Attestation in
+conjunction with our existing STAR Certification is powerful,
+independent proof that Ribose provides the highest standards of security
+and availability -- which means our users can rely on our platform to
+collaborate on valuable intellectual property and confidential data with
+peace of mind.`"
+
+'''
+
+== About Ribose
+
+Ribose is a cloud collaboration platform that makes working together
+easy and fun. A forerunner in cloud security, Ribose is the world's
+first cloud service provider certified to
+https://www.imda.gov.sg/regulations-licensing-and-consultations/ict-standards-and-quality-of-service/it-standards-and-frameworks/mtcs-certification-scheme[MTCS],
+https://cloudsecurityalliance.org/star/attestation/[STAR Attestation]
+and https://cloudsecurityalliance.org/star/certification/[STAR Certification]
+(https://cloudsecurityalliance.org/research/ccm/[CCM 3.0.1]).
+It is also certified to http://www.iso.org/iso/iso27001[ISO/IEC 27001],
+http://www.isoiec20000certification.com[ISO/IEC 20000],
+https://www.mesalliance.org/communities/CDSA/production-security-guidelines/[CDSA CPS] and
+http://www.aicpa.org/InterestAreas/FRC/AssuranceAdvisoryServices/Pages/AICPASOC3Report.aspx[SOC]
+standards, and approved by the
+https://www.digitalmarketplace.service.gov.uk/[UK Government's G-Cloud program] for government use.
+
+Ribose is free to use: http://www.ribose.com[ribose.com].
+
+== http://www.cloudsecurityalliance.org/[About CSA]
+
+The Cloud Security Alliance is a not-for-profit organization led by a
+broad industry coalition. Dedicated to promote the use of best practices
+for providing security assurance within cloud computing, CSA also
+provides education on the uses of cloud computing to help secure all
+other forms of computing:
+http://www.cloudsecurityalliance.org[cloudsecurityalliance.org].
+
+== https://www.ey.com/[About EY]
+
+EY is a global leader in assurance, tax, transaction and advisory
+services. The insights and quality services we deliver help build trust
+and confidence in the capital markets and in economies the world over.
+For more information, visit https://www.ey.com/[ey.com].
+
+
+---
+
+Originally published at:
+
+* http://searchcloudsecurity.techtarget.com/news/2240238364/Ribose-first-to-achieve-CSA-STAR-Attestation-status[TechTarget: Ribose first to achieve CSA STAR Attestation status]
+* https://cloudsecurityalliance.org/media/news/ey-helps-ribose-make-history-with-first-cloud-security-alliance-csa-star-attestation/[CSA: EY helps Ribose make history with first Cloud Security Alliance (CSA) STAR Attestation]
+* http://www.prnewswire.com/news-releases/ribose-achieves-worlds-first-csa-star-attestation-from-ernst--young-300020426.html[PRNewswire: Ribose achieves world's first CSA STAR Attestation from Ernst & Young]
+* http://en.prnasia.com/story/archive/1307412_EN07412_0[PRNewswire HK: Ribose achieves world's first CSA STAR Attestation from Ernst & Young]
+* http://hk.prnasia.com/story/113303-2.shtml[PRNewswire HK: Ribose 成為全球首家通過雲安全聯盟雲安全鑒證（CSA STAR Attestation）的機構－由安永頒發]
+* http://www.prnasia.com/story/113304-1.shtml[PRNewswire CN: Ribose 成为全球首家通过云安全联盟云安全鉴证的机构]

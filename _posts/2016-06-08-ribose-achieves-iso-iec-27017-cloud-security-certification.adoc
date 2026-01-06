@@ -1,0 +1,148 @@
+---
+layout: post
+title: "Ribose achieves ISO/IEC 27017 cloud security certification"
+date: 2016-06-08 16:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  Ribose achieves ISO/IEC 27017 cloud security certification
+---
+= Ribose achieves ISO/IEC 27017 cloud security certification
+
+*_World's first SaaS platform compliant to international cloud security standard_*
+
+[Hong Kong] -- 9 June 2016 -- Ribose has become the world's first
+Software-as-a-Service platform to achieve certification to ISO/IEC
+27017, an international standard for information security controls
+specifically designed for cloud services. Published by the International
+Standards Organization (ISO) and the International Electrotechnical
+Commission (IEC), ISO/IEC 27017 is a Sector-Specific Standard within the
+ISO/IEC 27001 (Information security management systems) family.
+
+The cloud offers immense benefits, allowing cloud service customers to
+utilize the exact amount of computing resources needed at any given
+time. However, due to the open nature of the cloud environment -- which
+provides broad network access, rapid elasticity, self-provisioning
+functionality and resource pooling -- cloud information security needs
+differ greatly from the traditional environment ISO/IEC 27001 was
+originally designed to protect.
+
+Addressing the specific needs of cloud security, ISO/IEC 27017 builds
+upon ISO/IEC 27001 -- providing additional controls and implementation
+guidance on architecture, technology and processes to ensure information
+security is well protected in the cloud. Taking into account that many
+cloud service providers are often customers of other cloud services,
+ISO/IEC 27017 also specifies implementation guidelines for both cloud
+service customers and cloud service providers, emphasizing each entity's
+role in cloud security and protecting end users' information.
+
+"`The ISO/IEC JTC1 SC27 committee, which creates and manages the ISO/IEC
+27001 family of standards, first approved the proposal for a cloud
+security management standard proposed by Japan in October 2011. ISO/IEC
+27017, having been through 5 years of dedicated work, was finally
+published in December 2015, provides a code of practice for information
+security management for cloud services. In achieving this certification,
+Ribose has demonstrated its commitment and effort towards protecting
+user information in the cloud," commented Tadashi Nagamiya, Secretary
+General of JASA, Japanese representative for ISO/IEC JTC1 SC27, and one
+of the original authors and proposer of ISO/IEC 27017.
+
+As the first cloud service provider to achieve CSA CCM 3 compliance, CSA
+STAR Attestation and Singapore's MTCS, Ribose was able to satisfy the
+recommendations set forth in ISO/IEC 27017 with its existing systems and
+processes.
+
+Emmanuel Hervé, Vice President of Standards and Professional Services,
+BSI Asia Pacific, and Managing Director, BSI Hong Kong, remarked, "`We
+commend Ribose's dedication to protecting its users information to the
+highest standards. As the originator of the ISO/IEC information security
+management system standard, and the first certification body offering a
+robust certification program for ISO/IEC 27001 sector specific
+standards, BSI worked closely with Ribose and experts from ISO/IEC JTC 1
+SC 27 in the development of the ISO/IEC 27017 certification scheme --
+ensuring our rigorous certification program accurately assesses
+adherence to the standard.`" 
+
+Ronald Tse, founder of Ribose, explained, "`ISO/IEC 27017 certification
+clearly demonstrates Ribose's unwavering commitment to cloud security.
+We are proud to be the world's first cloud service provider to achieve
+simultaneous CSA STAR Certification, STAR Attestation and C-STAR
+Assessment together with ISO/IEC 27017. Although some overlap exists,
+ISO/IEC 27017 has proven to be complementary to our existing regional
+and global cloud security requirements.`"
+
+Tse continued, "`Ribose has always maintained a tight reputation as a
+pioneer in cloud security. Our new ISO/IEC 27017 certification confirms
+we are deploying proper controls to secure our own platform, as well as
+to protect our customers' data through the suppliers we rely upon to
+deliver our services.`"
+
+"`By taking the highest bar approach to cloud security, Ribose gives
+users the peace of mind to freely create and collaborate on our platform
+-- knowing their confidential information is protected by multiple
+international certifications to the highest levels of cloud security,`"
+concluded Tse.
+
+'''
+
+== About Ribose
+
+Ribose is the award-winning secure cloud collaboration platform that
+makes https://www.ribose.com/features[working together easy and fun]
+while https://www.ribose.com/commitments[protecting users' data] with
+the highest, internationally certified levels of security. Trusted by
+regulated industries and users with heightened security needs, it is the
+world's first cloud platform to achieve
+https://www.imda.gov.sg/regulations-licensing-and-consultations/ict-standards-and-quality-of-service/it-standards-and-frameworks/mtcs-certification-scheme[MTCS
+(Multi-Tier Cloud Security)] and the only cloud service provider to be
+triple assured by the Cloud Security Alliance:
+https://cloudsecurityalliance.org/star/attestation/[CSA STAR
+Attestation], https://cloudsecurityalliance.org/star/certification/[CSA
+STAR Certification]
+(https://cloudsecurityalliance.org/research/ccm/[Cloud Controls Matrix,
+CCM 3.0.1]) and https://cloudsecurityalliance.org/star/c-star/[CSA
+C-STAR Assessment]. Ribose has been consistently awarded the industry's
+highest cloud security ratings: the highest security tier, Level 3, in
+MTCS and the highest maturity level, Gold, in STAR Certification.
+
+Ribose has won numerous awards including the CSA APAC Enterprise Award
+for Security Innovation of the Year, http://www.stevieawards.com[Gold
+Stevie® Awards] at the http://www.stevieawards.com/iba/[International
+Business Awards] for _Most Innovative Company in Asia_ and _Best New
+Collaboration Service,_ and has been named a
+http://www.redherring.com/[Red Herring Top 100 Global] company.
+
+Ribose is certified to http://www.iso.org/iso/iso_9000[ISO 9001],
+http://www.iso.org/iso/home/standards/management-standards/iso14000.htm[ISO
+14001],
+http://www.bsigroup.com/en-GB/ohsas-18001-occupational-health-and-safety/[OHSAS
+18001], http://www.isoiec20000certification.com[ISO/IEC 20000],
+http://www.bsigroup.com/en-GB/iso-22301-business-continuity/[ISO 22301],
+http://www.iso.org/iso/iso27001[ISO/IEC 27001],
+http://www.iso.org/iso/catalogue_detail?csnumber=43757[ISO/IEC 27017],
+http://www.iso.org/iso/catalogue_detail.htm?csnumber=61498[ISO/IEC
+27018],
+http://www.iso.org/iso/home/standards/management-standards/iso50001.htm[ISO
+50001], http://www.bsigroup.com/en-GB/pas-99-integrated-management/[PAS
+99], https://www.cyberstreetwise.com/cyberessentials[Cyber Essentials
+Plus],
+https://www.mesalliance.org/communities/CDSA/production-security-guidelines/[CDSA
+Content Protection Security (CPS)] and http://www.aicpa.org/soc[AICPA
+Service Organization Control (SOC)] standards, and approved by the
+https://www.digitalmarketplace.service.gov.uk/[UK Government's G-Cloud
+program] for government use.
+
+Ribose is free to use: https://www.ribose.com[ribose.com].
+
+== About BSI
+
+BSI (British Standards Institution) equips businesses with the necessary
+solutions to turn standards of best practice into habits of excellence.
+As the world's first National Standards Body and a founding member of
+the http://www.iso.org/[International Organization for Standardization
+(ISO)], BSI is responsible for originating many of the world's most
+commonly used management systems standards and publishes over 2,700
+standards annually.

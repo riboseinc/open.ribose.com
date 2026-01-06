@@ -1,0 +1,75 @@
+---
+layout: post
+title: "Ribose Teams Up With CalConnect: First Asia-Based Company To Join Calendaring and Scheduling Consortium"
+date: 2013-10-07 15:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  Ribose Teams Up With CalConnect: First Asia-Based Company To Join Calendaring and Scheduling Consortium
+---
+= Ribose Teams Up With CalConnect: First Asia-Based Company To Join Calendaring and Scheduling Consortium
+
+*http://www.ribose.com[Ribose] Teams Up With http://www.calconnect.org[CalConnect]: First Asia-Based Company To Join Calendaring and Scheduling Consortium*
+
+*Hong Kong -- October 9, 2013 --* http://www.ribose.com[Ribose], a startup
+redefining the way individuals and organizations collaborate online, has
+joined http://www.calconnect.org[CalConnect], the Calendaring and
+Scheduling Consortium. Ribose is a strong proponent of an open Internet
+and international standards that allow people to work together more
+efficiently, effectively and enjoyably.
+
+"`Ribose's mission is to help people work with others seamlessly and
+hassle-free,`" explains Ronald Tse, founder of Ribose. "`And to achieve
+this, we are keen on eliminating user frustration and wasted cycles due
+to non-standard, proprietary software and protocols. CalConnect and its
+members have done miraculous things in making different calendaring
+applications and systems work together. We are proud to join this
+special community of innovators and work along with them to deliver a
+more seamless calendaring and collaboration experience for everybody
+across cultures.`"
+
+"`CalConnect is excited to welcome Ribose as its first Asia-based
+member`", explains Dave Thewlis, Executive Director of the consortium.
+With a majority of the world's population, Asia is unique in having many
+distinct calendar systems, writing forms and philosophies that current
+calendaring standards do not cover. "`Interoperable calendaring is a
+global challenge and opportunity. In taking on this challenge and
+commitment, CalConnect marks a significant milestone in supporting Asian
+cultures in an open, standards-based way. We know that the contributions
+of Ribose to our consortium will be exciting and we eagerly anticipate
+our first CalConnect member meeting in Asia.`"
+
+'''
+
+== About Ribose
+
+Ribose helps individuals and organizations worldwide collaborate
+effectively through its social collaboration platform. By focusing on
+the "`whole of collaboration`", Ribose has taken online social
+collaboration to a new level. Whether planning social events for family
+and friends or running complex business projects, you will find that
+Ribose makes it easy, effective, and actually fun. Ribose is currently
+in public beta, is free to use, and is already redefining collaboration
+results for many. Founded in 2008, Ribose is headquartered in Hong Kong
+with an office in Los Angeles, CA. Ribose joined CalConnect on August
+13, 2013 as its first Asia-based member. http://www.ribose.com
+
+== About CalConnect
+
+CalConnect is a not-for-profit organization advancing the state of
+interoperable calendaring and scheduling. As a partnership between
+vendors of calendaring and scheduling systems and tools, and the users
+of those tools, its membership includes the world's largest software
+companies. Virtually every important calendaring-related standard since
+2004 has been authored edited and/or co-edited by members of a
+CalConnect Technical Committee. http://www.calconnect.org
+
+---
+
+Originally published at:
+
+* http://www.prnewswire.com/news-releases/ribose-joins-calendaring-organization-calconnect-227041421.html[PRNewswire US: Ribose Joins Calendaring Organization CalConnect]
+* http://hk.prnasia.com/story/87123-2.shtml[PRN HK: Ribose 加入日曆機構 CalConnect]

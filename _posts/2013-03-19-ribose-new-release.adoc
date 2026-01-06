@@ -1,0 +1,32 @@
+---
+layout: post
+title: "Ribose new release"
+date: 2013-03-19 00:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  Ribose new release
+---
+= Ribose new release
+
+Ribose has just been updated on 3/18/2013, mainly a bugfix release.
+
+The status message has been relocated to the top right corner, giving
+you more space for widgets. You can now edit the status message by
+clicking on your name and then clicking 'Update status'.
+
+This release also fixes bugs relating to:
+
+* XSS
+
+* space invitations
+
+* rich text editing
+
+* real time updates
+
+* locale
+

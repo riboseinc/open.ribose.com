@@ -1,0 +1,131 @@
+---
+layout: post
+title: "Ribose Achieves Cloud Industry's First Kitemark for Secure Digital Transactions"
+date: 2016-09-25 00:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  Ribose Achieves Cloud Industry's First Kitemark for Secure Digital Transactions
+---
+= Ribose Achieves Cloud Industry's First Kitemark for Secure Digital Transactions
+
+*World's first collaboration platform certified to rigorous application security by BSI*
+
+Hong Kong -- Ribose has become the world's first cloud
+Software-as-a-Service platform to achieve BSI's prestigious and highly
+selective
+http://www.bsigroup.com/en-GB/kitemark/services/secure-digital-transactions/[Kitemark
+for Secure Digital Transactions], which certifies applications to ensure
+they have the appropriate security controls in place to handle highly
+sensitive information online through rigorous security testing.
+
+
+Confidential financial and personal information is increasingly stored
+and shared, yet services themselves are subject to continuous threats
+and attacks at all times. According to PwC, 90% of large organizations
+have already suffered data breaches, and it is imperative for
+organizations to protect their own confidential information in the cloud
+through appropriate security.
+
+Protection is especially necessary for collaborative data, which often
+contain the most valuable, yet most vulnerable assets of the
+organization -- intellectual property, trade secrets or personal
+information about customers and employees, patient health information,
+and financial information.
+
+http://www.bsigroup.com/en-GB/kitemark/services/secure-digital-transactions/[BSI's
+Kitemark for Secure Digital Transactions] is the most rigorous security
+testing program available to date that validates and evaluates the
+security of individual applications. Initially piloted by the banking
+industry, it is the latest member of the
+http://www.bsigroup.com/en-GB/kitemark/[BSI Kitemark] family, a symbol
+of trust and product quality that was first granted in 1903 and is
+highly recognized worldwide. BSI has also long been a pioneer in
+information security, being the originator of the international
+information security management system standard,
+http://www.iso.org/iso/iso27001[ISO/IEC 27001].
+
+An application certified to this Kitemark demonstrates rigorous
+validation to banking-grade security, as well as data protection
+measures of the organization that developed and operates the
+application, confirming it has been thoroughly tested and meets
+recognized standards for security, reliability and quality.
+
+In order to receive the Kitemark for Secure Digital Transactions, the
+application or service must achieve three key criteria. First, a secure
+service must be developed and operated within a secure environment that
+emphasizes organizational security and process integrity. This criterion
+is best validated by requiring the organization itself to achieve and
+maintain certification to ISO/IEC 27001, covering all parts relating to
+the service and sensitive information it handles, including application
+development, infrastructure operations and transaction processing.
+
+The second tenant of the Kitemark for Secure Digital Transactions is to
+achieve validation of application security, which requires the service
+to undergo rigorous internal and external penetration tests to the
+highest levels, ensuring there are no known significant vulnerabilities
+or security flaws. The application security tests are performed by a
+world-class, http://www.crest-approved.org/[CREST]-certified security
+team with over 30,000 hours of penetration testing experience, to the
+https://www.owasp.org/[OWASP] ASVS v2.0 standard -- the most stringent in
+industry. Under Level 2 verification, Ribose is tested against 147
+application security controls covering all facets of application
+security through black box and white box testing, from business logic to
+cryptography, static analysis to OWASP Top 10 vulnerabilities. This
+assures that the Ribose platform provides security assurance for
+significant transactions, including those that process healthcare
+information, implement business-critical or sensitive functions, or
+process other sensitive assets.
+
+The third criterion is continual independent monitoring and assessment
+to ensure the security profile of the service provides assurance to the
+types of data it handles, including ongoing application security tests,
+organizational security audits, as well as Kitemark compliance audits
+and risk assessments.
+
+According to Chris Lewis, Certification Director at BSI, "With a shift
+towards mobile and cloud computing, information security is increasingly
+becoming a key differentiator. Many organizations have good information
+security processes established but to achieve the BSI Kitemark for
+Secure Digital Transactions, their systems have to be regularly and
+independently tested with stringent penetration tests and monitoring.
+For Ribose to be first to achieve the BSI Kitemark for Secure Digital
+Transactions in the cloud industry, it reinforces their commitment to
+safeguarding their users' private information in their secure cloud
+services."
+
+Emmanuel Hervé, Vice President of Standards and Professional Services,
+BSI Asia Pacific, and Managing Director, BSI Hong Kong, remarked, "The
+BSI name and the BSI Kitemark are recognized as symbols of trust, and we
+have a strong track record in promoting excellence in cyber and
+information security. The Kitemark demonstrates Ribose's commitment to
+the ongoing security of their cloud application and service. In becoming
+the first cloud service to achieve the new Kitemark for Secure Digital
+Transactions certification is proof of Ribose's pledge to be a pioneer
+in cloud security."
+
+Ronald Tse, founder of Ribose, explained, "Our Kitemark certification is
+a testament to Ribose's unwavering commitment to providing a secure
+platform that prioritizes the protection of our customers' data.
+Building on our
+http://www.iso.org/iso/catalogue_detail?csnumber=43757[ISO/IEC 27017]
+cloud security and
+http://www.iso.org/iso/catalogue_detail.htm?csnumber=61498[ISO/IEC
+27018] cloud privacy certifications, this Kitemark provides reassurance
+that our application itself features appropriate protection for highly
+sensitive information."
+
+"Ribose's highest bar approach to cloud security gives users the peace
+of mind to freely collaborate on mission critical projects, knowing
+their confidential information is protected to international cloud
+security standards, and now the BSI Kitemark. All of these
+certifications stand as testament to the security of the Ribose
+platform," Tse concluded.
+
+Although no certification can ever guarantee 100% security, the BSI
+Kitemark for Secure Digital Transactions ensures a website or app has
+the appropriate security controls in place for the information it is
+handling.

@@ -1,0 +1,99 @@
+---
+layout: post
+title: "Casual Collaboration Sweetened by Ribose"
+date: 2012-09-11 15:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  Casual Collaboration Sweetened by Ribose
+---
+= Casual Collaboration Sweetened by Ribose
+
+*New cloud-based platform streamlines all types and sizes of
+collaborative planning activity in one secure site*
+
+BOSTON, Sept. 12, 2012 /PRNewswire/ -- http://www.ribose.com/[Ribose]
+has announced the launch of a new online platform designed to simplify
+the way groups of all sizes collaborate.  The new web platform,
+www.ribose.com, brings together an unmatched collection of tools,
+applications and widgets that harness the real-time, social and
+cloud-based flexibility of today's internet to help streamline, organize
+and plan anything from a small family gathering to a social club's
+ongoing activities.  
+
+Understanding that the underlying concept of any successful
+collaboration is the generation of ideas, and sharing of experiences,
+the new Ribose platform capitalizes on today's social web to help users
+stay in constant contact with collaborators, as well as offering public
+spaces designed to share common contexts, uncover new ideas and discover
+new resources through social connections.
+
+"Collaborating on group activities of any size always involve plenty of
+opinions, questions and the need for constant last minute discussions on
+a myriad of details," said Ronald Tse, Ribose Founder and CEO.  "The
+vision for Ribose was to create a platform that harnesses the power of
+the casual collaboration people now use every day on the social web to
+provide them with a customizable space designed around the context of
+the project, not just the available toolset."
+
+The new Ribose site offers over 10 collaborative toolsets designed to
+organize group activities and content around topics, not the tools, so
+that users can fully benefit from a comprehensive suite of features
+while customizing particular toolsets to meet the specific needs of
+their activity or event.  Ribose was designed with a clean, minimalistic
+interface style, allowing for users to choose from an array of color
+palettes and themes to satisfy their own unique design aesthetic. The
+site focuses on three key user needs:
+
+* Collaborative Spaces: capture key details, calendar items, files and
+status reports for each particular collaboration.
+* Collaborative Applications (Capps): bring together a specific mix of
+features and tools customized to particular topics, ensuring users have
+the right set of tools and functionality for the specific type of
+collaboration they are undertaking.
+* My Applications (Mapps): allow users to keep track of their activities
+on Ribose, offers widgets, profiles and contact information, as well as
+an aggregate look across individual collaborations -- including personal
+calendar views, to-do lists and chat logs.
+
+Access to the Ribose site is free for registered users, who are also
+allowed up to 10 invitations to begin building their collaboration
+teams. Future expansion and development on Ribose includes mobile web
+access and mobile app development. To learn more, register and begin
+tapping into the power of casual collaboration at www.ribose.com.
+
+Follow Ribose on Twitter: https://twitter.com/RiboseUS
+
+'''
+
+== About Ribose
+
+For busy people who struggle to plan and manage all of the personal or
+group activities, events and adventures that make their life
+interesting, Ribose is a full-featured casual collaboration platform
+that provides all the necessary tools and connections needed to
+simultaneously plan activities of all sizes with friends, family,
+colleagues and partners. Founded by Ronald Tse, Ribose brings together
+in one secure site the real-time, social and cloud-based flexibility of
+today's Internet with a full catalogue of tools, applications and
+widgets, to uncover even more linkages, better streamline activities and
+create customizable new ways to organize anything from a small, casual
+family gathering to a social club's ongoing activities.
+
+---
+
+Originally published at:
+
+* http://www.prnewswire.com/news-releases/casual-collaboration-sweetened-by-ribose-169562746.html[PRNewswire: Casual Collaboration Sweetened by Ribose]
+* http://hk.prnasia.com/story/67877-2.shtml[PRNewswire HK: Ribose 提升休閒協作魅力]
+* http://www.prnewswire.co.uk/news-releases/casual-collaboration-sweetened-by-ribose-169567376.html[PRNewswire UK: Casual Collaboration Sweetened by Ribose]
+* http://www.prnewswire.com/news-releases/ungezwungene-zusammenarbeit-von-ribose-versuWt-169660606.html[PRNewswire German: Ungezwungene Zusammenarbeit von Ribose versüßt]
+* http://www.prnewswire.fr/news-releases/ribose-rend-plus-attrayante-la-collaboration-de-loisirs-169704586.html[PRNewswire French: Ribose rend plus attrayante la collaboration de loisirs]
+* http://www.prnewswire.com/news-releases/colaboracion-casual-endulzada-por-ribose-169776886.html[PRNewswire Spanish: Colaboración casual endulzada por Ribose]
+* http://www.newswire.ca/en/story/1035959/ribose-facilite-le-processus-de-collaboration-entre-personnes[PRNewswire Canada (French): Ribose facilite le processus de collaboration entre personnes]
+* http://www.newswire.ca/en/story/1035171/casual-collaboration-sweetened-by-ribose[PRNewswire Canada (English): Casual Collaboration Sweetened by Ribose]
+* http://prnewswire.se/news-releases/casual-collaboration-sweetened-by-ribose-169567376.html[PRNewswire Sweden: Casual Collaboration Sweetened by Ribose]
+

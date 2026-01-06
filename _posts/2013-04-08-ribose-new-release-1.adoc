@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Ribose new release"
+date: 2013-04-08 00:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  Ribose new release
+---
+= Ribose new release
+
+Ribose has just been updated on 4/8/2013.
+Some UI styling changes across the board. All reported security issues
+have been resolved and fixed.
+This release also contains numerous bugfixes to:
+
+* Widgets
+
+* Calendar
+
+* Files
+
+* Todos
+
+* Settings
+
+* Discussions
+
+* Tags
+

@@ -1,0 +1,41 @@
+---
+layout: post
+title: "Talk at CSA HKM Knowledge Sharing Event in Hong Kong Polytechnic University"
+date: 2017-01-05 00:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  Talk at CSA HKM Knowledge Sharing Event in Hong Kong Polytechnic University
+---
+= Talk at CSA HKM Knowledge Sharing Event in Hong Kong Polytechnic University
+
+We are proud to share that our own Jeffrey Lau will be giving a talk at
+the Hong Kong Polytechnic University today
+
+At the talk, an official CSA HKM Knowledge Sharing Event, Jeffrey will
+be speaking about the Management of SaaS-Specific Risks.
+
+SaaS (software-as-a-service) has almost become a necessity to businesses
+and daily lives of the modern day, as you know, and today more than ever
+we have a limitless option of providers to choose from. With how easy it
+is to sign up and start using such services, sometimes it is also too
+easy for us to diminish or be unaware of the associated risks. This is
+especially important for organizations - SaaS, being cloud-based,
+inherently possess greater risk than traditional IT. Left unchecked they
+pose a potential threat to an organization's survival. Luckily, there
+are measures that an organization can take in order to manage them.
+
+Jeffrey talks about what these SaaS-associated risks are and what best
+practices can an organization take to protect itself and its customers
+against them in today's event.
+
+All the best for today's attendees, we hope the talk may be fruitful and
+informative for you! If you missed the event, worry not, this won't be
+the last event that our staff will participate in, so stay tuned for
+more!
+
+For more information about the event,
+https://csahkm.org/2016/12/20/csa-hkm-knowledge-sharing-event-january-2017/[click here]!

@@ -1,0 +1,235 @@
+---
+layout: post
+title: "Ribose becomes first cloud service provider outside Mainland China to complete CSA C-STAR Assessment on cloud security"
+date: 2015-06-23 16:00:00 
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  Ribose becomes first cloud service provider outside Mainland China to complete CSA C-STAR Assessment on cloud security
+---
+= Ribose becomes first cloud service provider outside Mainland China to complete CSA C-STAR Assessment on cloud security
+
+{blank}[24 June 2015 -- Hong Kong / Guangzhou] -- Ribose has become the first
+cloud service provider (CSP) outside Mainland China to complete the
+https://cloudsecurityalliance.org[Cloud Security Alliance's (CSA)]
+https://cloudsecurityalliance.org/star/c-star/[C-STAR Assessment], a
+newly established cloud security certification scheme with a focus on
+Greater China.
+
+With this latest achievement, Ribose has become one of the first
+organizations -- and the first Software-as-a-Service CSP -- certified to
+C-STAR Assessment, and the world's only CSP compliant to all three of
+CSA's globally recognized cloud assurance programs in the
+https://cloudsecurityalliance.org/star[Security, Trust and Assurance
+Registry (STAR) family]:
+https://cloudsecurityalliance.org/star/attestation/[STAR Attestation],
+https://cloudsecurityalliance.org/star/certification/[STAR
+Certification], and
+https://cloudsecurityalliance.org/star/c-star/[C-STAR Assessment].
+
+C-STAR Assessment was jointly developed by the CSA and
+http://www.ceprei.org[CEPREI Certification Body] as a China-focused
+cloud security certification that harmonizes CSA's
+https://cloudsecurityalliance.org/research/ccm/[Cloud Controls Matrix
+(CCM)] with Chinese national standards. As a rigorous third-party
+assessment of a CSP's security management, C-STAR Assessment aligns to
+Chinese information security requirements compliant to the following
+standards:
+
+* http://webstore.spc.net.cn/produce/showonebook.asp?strid=36460[GB/T
+22080-2008] (http://www.iso.org/iso/iso27001[ISO/IEC 27001:2005])
+Information technology -- Security techniques -- Information security
+management systems -- Requirements
+* http://webstore.spc.net.cn/produce/showonebook.asp?strid=36536[GB/T
+22239-2008] Information security technology — Baseline for classified
+protection of information systems
+* http://webstore.spc.net.cn/produce/showonebook.asp?strid=60767[GB/Z
+28828-2012] Information security technology -- Guideline for personal
+information protection within information systems for public and
+commercial services
+* https://cloudsecurityalliance.org/research/ccm/[CSA's Cloud Control
+Matrix 3.0.1]
+
+Raising the bar on established international standards, C-STAR
+Assessment consists of additional control requirements to those of STAR
+Certification and STAR Attestation, requiring 29 supplementary security
+and privacy controls on top of CCM 3.0.1. In particular, it requires
+organizations to respect and protect users' privacy in accordance with
+internationally accepted privacy principles, as well as Chinese and
+international privacy laws and regulations, with explicit requirements
+on the personal-identifiable information (PII) lifecycle and risk
+assessments on PII.
+
+Ribose was invited by the CSA and CEPREI to participate in the C-STAR
+Assessment pilot scheme based on its past participation in CSA STAR -- as
+well as its previous collaboration with CEPREI in becoming the
+https://www.ribose.com/blog/2015/ribose-becomes-first-cloud-service-provider-to-complete-hong-kong-guangdong-cloud-security-assessment-and-certification-pilot-scheme[first
+CSP to complete the Hong Kong / Guangdong Cloud Security Assessment
+Scheme (HK/GD CSAC) pilot]. Stemming from its involvement in the pilot
+scheme, Ribose assisted in translating C-STAR documentation and controls
+into English and providing feedback to the C-STAR scheme.
+
+According to Jim Reavis, Co-founder and CEO of CSA, "`We congratulate
+Ribose on becoming the first Cloud Service Provider outside Mainland
+China to complete the CSA C-STAR Assessment. As a pioneer in cloud
+security, Ribose has unquestionably demonstrated that Chinese and
+international cloud security standards are fully compatible. As the
+world's first CSP simultaneously certified to all three of our globally
+recognized assurance programs: STAR Attestation, STAR Certification, and
+C-STAR Assessment, Ribose has reinforced their commitment
+to protecting users by demonstrating their practices are triple-assured
+through independent validation. They definitely stand among industry
+role models for cloud security practices.`"
+
+"`We believe C-STAR represents strong security assurance for cloud
+users,`" said Aloysius Cheang, Managing Director APAC and the head of
+Standards Secretariat for the Cloud Security Alliance. "`The
+certification process allows CSPs to simultaneously align to both
+international and Chinese standards, while achieving operational
+excellence through alignment of best practices and improved
+transparency. Using the CSA C-STAR Assessment, CSPs will be able to give
+customers greater peace of mind and a better understanding of their
+security management procedures.`"
+
+Mr. Zhao Guoxiang, Managing Director of CEPREI, China's national
+certification body, explained, "`C-STAR allows Chinese CSPs to
+demonstrate their commitment to cloud security, while also allowing
+foreign CSPs to demonstrate compliance with Chinese standards and
+regulations -- giving them a competitive edge over other CSPs seeking to
+expand their operations in China. As China's first internationally
+aligned cloud security assessment, C-STAR is being adopted by leading
+corporations including Ribose, Huawei and Bluedon -- and has generated
+international interest from the cloud computing industry, demonstrating
+that Chinese and international cloud security standards are compatible
+and complementary.
+
+"`We would like to thank CEPREI and CSA for inviting Ribose to join the
+C-STAR pilot program,`" said Ronald Tse, founder of Ribose. "`In recent
+years, Asia has been a forerunner in the development of cloud security
+standards -- with new standards being developed in Singapore, Hong Kong,
+Guangdong and now C-STAR, which is a nationwide Chinese standard. Based
+in Asia, Ribose was the
+https://www.ribose.com/blog/2014/ribose-first-cloud-service-provider-to-achieve-multi-tier-cloud-security-certification[first
+CSP to achieve Singapore's Multi-Tier Cloud Security (MTCS, SS 584:2013)
+certification], where we achieved
+https://www.ribose.com/blog/2014/ribose-world-s-first-cloud-service-provider-certified-to-multi-tier-cloud-security-standard-achieves-highest-level-3-security-tier[the
+highest security level, Level 3]. We were also the
+https://www.ribose.com/blog/2015/ribose-becomes-first-cloud-service-provider-to-complete-hong-kong-guangdong-cloud-security-assessment-and-certification-pilot-scheme[first
+CSP to complete the HK CSAC scheme], as well as the first CSP outside
+mainland China to complete the C-STAR Assessment.`"
+
+Tse continued, "`Ribose respects the development of regional cloud
+assessment schemes as each country has different cloud security
+requirements. Our platform is certified to multiple national, regional
+and international standards because we are committed to our users --
+wherever they are based. The need to collaborate is natural and
+universal.`"
+
+"`Therefore, Ribose has adopted and advocates a 'highest-bar' approach to
+cloud security. By ensuring our cloud security meets the most stringent
+specified requirements, we are able to provide a higher level of
+security for all users,`" concluded Tse. "`Completing the C-STAR
+Assessment provides our international users with the benefit of tighter
+security oversight for greater peace of mind in working with colleagues
+around the globe.`"
+
+'''
+
+== About Ribose
+
+Ribose is a cloud collaboration platform that makes
+https://www.ribose.com/features[working together easy and fun] while
+https://www.ribose.com/commitments[keeping your data safe]. As the
+world's first cloud service provider certified to
+https://www.imda.gov.sg/regulations-licensing-and-consultations/ict-standards-and-quality-of-service/it-standards-and-frameworks/mtcs-certification-scheme[MTCS]
+(Multi-Tier Cloud Security),
+https://cloudsecurityalliance.org/star/attestation/[CSA STAR
+Attestation], https://cloudsecurityalliance.org/star/certification/[CSA
+STAR Certification]
+(https://cloudsecurityalliance.org/research/ccm/[Cloud Controls Matrix,
+CCM 3.0.1]) and the first Software-as-a-Service platform to complete the
+https://cloudsecurityalliance.org/star/c-star/[CSA C-STAR Assessment],
+Ribose has been consistently awarded the industry's highest cloud
+security ratings year after year: the highest security tier, Level 3, in
+MTCS and the highest maturity level, Gold, in STAR Certification.
+
+Ribose is also certified to http://www.iso.org/iso/iso_9000[ISO 9001],
+http://www.iso.org/iso/home/standards/management-standards/iso14000.htm[ISO
+14001],
+http://www.bsigroup.com/en-GB/ohsas-18001-occupational-health-and-safety/[OHSAS
+18001], http://www.isoiec20000certification.com[ISO/IEC 20000],
+http://www.bsigroup.com/en-GB/iso-22301-business-continuity/[ISO 22301],
+http://www.iso.org/iso/iso27001[ISO/IEC 27001],
+http://www.iso.org/iso/home/standards/management-standards/iso50001.htm[ISO
+50001], http://www.bsigroup.com/en-GB/pas-99-integrated-management/[PAS
+99], https://www.cyberstreetwise.com/cyberessentials[Cyber Essentials
+Plus],
+https://www.mesalliance.org/communities/CDSA/production-security-guidelines/[CDSA
+Content Protection Security (CPS)] and http://www.aicpa.org/soc[AICPA
+Service Organization Control (SOC)] standards, and approved by the
+https://www.digitalmarketplace.service.gov.uk/[UK Government's G-Cloud
+program] for government use.
+
+Ribose is free to use: https://www.ribose.com[ribose.com].
+
+== https://cloudsecurityalliance.org[About The Cloud Security Alliance]
+
+The Cloud Security Alliance (CSA) is the world's leading organization
+dedicated to defining and raising awareness of best practices to help
+ensure a secure cloud computing environment. CSA harnesses the subject
+matter expertise of industry practitioners, associations, governments,
+and its https://cloudsecurityalliance.org/membership/[corporate and
+individual members] to offer
+https://cloudsecurityalliance.org/research/[cloud security-specific
+research], https://cloudsecurityalliance.org/education/[education],
+https://cloudsecurityalliance.org/star/[certification],
+https://cloudsecurityalliance.org/events/[events] and products. CSA's
+activities, knowledge and extensive network benefit the entire community
+impacted by the cloud — from providers and customers, to governments,
+entrepreneurs and the assurance industry — and provide a forum through
+which diverse parties can work together to create and maintain a trusted
+cloud ecosystem. CSA has developed the definitive best practices for the
+industry, including the
+https://cloudsecurityalliance.org/research/security-guidance/["`Security
+Guidance for Critical Areas of Focus in Cloud Computing`"], the
+https://cloudsecurityalliance.org/research/ccm/["`Cloud Controls
+Matrix`"], https://cloudsecurityalliance.org/research/top-threats/["`Top
+Threats to Cloud Computing`"] and 50 other
+https://cloudsecurityalliance.org/research/[cloud security research
+artifacts].
+
+For further information, visit us at
+https://cloudsecurityalliance.org/[www.cloudsecurityalliance.org].
+
+== http://www.ceprei.org[About CEPREI Certification Body]
+
+CEPREI Certification Body is the leading third-party certification body
+in China, having first introduced the concept of certification to China
+in 1979. Originating from the Inspection Division of the
+https://www.ceprei.com[China Electronic Product Reliability and
+Environmental Research Institute] (https://www.ceprei.com/[the Fifth
+Electronics Research Institute] of the http://www.miit.gov.cn/[Ministry
+of Industry and Information Technology]), the nation's first scientific
+research organization engaging in product quality and reliability
+research, CEPREI operates in multiple jurisdictions around the world.
+
+Accredited by http://www.cnas.org.cn/[CNAS (China National Accreditation
+Service)], http://anab.org/[ANAB (ANSI-ASQ National Accreditation
+Board)] and http://www.isoiec20000certification.com/[APMG
+International], its clients are well assured that their certifications
+are recognized worldwide.
+
+For more information please visit: http://www.ceprei.org[ceprei.org]
+
+---
+
+Originally published at:
+
+* http://www.businesswire.com/news/home/20150623005649/en[Business Wire: Ribose Becomes First Cloud Service Provider Outside Mainland China to Complete CSA C-STAR Assessment on Cloud Security]
+* http://www.enhancedonlinenews.com/news/eon/20150623005650/en/ribose/collaboration/security[Business Wire EON: Ribose Becomes First Cloud Service Provider Outside Mainland China to Complete CSA C-STAR Assessment on Cloud Security]
+* http://www.businesswire.com/news/home/20150623005651/zh-HK/[Business Wire Chinese Traditional: Ribose成為中國大陸外首家完成 CSA C-STAR 雲端安全評估認證的雲端服務供應商]
+* http://www.businesswire.com/news/home/20150623005652/zh-CN/[Business Wire Chinese Simplified: Ribose 成为中国大陆外首家完成 CSA C-STAR 云安全评估认证的云服务提供商]
+

@@ -1,0 +1,114 @@
+---
+layout: post
+title: "Ribose Contributes Implementations of Chinese Cryptographic Algorithms to OpenSSL"
+date: 2018-09-13 11:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  Ribose Contributes Implementations of Chinese Cryptographic Algorithms to OpenSSL
+---
+= Ribose Contributes Implementations of Chinese Cryptographic Algorithms to OpenSSL
+
+*Enables compliant usage of OpenSSL toolkit within China*
+
+{blank}[13 September, 2018 -- Hong Kong & Newark, US]
+
+http://www.ribose.com[Ribose] has contributed the SM2, SM3 and
+SM4 Chinese cryptographic algorithms to the OpenSSL cryptographic
+library, which are now available for general use as part of
+OpenSSL's version 1.1.1 release.
+
+// [quote]
+// Ribose contributes implementations of Chinese cryptographic algorithms
+// to OpenSSL, compliant usage of OpenSSL toolkit within China now possible
+
+SM2, SM3, SM4 are "`commercial cryptography`" algorithms, mandated
+by the State Cryptographic Administration to be used within China,
+in accordance with the "`Regulation on the Administration of Commercial
+Cryptography`" issued by the State Council of the PRC in 1999. The
+algorithms are widely applied in technologies used within China to
+enable legal usage of cryptography, including public key infrastructure
+(PKI), identification and banking cards, Trusted Platform Module,
+and the OpenPGP and Transport Layer Security protocols.
+
+SM2 is an elliptic curve cryptographic system (ECC) that provides
+algorithms for public-key encryption, digital signatures, key agreement,
+and also parameters for the SM2-specific elliptic curve. SM2 was first
+published in 2010, and standardized as Chinese cryptographic standard
+GM/T 0003 and GB/T 32918 (5 parts).
+
+SM3 is a cryptographic hash algorithm designed by Prof. Xiaoyun Wang
+as a counterpart to the NIST SHA-256 algorithm with several strengthening
+features. SM3 was first published in 2010, and standardized as Chinese
+cryptographic standard GM/T 0004 and GB/T 32905.
+
+SM4 is a symmetric encryption algorithm designed for data encryption.
+The Chinese counterpart to AES (Advanced Encryption Standard), it
+is a 128-bit blockcipher designed for speed and suitability for encryption
+on low-powered devices. Designed by Prof. Shu-Wang Lu, it was standardized
+as Chinese cryptographic standard GM/T 0002 and GB/T 32907.
+
+Matt Caswell of OpenSSL said, "`The OpenSSL project develops and disseminates
+open and freely available technology to enable people worldwide to
+protect their data and communication. By supporting the Chinese cryptographic
+standards (SM2, SM3 and SM4) we hope to enable broader usage of OpenSSL
+within China for those industries adopting these national algorithms.
+We sincerely thank Ribose for their contributions to the OpenSSL project.`"
+
+According to Ribose founder Ronald Tse, "`Ribose is a staunch supporter
+of open-source and allowing people to secure their own data -- this
+contribution enables people and organizations operating in China to
+legally utilize the market-leading cryptographic library, OpenSSL,
+to protect their information. We appreciate the opportunity to collaborate
+with the OpenSSL team and commend them for supporting cryptography
+usage worldwide.`"
+
+---
+== About Ribose
+
+Ribose is the award-winning developer of asymmetric security™ technologies
+trusted by industries with heightened cybersecurity needs. Having
+pioneered the comprehensive approach to verifiable cybersecurity,
+Ribose is a Deloitte Technology FAST 20 and
+https://www.redherring.com/[Red Herring Top 100 Global] company, and
+received the CSA APAC Enterprise Award and several
+https://stevieawards.com/iba/[Stevie(R) Awards]
+for cybersecurity innovations.
+
+Ribose is the only cloud service provider (CSP)
+https://cloudsecurityalliance.org/star/levels/[triple-assured by the Cloud Security Alliance],
+the first CSP to receive
+https://www.bsigroup.com/en-GB/our-services/product-certification/kitemark/Kitemark-schemes-for-service-providers/kitemark-certification-for-secure-digital-banking/[BSI's Kitemark for Secure Digital Transactions],
+and the first to achieve certification to the highest security tiers in
+https://www.nist.gov/cyberframework[NIST CSF] and
+https://www.imda.gov.sg/[MTCS]. It is also certified to
+https://www.iso.org/iso-14001-environmental-management.html[ISO 14001],
+https://www.isoiec20000certification.com/[ISO/IEC 20000],
+https://www.iso.org/standard/50038.html[ISO 22301],
+https://www.iso.org/isoiec-27001-information-security.html[ISO/IEC 27001],
+https://www.iso.org/standard/43757.html[ISO/IEC 27017],
+https://www.iso.org/standard/61498.html[ISO/IEC 27018] and
+https://www.iso.org/iso-45001-occupational-health-and-safety.html[ISO 45001].
+
+
+Learn more at: https://www.ribose.com/[ribose.com].
+
+
+== About OpenSSL
+
+OpenSSL Software Foundation is the non-profit corporation that maintains
+the OpenSSL toolkit. The OpenSSL toolkit is the market-leading cryptographic
+library, and serves as a robust, commercial-grade, and full-featured
+toolkit for the Transport Layer Security (TLS) and Secure Sockets
+Layer (SSL) protocols. Licensed under an Apache-style license, the
+OpenSSL toolkit is freely available for most commercial and non-commercial
+purposes.
+
+Learn more at: https://www.openssl.org/[openssl.org]
+
+---
+
+Originally published at link:https://www.businesswire.com/news/home/20180913005432/en/[BusinessWire].
