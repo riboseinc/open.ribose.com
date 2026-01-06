@@ -1,0 +1,104 @@
+---
+layout: post
+title: "Ribose first to achieve CSA STAR Certification with new CCM 3.0.1 cloud security standard"
+date: 2014-11-16 16:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  Ribose first to achieve CSA STAR Certification with new CCM 3.0.1 cloud security standard
+---
+= Ribose first to achieve CSA STAR Certification with new CCM 3.0.1 cloud security standard
+
+*Hong Kong, 17 November 2014 --* http://www.ribose.com[Ribose] has become
+the world's first cloud service provider (CSP) to achieve
+https://cloudsecurityalliance.org/star/[STAR Certification] from the
+https://cloudsecurityalliance.org[Cloud Security Alliance (CSA)]
+compliant to the latest
+https://cloudsecurityalliance.org/research/ccm/[Cloud Controls Matrix
+(CCM) 3.0.1] cloud security standard. Ribose is also the first CSP to
+have achieved two consecutive STAR Gold Certifications, indicating the
+maturity level of its security controls.
+
+STAR Certification, the internationally-recognized cloud security
+certification program jointly developed by CSA and BSI, specifies
+comprehensive and stringent cloud security requirements on CSPs.
+Ribose's latest certification was awarded by BSI, and Ribose is
+currently the only CSP worldwide with STAR Certification compliant to
+the CCM 3 family of cloud security standards.
+
+"`Users depend on the Ribose platform to work and innovate with others.
+By achieving compliance to the most comprehensive cloud security
+standard to date, users can rest assured relying on Ribose for their
+success,`" noted Ronald Tse, founder of Ribose. "`Receiving two
+consecutive Gold ratings testifies to our commitment in protecting
+users' information and privacy to the greatest extent.`"
+
+David Horlock, Asia Pacific Managing Director of BSI, remarked, "`In
+today's connected world, cloud security and privacy are more important
+than ever. In becoming the world's first organization certified to the
+latest cloud security standard CCM 3.0.1, Ribose has again demonstrated
+its commitment to protecting its users' data by adopting world-class
+best practice in cloud security.`"
+
+"`Cloud security is an ongoing matter, and CSA continuously updates the
+CCM and the STAR Certification program to address the latest concerns.
+As a pioneer in cloud security, Ribose is leading the industry by
+certifying to the CCM 3.0.1 cloud security standard, reinforcing its
+commitment to providing a safe, secure collaboration platform,`"
+explained Jim Reavis, CEO of CSA.
+
+Aloysius Cheang, Standards Secretariat and Managing Director APAC of
+CSA, said, "`CCM 3.0.1 represents over a year of our work in addressing
+the latest cloud security concerns and industry best practices. In
+certifying to the latest cloud security standard, Ribose gives its users
+confidence that their information is well-protected.`"
+
+'''
+
+== About Ribose
+
+Ribose is a cloud collaboration platform that makes working together
+easy and fun. A forerunner in cloud security, Ribose is the world's
+first cloud service provider certified to
+https://cloudsecurityalliance.org/star/[CSA STAR] using
+https://cloudsecurityalliance.org/research/ccm/[CCM 3] and
+https://www.imda.gov.sg/regulations-licensing-and-consultations/ict-standards-and-quality-of-service/it-standards-and-frameworks/mtcs-certification-scheme[MTCS].
+It is also certified to http://www.iso.org/iso/iso27001[ISO/IEC 27001],
+http://www.iso.org/iso/catalogue_detail?csnumber=51986[ISO/IEC 20000-1]
+and
+https://www.mesalliance.org/communities/CDSA/production-security-guidelines/[CDSA
+CPS] standards, and approved by the
+https://www.digitalmarketplace.service.gov.uk/[UK Government's G-Cloud
+program] for government use.
+
+Ribose is free to use: http://www.ribose.com[ribose.com].
+
+== About BSI
+
+BSI (British Standards Institution) helps businesses turn best practices
+into habits of excellence. As the world's first national standards body
+and a founding member of http://www.iso.org/[ISO], BSI's standards
+inspire excellence across the globe:
+http://www.bsigroup.com[bsigroup.com].
+
+== http://www.cloudsecurityalliance.org/[About CSA]
+
+The Cloud Security Alliance is a not-for-profit organization led by a
+broad industry coalition. Dedicated to promote the use of best practices
+for providing security assurance within Cloud Computing, CSA also
+provides education on the uses of Cloud Computing to help secure all
+other forms of computing:
+http://www.cloudsecurityalliance.org[cloudsecurityalliance.org]­­.
+
+---
+
+Originally published at:
+
+* http://www.prnewswire.com/news-releases/ribose-first-to-achieve-csa-star-certification-with-new-ccm-301-cloud-security-standard-282909581.html[PRNewswire: Ribose First To Achieve CSA STAR Certification with New CCM 3.0.1 Cloud Security Standard]
+* http://en.prnasia.com/story/109657-0.shtml[PRNewswire HK: Ribose First To Achieve CSA STAR Certification with New CCM 3.0.1 Cloud Security Standard]
+* http://hk.prnasia.com/story/109658-2.shtml[PRNewswire HK: Ribose 全球率先獲得基於最新 CCM 3.0.1 雲端安全標準的 CSA STAR 認證]
+* http://www.prnasia.com/story/109659-1.shtml[PRNewswire China: Ribose全球率先获得基于最新CCM 3.0.1云安全标准的CSA STAR 认证]
+

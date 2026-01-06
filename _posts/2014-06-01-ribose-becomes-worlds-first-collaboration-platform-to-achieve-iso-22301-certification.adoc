@@ -1,0 +1,75 @@
+---
+layout: post
+title: "Ribose becomes world's first collaboration platform to achieve ISO 22301 certification"
+date: 2014-06-01 15:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  Ribose becomes world's first collaboration platform to achieve ISO 22301 certification
+---
+= Ribose becomes world's first collaboration platform to achieve ISO 22301 certification
+
+*Ribose becomes world's first collaboration platform to achieve ISO
+22301 certification*
+
+*Proven commitment to business continuity and service availability*
+
+*Hong Kong, 2 June 2014 --* http://www.ribose.com[Ribose] has become the
+world's first online collaboration platform and the first organization
+in Hong Kong to achieve http://www.iso.org[ISO] 22301:2012
+certification, upholding its steadfast commitment to the highest
+standards of availability for all users.
+
+Certifying resilience against business disruptions and other exceptional
+events, ISO 22301 specifies demanding requirements for implementing,
+operating, maintaining and improving business continuity management
+systems. Certification requires an independent auditor assessment of all
+applications, systems, processes and services. Ribose's certification is
+awarded by http://www.bsigroup.com[BSI (British Standards Institution),]
+the originator of the ISO 22301 standard, and accredited by the
+http://www.ukas.com/[United Kingdom Accreditation Service (UKAS)].
+
+According to Ribose founder Ronald Tse, "`Users rely on the Ribose
+platform for their mission-critical collaboration needs, so the
+continuity and availability of our service are paramount. Our ISO 22301
+accreditation is testament to our ability to maintain uninterrupted
+service -- anytime, anywhere, under any circumstances.`"
+
+Emmanuel Herve, Managing Director of BSI Hong Kong, stated: "`As the
+first collaboration platform to achieve ISO 22301 certification, Ribose
+has demonstrated its technical ability and dedication to assuring
+service continuity for its users. We commend Ribose for going the extra
+mile to test and verify its service availability through independent
+assessments and certifications, taking significant steps to ensure
+continuous access for all users.`"
+
+== About Ribose
+
+Ribose makes collaborating easy and fun. Whether planning business
+projects or social events, the Ribose platform helps users collaborate
+through enterprise-strength security certified to the highest standards,
+including ISO 27001, CSA STAR, and CDSA CPS. Also available as part of
+the UK Government's G-Cloud program, Ribose is free to use:
+http://www.ribose.com./[http://www.ribose.com].
+
+== About BSI
+
+The British Standards Institution is the business standards company that
+helps businesses turn best practices of into habits of excellence. As
+the world's first national standards body and a founding member of ISO,
+BSI is an organization whose standards inspire excellence across the
+globe: http://www.bsigroup.com
+
+Note: The term "`certification`" used here excludes unaccredited
+certifications.
+
+---
+
+Originally published at:
+
+* http://www.prnewswire.com/news-releases/ribose-becomes-worlds-first-collaboration-platform-to-achieve-iso-22301-certification-261492301.html[PRNewswire: Ribose becomes world's first collaboration platform to achieve ISO 22301 certification]
+* http://hk.prnasia.com/story/98353-2.shtml[PRNewswire HK: Ribose成為全球首家獲得ISO 22301認證的合作平台]
+

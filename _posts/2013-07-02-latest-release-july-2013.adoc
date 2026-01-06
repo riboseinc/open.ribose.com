@@ -1,0 +1,34 @@
+---
+layout: post
+title: "July 2013 Release"
+date: 2013-07-02 00:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  July 2013 Release
+---
+= July 2013 Release
+
+Earlier this month we released the latest Ribose update.
+
+The most noticeable update is the new profile interface. We've made it
+quicker and easier to edit and view your profile information. For
+example you can directly edit your name by hovering and clicking on it.
+Previously the profile only showed a few of your Contacts and Spaces by
+default but now we show a lot more so you click less.
+
+In Discussions, we have renamed 'Comments' to 'Replies' in response to
+an upcoming feature. Stay tuned.
+
+Other changes:
+
+* chat UI fixes & chat bugs
+* Bugs in Calendar, Files, Space Menu, Widgets, Guidance/Help, Password
+reset, email change request, invitation lightbox
+* notification widget fixes
+* wiki: optimization
+
+

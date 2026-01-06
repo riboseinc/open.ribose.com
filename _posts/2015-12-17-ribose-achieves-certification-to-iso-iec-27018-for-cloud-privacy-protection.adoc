@@ -1,0 +1,146 @@
+---
+layout: post
+title: "Ribose achieves certification to ISO/IEC 27018 for cloud privacy protection"
+date: 2015-12-17 16:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  Ribose achieves certification to ISO/IEC 27018 for cloud privacy protection
+---
+= Ribose achieves certification to ISO/IEC 27018 for cloud privacy protection
+
+*_Award winning collaboration platform compliant to international cloud privacy standard_*
+
+[Hong Kong] -- 18 December 2015 -- Ribose has achieved certification to
+ISO/IEC 27018, an international standard recently published by the
+International Standards Organization (ISO) that provides a code of
+practice for the protection of personally identifiable information (PII)
+in public clouds for PII processors.
+
+Created as an extension of the ISO/IEC 27001 standard for information
+security management systems, ISO/IEC 27018 describes commonly accepted
+control objectives, controls and guidelines to ensure that PII data is
+adequately protected when processed by a cloud PII processor, providing
+a common compliance framework for CSPs operating in multinational
+markets. Based on the eleven privacy principles contained in ISO/IEC
+29100, ISO/IEC 27018 specifies how to apply them within the ISMS
+framework for privacy protection in the cloud.
+
+This certification means that data managed by Ribose will never be sold
+to a third-party for advertising, nor subcontracted to parties they may
+breach the integrity of users' data. This also means that users retain
+full control of their data stored on Ribose, and that the company is
+transparent about where users' data resides and how it is processed.
+
+"`The ISO/IEC JTC 1 SC 27 committee creates and manages the ISO/IEC 27001
+family of standards, which includes ISO/IEC 27018 -- Code of practice for
+protection of personally identifiable information (PII) in public clouds
+acting as PII processors. In 2014, ISO/IEC published the 1^st^ Edition
+of ISO/IEC 27018 which provides control guidelines in support of an
+information security management system as stipulated in ISO/IEC
+27001. Ribose has extended considerable effort towards advancing
+protection of privacy in the cloud, as recognized through its successful
+completion of a formal review process in 2015, and is to be commended
+for all their efforts,`" said Dale Johnstone, Vice-Convener of ISO/IEC
+JTC1 SC 27 / WG 1.
+
+"`BSI is the originator of the ISO/IEC 27000 family of international
+information security standards, of which ISO/IEC 27018 is a part. As a
+contributor to the ISO/IEC 27018 standard, we worked closely with Ribose
+and experts from ISO/IEC JTC 1 SC 27 -- the subcommittee that developed
+the standard -- to ensure our rigorous certification program accurately
+assessed their adherence to the standard. We commend Ribose's commitment
+to protecting its users' privacy, and appreciate the valuable feedback
+they provided during the pilot program,`" said Emmanuel Hervé, Vice
+President of Standards Professional Services, BSI Asia Pacific and
+Managing Director, BSI Hong Kong.
+
+"`Ribose is proud to be the first CSP that provides ISO/IEC 27018-level
+privacy protection to all users -- including paid and free users,`"
+explained Ronald Tse, founder of Ribose. "`Our certification demonstrates
+that ISO/IEC 27018 is complementary with existing global and regional
+cloud security standards, including CSA's CCM and C-STAR, Singapore's
+MTCS and Chinese national standards.`"
+
+"`As a pioneer in cloud security and privacy, we apply a 'highest bar'
+approach to implement the most stringent, internationally-certified
+security standards across every jurisdiction where we operate: Hong
+Kong, US, UK/EU, Australia, New Zealand, Singapore and China. We believe
+that privacy is a right, not a luxury -- and protecting our users' data
+and privacy is paramount,`" continued Tse.
+
+Tse concluded, "`In today's connected world, privacy is more important
+than ever for collaborative work -- which often includes confidential
+commercial data. With increasing amounts of sensitive information being
+stored in the cloud, the consequences of a data breach could be
+disastrous for organizations, users, and their data subjects. Privacy
+and security are the ultimate differentiators, and Ribose is certified
+to the highest standards in the world.`"
+
+'''
+
+== About Ribose
+
+Ribose is the cloud collaboration platform that makes
+https://www.ribose.com/features[working together easy and fun] while
+https://www.ribose.com/commitments[protecting users' data] with the
+highest, internationally certified levels of security. Triple-assured by
+the Cloud Security Alliance, Ribose is the world's first cloud service
+provider certified to
+https://cloudsecurityalliance.org/star/attestation/[CSA STAR Attestation],
+ https://cloudsecurityalliance.org/star/certification/[CSA STAR Certification]
+(https://cloudsecurityalliance.org/research/ccm/[Cloud Controls Matrix, CCM 3.0.1]) and
+https://www.imda.gov.sg/regulations-licensing-and-consultations/ict-standards-and-quality-of-service/it-standards-and-frameworks/mtcs-certification-scheme[MTCS (Multi-Tier Cloud Security)],
+and the first Software-as-a-Service
+platform to complete the
+https://cloudsecurityalliance.org/star/c-star/[CSA C-STAR Assessment].
+Ribose has been consistently awarded the industry's highest cloud
+security ratings: the highest security tier, Level 3, in MTCS and the
+highest maturity level, Gold, in STAR Certification.
+
+This year, Ribose won two http://www.stevieawards.com[Gold Stevie® Awards] at the 2015 http://www.stevieawards.com/iba/[International Business Awards],
+where it was named
+_Most Innovative Company in Asia_
+and _Best New Collaboration Service_. It was also selected as a
+http://www.redherring.com/[Red Herring Top 100 Global] company, joining
+a prestigious list of up-and-coming technology companies; and awarded
+the CSA APAC Enterprise Award for Security Innovation of the Year.
+
+Ribose is also certified to http://www.iso.org/iso/iso_9000[ISO 9001],
+http://www.iso.org/iso/home/standards/management-standards/iso14000.htm[ISO 14001],
+http://www.bsigroup.com/en-GB/ohsas-18001-occupational-health-and-safety/[OHSAS 18001],
+http://www.isoiec20000certification.com[ISO/IEC 20000],
+http://www.bsigroup.com/en-GB/iso-22301-business-continuity/[ISO 22301],
+http://www.iso.org/iso/iso27001[ISO/IEC 27001],
+http://www.iso.org/iso/catalogue_detail.htm?csnumber=61498[ISO/IEC 27018],
+http://www.iso.org/iso/home/standards/management-standards/iso50001.htm[ISO50001],
+http://www.bsigroup.com/en-GB/pas-99-integrated-management/[PAS 99],
+https://www.cyberstreetwise.com/cyberessentials[Cyber Essentials Plus],
+https://www.mesalliance.org/communities/CDSA/production-security-guidelines/[CDSA Content Protection Security (CPS)] and
+http://www.aicpa.org/soc[AICPA Service Organization Control (SOC)] standards, and approved by the
+https://www.digitalmarketplace.service.gov.uk/[UK Government's G-Cloud program] for government use.
+
+Ribose is free to use: https://www.ribose.com[ribose.com].
+
+== About BSI
+
+BSI (British Standards Institution) equips businesses with the necessary
+solutions to turn standards of best practice into habits of excellence.
+As the world's first National Standards Body and a founding member of
+the http://www.iso.org/[International Organization for Standardization
+(ISO)], BSI is responsible for originating many of the world's most
+commonly used management systems standards and publishes over 2,700
+standards annually.
+
+Independently assessed and accredited globally by
+http://anab.org/[ANAB (ANSI-ASQ National Accreditation Board)]
+and by over 26 other
+accreditation bodies around the world including
+http://www.ukas.com/[UKAS (United Kingdom Accreditation Service)], BSI
+is globally recognized as a champion of best practice.
+
+For more information, please visit:
+http://www.bsigroup.com/[bsigroup.com].

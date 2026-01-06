@@ -1,0 +1,40 @@
+---
+layout: post
+title: "New feature: all Ribose emails now cryptographically signed with PGP"
+date: 2017-01-10 00:00:00
+categories: ribose
+featured: true
+author:
+  name: Erik B
+excerpt: >-
+  New feature: all Ribose emails now cryptographically signed with PGP
+---
+= New feature: all Ribose emails now cryptographically signed with PGP
+
+With email phishing and spoofing increasingly common today, many people
+are lulled into a false sense of despair. Yet there are methods to
+combat them, and the most oft-used one is cryptographic signing of
+emails.
+
+
+Since last week, Ribose cryptographically signs all emails to you via
+PGP to allow you can verify authenticity of our emails. A valid Ribose
+PGP signature proves that the email has not been modified in transit,
+and also proves that the sender is indeed Ribose instead of a malicious
+third party.
+
+To verify email PGP signatures, the current state of things require
+installation of some sort of plugin, but most of these tools do
+integrate nicely with your platform (Linux / macOS / Windows). We also
+have listed out recommended tools on our PGP page below.
+
+With many of our users coming from sensitive industries, some of them
+have voiced out their concern for encrypted email notifications to
+prevent data leakage from emails. As a next step, we will be enabling
+full encryption of emails in an upcoming release, with a facility to
+upload your public PGP key that will be used to encrypt all messages
+sent via email. Stay tuned!
+
+For more details on Ribose email signing and how to verify signatures,
+visit our https://www.ribose.com/pgp[PGP page] at
+https://www.ribose.com/pgp.

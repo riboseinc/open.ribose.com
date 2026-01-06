@@ -1,0 +1,387 @@
+---
+layout: post
+title: "Ribose joins the Metaverse Standards Forum as founding principal"
+date: 2022-06-21 00:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  Ribose joins the Metaverse Standards Forum as founding principal
+---
+= Ribose joins the Metaverse Standards Forum as founding principal
+
+http://www.ribose.com[Ribose] has joined the
+https://metaverse-standards.org/[Metaverse Standards Forum] as
+Principal and founding member.
+
+Ribose is committed to providing open cybersecurity and standardization
+technologies that serve as fundamentals for an open, inclusive and safe
+metaverse.
+
+[quote,Ronald Tse (Founder of Ribose)]
+____
+An open and interoperable Metaverse benefits all without discrimination. As a
+pioneer of SMART standards, Ribose has been a trusted partner of international,
+national and industry standardization bodies in their development and deployment
+of machine-readable standards: from ISO to ITU, BSI to NIST, CalConnect to OGC.
+We are excited to join fellow standards bodies and makers in creating standards
+and technologies critical to interoperability across the Metaverse.
+____
+
+
+== Summary
+
+https://metaverse-standards.org/[Metaverse Standards Forum] to foster the
+development of open standards for the metaverse;
+Membership is free and open to any organization.
+
+Founding members include: 0xSenses, Academy Software Foundation, Adobe, Alibaba,
+Autodesk, Avataar, Blackshark.ai, CalConnect, Cesium, Daly Realism, Disguise,
+the Enosema Foundation, Epic Games, the Express Language Foundation, Huawei,
+IKEA, John Peddie Research, Khronos, Lamina1, Maxon, Meta, Microsoft, NVIDIA,
+OpenAR Cloud, the Open Geospatial Consortium, Otoy, Perey Research and
+Consulting, Qualcomm Technologies, Ribose, Sony Interactive Entertainment,
+Spatial Web Foundation, Unity, VerseMaker, Wayfair, the Web3D Consortium, the
+World Wide Web Consortium, and the XR Association (XRA)
+
+== Leading Standards Organizations and Companies Unite to Drive Open Metaverse Interoperability
+
+June 21st, 2022 -- Announced today,
+The https://metaverse-standards.org/[Metaverse Standards Forum] brings
+together leading standards organizations and companies for industry-wide
+cooperation on interoperability standards needed to build the open metaverse.
+The Forum will explore where the lack of interoperability is holding back
+metaverse deployment and how the work of Standards Developing Organizations
+(SDOs) defining and evolving needed standards may be coordinated and
+accelerated. Open to any organization at no cost, the Forum will focus on
+pragmatic, action-based projects such as implementation prototyping, hackathons,
+plugfests, and open-source tooling to accelerate the testing and adoption of
+metaverse standards, while also developing consistent terminology and deployment
+guidelines.
+
+The metaverse is motivating the novel integration and deployment of diverse
+technologies for collaborative spatial computing, such as interactive 3D
+graphics, augmented and virtual reality, photorealistic content authoring,
+geospatial systems, end-user content tooling, digital twins, real-time
+collaboration, physical simulation, online economies, multi-user gaming, and
+more -- at new levels of scale and immersiveness.
+
+Multiple industry leaders have stated that the potential of the metaverse will
+be best realized if it is built on a foundation of open standards. Building an
+open and inclusive metaverse at pervasive scale will demand a constellation of
+open interoperability standards created by SDOs such as The Khronos Group, the
+World Wide Web Consortium, the Open Geospatial Consortium, the Open AR Cloud,
+the Spatial Web Foundation, and many others. The Metaverse Standards Forum aims
+to foster consensus-based cooperation between diverse SDOs and companies to
+define and align requirements and priorities for metaverse
+standards—accelerating their availability and reducing duplication of effort
+across the industry.
+
+"The metaverse will bring together diverse technologies, requiring a
+constellation of interoperability standards, created and maintained by many
+standards organizations," said Neil Trevett, Khronos president. "The Metaverse
+Standards Forum is a unique venue for coordination between standards
+organizations and industry, with a mission to foster the pragmatic and timely
+standardization that will be essential to an open and inclusive metaverse."
+
+Hosted by the Khronos Group, the Forum is open to any company, standards
+organization, or university at no charge through a simple click-through
+Participant Agreement. Companies that wish to provide Forum oversight, and may
+wish to fund Forum projects, can choose to become a Principal member.
+
+The activities of the Forum will be directed by the needs and interests of its
+members and may involve diverse technology domains such as 3D assets and
+rendering, human interface and interaction paradigms such as AR and VR, user
+created content, avatars, identity management, privacy, and financial
+transactions. Forum meetings are expected to start in July 2022. More
+information on joining can be found at metaverse-standards.org.
+
+== Forum Founding Members Statements of Support
+
+"Technology and standards are the bricks and cement of the metaverse," said
+*Qi Wang, assistant president and head of healthcare and cognitive psychology lab at 0xSenses*.
+"Safe, reliable, and ethical interoperability is especially important
+as humans become part of the metaverse. 0xSenses is thrilled to join the
+Metaverse Standards Forum as a founding principal help make the metaverse
+dreams come true faster and better."
+
+"The Academy Software Foundation is pleased to join the Metaverse Standard Forum
+as a Founding member, because open source software developed by motion picture
+industry engineers can contribute building blocks for the Metaverse," said
+*David Morin, executive director of Academy Software Foundation (ASWF)*. When it comes
+to building strange new worlds and boldly go where no one has gone before, count
+us in."
+
+"Adobe is excited to join the Metaverse Standards Forum," said
+*Stefano Corazza, vice president and fellow of AR at Adobe*.
+"It is in our history to contribute to the industry by defining foundational
+standards for digital experiences, as we did with PDF and DNG. Establishing
+standards is essential to foster collaboration in the Metaverse, and to allow
+this new ecosystem to truly flourish."
+
+"Alibaba is pleased to join The Metaverse Standards Forum which encourages
+collaboration on interoperability standards of the open metaverse," said
+*Dr Tan Ping, head of XR Lab, Alibaba DAMO Academy*.
+"We look forward to sharing our technology knowhow and joining global industry
+leaders to accelerate constructive dialogues to advance new initiatives in the
+metaverse space."
+
+"We are thrilled to be a founding member of the Metaverse Standards Forum as it
+fosters open standards and collaboration that will unlock the full potential of
+metaverse experiences," said
+*Eric Bourque, vice president of Engineering, Media & Entertainment, Autodesk*.
+"The future of design and make is the industrial metaverse where designers,
+builders, manufacturers and content creators can make better, more informed
+decisions quickly."
+
+"Avataar is extremely excited and proud to be taking part in The Metaverse
+Standards forum alongside such highly esteemed company," said
+*Daniel Frith, vice president of 3D, Avataar*.
+"There is going to be a huge need for technical products as well as content in
+the Metaverse and standards will need to play a pivotal role to ensure all users
+have a consistent and enjoyable experience no matter where and how they
+connect."
+
+"The metaverse will ultimately encompass all our activities and support them
+with applications. Just like standardization has been an important foundation
+for open knowledge sharing and rapid development in the Web age, the same is
+true for the Metaverse. Blackshark is pleased to contribute to this success by
+participating in the Metaverse Standards Forum," said
+*Arno Hollosi, CTO at Blackshark.ai*.
+
+"CalConnect focuses on creating standards that enable interoperable
+collaboration, with some of our key standards like vCard and iCalendar in use
+across billions of devices today", said
+*Gershon Janssen, president of CalConnect*.
+"CalConnect is delighted to join fellow standards organizations in ensuring the
+interoperability of the Metaverse."
+
+"The Internet is built on open standards and interoperability for the benefit of
+all participants. As we move into the era of 3D-centric computing, we must build
+the metaverse in the same manner. I can't think of a better home than Khronos to
+host the Metaverse Standards Forum to facilitate pragmatic collaboration among
+the community for open standards for the metaverse, especially  for 3D assets,
+which will become as pervasive as image and video media types on the web today.
+Cesium is thrilled to join as a Founding Principal as we lay the foundations
+for the metaverse for decades to come," said *Patrick Cozzi, CEO at Cesium*.
+
+"disguise is excited to join the Metaverse Standardization Forum," said
+*Ed Plowman, CTO of disguise*. "disguise believes that the Metaverse should be
+open, inclusive and collaborative and that can only be achieved if we get
+together and focus on standards, connectivity and interoperability."
+
+"Semantic insights from terminologies and vocabularies serve as the basis for
+any new initiative," said
+*Reese Plews, president of the Enosema Foundation*.
+"The Enosema Foundation is excited to join the Metaverse Standards Forum and
+standardize core vocabularies based on best practices that enable disruptive
+opportunities in the metaverse."
+
+"We are thrilled to help launch the Metaverse Standards Forum, a collaborative
+industry-led effort founded to accelerate the development and adoption of
+interoperability standards," said
+*Marc Petit, vice president of Unreal Engine ecosystem at Epic Games*.
+"Our goal is to build an open metaverse that enriches humanity and is home to a
+thriving, fair ecosystem with millions of creators."
+
+"The Metaverse is the new frontier for the expression of information. As an
+organization supporting the EXPRESS language used to great success in the
+aerospace, automotive and construction industries, we are excited to work with
+like-minded standardization and commercial organizations in setting standards to
+bridge the physical and the virtual worlds," said
+*Thomas Thurman, president of the EXPRESS Language Foundation*.
+
+"Huawei is very glad to join the Metaverse Standards Forum as we believe that
+the metaverse industry and ecosystem will benefit from the collaborative actions
+and open standards," said
+*Xiao Ran, vice president of Huawei's Corporate Strategy and Industry Development*.
+"We look forward to cooperating with the leading SDO's and industry partners to
+accelerate the open interoperability standards for metaverse and contribute our
+experiences."
+
+"IKEA is looking forward to this Metaverse Standards Forum as we believe that
+the way to democratize metaverse and spatial computing is to have many open
+standards that work well together," says
+*Martin Enthed, innovation manager at IKEA Marketing & Communication AB*.
+"This forum we hope will be a place where
+that coordination could happen between SDO's, industry, and where IKEA can
+contribute with the use cases and experiences from our industry."
+
+"Lamina1 is committed to an open Metaverse for all— controlled by no one, with
+no barriers to entry, and where creators from all walks of life can succeed and
+thrive," said *Tony Parisi, chief strategy officer at Lamina1*. "We are excited to
+work in collaboration with industry leaders to define the interoperable
+standards and infrastructure that empower real-time 3D for community,
+communication and commerce on a global scale."
+
+"Maxon is pleased to be an initial member of the Metaverse Standards Forum. We
+believe strongly in cultivating a collaborative, artist-driven, inclusive
+foundation to bolster the implementation and adoption of interoperability
+standards," said *David McGavran, CEO of Maxon*. "We see standardization as a
+catalyst for creativity, growth, innovation and unlimited possibility for this
+inspiring new ecosystem."
+
+"Building a metaverse for everyone will require an industry-wide focus on common
+standards. The Metaverse Standards Forum can drive the collaboration that's
+needed to make this possible, and Meta is committed to this work. Creators,
+developers and companies will all benefit from the technologies and experiences
+that will be made possible by common protocols," said
+*Vishal Shah, vice president of Metaverse at Meta*.
+
+"NVIDIA understands the metaverse as an evolution of the Internet — from today's
+2D view of the web to an immersive 3D spatial overlay," said
+*Rev Lebaredian, vice president, Omniverse & Simulation Technology at NVIDIA*.
+"For the metaverse to be successful and ubiquitous, it must be built on open
+standards, just like today's 2D web — and our joining the Metaverse Standards
+Forum will help the community usher in a new era of collaborative and open 3D
+standards that will form the foundation of the metaverse."
+
+"The Open AR Cloud Association (OARC) sees the Metaverse Standards Forum as a
+much needed practical approach to accelerate coordination across industries and
+initiatives. We believe technologies which promote open standards,
+interoperability, privacy, and security are needed for a real-world Metaverse or
+Spatial Web. Since 2018 OARC's mission has been to advocate for, build consensus
+for, and contribute to such efforts. We are happy to offer our full support for
+the Metaverse Standards Forum," said *Jan-Erik Vinje, managing director of OARC*.
+
+"OGC is very pleased to join the Metaverse Standards Forum with our partner
+organizations," said *Nadine Almeh, Open Geospatial Consortium president*. "We
+look forward to providing our consortium's collective expertise in the
+geospatial and location fields as part of these partnerships across Standards
+Development Organizations, industry, and more to ensure the emerging metaverse
+is as relevant and as open as possible."
+
+"As we enter a new era of spatial computing and holographic mixed reality, OTOY
+is thrilled to contribute to the Metaverse Standards Forum," said
+*Jules Urbach, CEO and founder of OTOY Inc*.
+"Open standards developed in collaboration with the leading SDO will provide a
+framework for building an open metaverse that has the potential to reshape how
+we communicate, transform our creative economy, and power new industries built
+on advanced 3D visualization. We are looking forward to collaborating with
+industry leaders in the Metaverse Standards Forum, contributing our experiences
+at the forefront of 3D graphics and blockchain cloud computing."
+
+"As a metaverse enabler and provider of key technology to the ecosystem,
+Qualcomm Technologies believes in taking an open platform approach and
+interoperable metaverse," said
+*Hugo Swart, vice president and general manager of XR, Qualcomm Technologies, Inc*.
+"We are thrilled to join the Metaverse Standards Forum to help define standards
+for the metaverse to flourish with a healthy ecosystem, and help creators
+pioneer innovative experiences that will lead the next generation of immersive
+technology."
+
+"An open and interoperable Metaverse benefits all without discrimination. As a
+pioneer of SMART standards, Ribose has been a trusted partner of international,
+national and industry standardization bodies in their development and deployment
+of machine-readable standards: from ISO to ITU, BSI to NIST, CalConnect to OGC,"
+said *Ronald Tse, founder of Ribose*. "We are excited to join fellow standards
+bodies and makers in creating standards and technologies critical to
+interoperability across the Metaverse."
+
+"The Spatial Web Foundation is excited to join the Metaverse Standards Forum to
+collaborate with the world's leading standards organizations to accelerate the
+critical interoperability standards needed for metaverse applications and across
+the broader Spatial Web," said
+*Gabriel Rene, Spatial Web Foundation executive director*.
+
+"Unity is committed to helping solve challenges customers face today for
+creating and sharing the rich content needed for film, gaming, advertising and
+digital twin experiences," said
+*Allan Poore, SVP of professional artistry at Unity*,
+"We look forward to partnering with the Metaverse Standards Forum to extend USD
+as the future for rich interoperability across tools and workflows in the
+industry."
+
+"VerseMaker is committed to becoming a bridge and catalyst for China's research
+and development, education and training, large enterprises, start-up companies,
+and investment institutions to participate in the global metaverse innovation
+and cooperation ecosystem," said *Dr. Yu Yuan, co-founder of VerseMaker*.
+"Standardization is the underlying driving force for the development of the
+global metaverse industry. An open and cooperative ecosystem based on standards
+is the common vision of the global metaverse industry. We are thrilled to be a
+founding principal of the Metaverse Standards Forum and jointly create the
+future of the global metaverse industry."
+
+"Wayfair, with our mission to help people create their feeling of home, whether
+in physical or virtual spaces, is proud to be a founding member of the Metaverse
+Standards Forum," said
+*Shrenik Sadalgi, director of research and development at Wayfair* &
+founding chair of the Khronos 3D Commerce Working Group. "Together
+with the other participating members we are excited to take on a leadership role
+in the creation of these new standards and help chart the path forward to a
+truly open metaverse."
+
+"The Metaverse Standards Forum provides a unique opportunity to achieve secure,
+collaborative (interoperable), durable, and pervasive Mixed-Reality content,"
+said *Nicholas Polys Ph.D., president of the Web3D Consortium*. The Web3D
+Consortium members bring decades of prior research into 3D graphics
+interoperability and WWW ecosystem standardizations; integration with ISO-IEC
+Extensible 3D (X3D) Version 4 will bring quick wins that catalyze new value and
+provide crucial assurances for Metaverse creators and participants."
+
+"The World Wide Web Consortium (W3C) is joining the Metaverse Standards Forum to
+accelerate the coordination with other standards organizations and metaverse
+stakeholders in building an interoperable platform for the metaverse, in which
+W3C's Immersive Web vision is set to play a critical role," said
+*Dominique Hazaël-Massieux, W3C immersive web strategist*.
+
+"XR Association is pleased to be part of this prestigious collaborative effort
+to design the XR standards framework," said
+*Stephanie Montgomery, vice president of Research and Best Practices at XRA*.
+"Our mission is the responsible development and advancement of XR.  Through the
+Metaverse Standards Forum we will contribute to common protocols,
+interoperability and shared understanding, thereby responsibly improving
+technological efficiencies and advancing XR technology to new levels of
+delight."
+
+== About the Metaverse Standards Forum
+
+The Metaverse Standards Forum brings together companies and standards
+organizations to foster alignment on requirements and priorities for metaverse
+interoperability standards, and accelerate their development and deployment
+through pragmatic, action-based projects. Open to any organization at no cost,
+founding members include 0xSenses, Academy Software Foundation, Adobe, Alibaba,
+Autodesk, Avataar, Blackshark.ai, CalConnect, Cesium, Daly Realism, Disguise,
+the Enosema Foundation, Epic Games, the Express Language Foundation, Huawei,
+IKEA, John Peddie Research, Khronos, Lamina1, Maxon, Meta, Microsoft, NVIDIA,
+OpenAR Cloud, the Open Geospatial Consortium, Otoy, Perey Research and
+Consulting, Qualcomm Technologies, Ribose, Sony Interactive Entertainment,
+Spatial Web Foundation, Unity, VerseMaker, Wayfair, the Web3D Consortium, the
+World Wide Web Consortium, and the XR Association. Learn more at
+metaverse-standards.org, and follow the Metaverse Standards Forum on Twitter
+@metaverse_forum.
+
+Metaverse Standards Forum and the Metaverse Standards Forum logos are trademarks
+of The Khronos Group, for the benefit of The Metaverse Standards Forum.
+
+== About Ribose
+
+Ribose creates asymmetric security™ and standardization technologies trusted by
+industries with heightened cybersecurity needs. Having pioneered the
+comprehensive approach to verifiable cybersecurity, Ribose is a Deloitte
+Technology FAST 20 and http://www.redherring.com/[Red Herring Top 100 Global]
+company, and received the CSA APAC Enterprise Award and several
+http://www.stevieawards.com/iba/[Stevie® Awards] for its innovations.
+
+Ribose is the first cloud service provider (CSP) to achieve certification to the
+CSA CCM 4.0 and to achieve the highest security tiers in
+https://www.nist.gov/cyberframework[NIST CSF] and
+https://www.imda.gov.sg/regulations-and-licensing-listing/ict-standards-and-quality-of-service/IT-Standards-and-Frameworks/Compliance-and-Certification[MTCS].
+It is also certified to
+https://www.iso.org/iso-9001-quality-management.html[ISO 9001],
+https://www.iso.org/iso-14001-environmental-management.html[ISO 14001],
+https://apmg-international.com/product/iso-iec-20000[ISO/IEC 20000],
+https://www.iso.org/standard/75106.html[ISO 22301],
+https://www.iso.org/isoiec-27001-information-security.html[ISO/IEC 27001],
+https://www.iso.org/standard/43757.html[ISO/IEC 27017],
+https://www.iso.org/standard/76559.html[ISO/IEC 27018],
+https://www.iso.org/standard/71670.html[ISO/IEC 27701] and
+https://www.iso.org/iso-45001-occupational-health-and-safety.html[ISO 45001].
+
+Learn more at: https://www.ribose.com/[ribose.com].
+
+---
+
+Originally published at link:https://metaverse-standards.org/news/press-releases/leading-standards-organizations-and-companies-unite-to-drive-open-metaverse-interoperability/[Metaverse Standards Forum].

@@ -1,0 +1,51 @@
+---
+layout: post
+title: "New release: emojis, IDNs/gTLDs, avatars, named poll, network status monitoring"
+date: 2015-11-11 16:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  New release: emojis, IDNs/gTLDs, avatars, named poll, network status monitoring
+---
+= New release: emojis, IDNs/gTLDs, avatars, named poll, network status monitoring
+
+Hello everyone,
+
+We've just deployed our latest release, bringing a number of bugfixes as
+well as much awaited features, including:
+
+* Emoji (and full unicode) support: For all text, everywhere. A
+picture's worth more than a thousand words!
+
+* Support for IDNs and gTLD email addresses: Previously emails
+containing non-ASCII characters and international domain names such as
+.在线, .みんな, .شبكة or .сайт were not supported. Now they all are and
+treated as first-class citizens -- the same way as ASCII email addresses
+are. Similarly we now support all valid gTLDs in account emails.
+
+* Avatars: Default avatars for users and spaces are now using the
+initials of their names. This allows users to easily differentiate
+between spaces that don't have personalized avatars to some extent. Of
+course, we recommend every space to set a descriptive avatar for your
+users' sake!
+
+* Poll: Anonymous and named polls. Previously you can only issue
+anonymous polls, and we received a lot of feedback requesting for "named
+polls" that allows showing who voted for which option in the voting
+results. You can now do this when you select "Poll Anonymity > Named"
+when creating a poll.
+
+* Network status monitoring: The application is now aware whenever the
+network goes offline, with a friendly reminder that changes made won't
+be saved at the time.
+
+* Security hardening and performance enhancements across the board,
+where the bulk of the release is about.
+
+Any problems, feedback or general comments, feel free to contact us
+through the feedback form, or email support@ribose.com.
+
+Thank you again for your support!

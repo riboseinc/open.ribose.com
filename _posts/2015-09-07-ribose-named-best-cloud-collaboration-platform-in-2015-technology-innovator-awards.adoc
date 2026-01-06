@@ -1,0 +1,131 @@
+---
+layout: post
+title: "Ribose named Best Cloud Collaboration Platform in 2015 Technology Innovator Awards"
+date: 2015-09-07 16:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  Ribose named Best Cloud Collaboration Platform in 2015 Technology Innovator Awards
+---
+= Ribose named Best Cloud Collaboration Platform in 2015 Technology Innovator Awards
+
+Hong Kong -- 8 September 2015 -- Ribose was named Best Cloud Collaboration
+Platform in the 2015 Technology Innovator Awards hosted by the Corporate
+Vision Magazine.
+
+Ribose joined other winners including AIG, Level 3 Communications and
+Standard Life in accepting the award for its cloud collaboration
+platform, which democratizes collaboration technology - previously only
+affordable to large enterprises and government organizations - by
+putting world-class security and technology into the hands of all users.
+
+Announced on 3 September, the 2015 Technology Innovator Awards highlight
+the individuals departments and firms who, through their commitment,
+experience and willingness to explore and take advantages of the
+opportunities presented, are developing and sharing the technology that
+will continue to enhance and fundamentally alter the business world for
+the better for many years to come. Award winners are decided by a
+combination of votes gathered from Corporate Vision Magazine's network
+of respected industry partners and rigorous in-house research, performed
+by a dedicated network of industry insiders and corporate specialists.
+
+Capturing the attention of the technology and business worlds, Ribose
+has been featured in Fortune and TechTarget. Accessible anywhere,
+offering enterprise-level service dependability, and complying with
+international governance standards -- the Ribose platform gives users
+peace of mind to focus on their tasks at hand. Ribose provides high
+levels of security for all users by meeting the most stringent specified
+requirements worldwide, advocating a 'highest-bar' approach to cloud
+security.
+
+In addition to winning the Technology Innovator Award, Ribose also won
+two Gold Stevie® Awards at the 2015 International Business Awards, where
+it was named _Most Innovative Company in Asia_ and also _Best New
+Collaboration Service_.
+
+Ribose founder Ronald Tse remarked, "`Ribose is very happy to receive
+this positive acknowledgment of our product and our mission. This award
+truly stands as testament to our team's dedication and hard work. I also
+must thank everyone who nominated and voted for Ribose -- we are honored
+for this recognition of our world-class collaboration platform that
+makes working together easy and fun.`"
+
+"`Users often rely on our platform to create high-value, mission-critical
+results involving important intellectual property or highly confidential
+information. With this in mind, we need to be aware of our users'
+real-world needs -- which they might not express or even realize.
+Ribose's world-class security stems from this philosophy, and it's a
+commitment that our users genuinely appreciate,`" explained Tse.
+
+According to Technology Innovator Awards Co-ordinator Laura Hunter, "`It
+goes without saying that technology is continually improving and
+transforming both the business world and our everyday lives. Ribose has
+proven that its innovative collaboration platform fills a unique need in
+the industry -- and its continued development paves the way for the
+future of highly secure, easy-to-use collaboration software.`"
+
+To learn more about the 2015 Technology Innovator Awards, view the list
+of winners and discover the stories behind their success, please visit
+http://www.corp-vis.com/[corp-vis.com].
+
+'''
+
+== https://www.ribose.com/[About Ribose]
+
+Ribose is a cloud collaboration platform that makes
+https://www.ribose.com/features[working together easy and fun] while
+https://www.ribose.com/commitments[keeping your data safe]. As the
+world's first cloud service provider certified to
+https://www.imda.gov.sg/regulations-licensing-and-consultations/ict-standards-and-quality-of-service/it-standards-and-frameworks/mtcs-certification-scheme[MTCS
+(Multi-Tier Cloud Security)],
+https://cloudsecurityalliance.org/star/attestation/[CSA STAR
+Attestation], https://cloudsecurityalliance.org/star/certification/[CSA
+STAR Certification]
+(https://cloudsecurityalliance.org/research/ccm/[Cloud Controls Matrix,
+CCM 3.0.1]) and the first Software-as-a-Service platform to complete the
+https://cloudsecurityalliance.org/star/c-star/[CSA C-STAR Assessment],
+Ribose has been consistently awarded the industry's highest cloud
+security ratings year after year: the highest security tier, Level 3, in
+MTCS and the highest maturity level, Gold, in STAR Certification.
+
+Ribose is also certified to http://www.iso.org/iso/iso_9000[ISO 9001],
+http://www.iso.org/iso/home/standards/management-standards/iso14000.htm[ISO
+14001],
+http://www.bsigroup.com/en-GB/ohsas-18001-occupational-health-and-safety/[OHSAS
+18001], http://www.isoiec20000certification.com/[ISO/IEC 20000],
+http://www.bsigroup.com/en-GB/iso-22301-business-continuity/[ISO 22301],
+http://www.iso.org/iso/iso27001[ISO/IEC 27001],
+http://www.iso.org/iso/home/standards/management-standards/iso50001.htm[ISO
+50001], http://www.bsigroup.com/en-GB/pas-99-integrated-management/[PAS
+99], https://www.cyberstreetwise.com/cyberessentials[Cyber Essentials
+Plus],
+https://www.mesalliance.org/communities/CDSA/production-security-guidelines/[CDSA
+Content Protection Security (CPS)] and http://www.aicpa.org/soc[AICPA
+Service Organization Control (SOC)] standards, and approved by the
+https://www.digitalmarketplace.service.gov.uk/[UK Government's G-Cloud
+program] for government use.
+
+Ribose is free to use: https://www.ribose.com/[ribose.com].
+
+== http://www.corp-vis.com/[About Corporate Vision Magazine]
+
+Created by a highly experienced and passionate team of business experts,
+advisors and insiders, Corporate Vision provides discerning readers
+worldwide with a wealth of news, features and comment on the corporate
+issues of the day.
+
+Corporate Vision boasts a truly global reach, with a subscriber list
+that reaches 170,000 top-tier professionals from Europe to the US,
+Africa to Asia and includes some of the most prominent CEOs and leading
+figures from the worlds of technology, training and education,
+marketing, innovation and design, products and services, support
+services and strategy.
+
+Learn more at http://www.corp-vis.com/[corp-vis.com].
+
+---
+
+Originally published at: https://www.businesswire.com/news/home/20150908005691/en/Ribose-Named-Best-Cloud-Collaboration-Platform-in-2015-Technology-Innovator-Awards[BusinessWire]

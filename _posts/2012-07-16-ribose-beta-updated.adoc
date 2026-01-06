@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Ribose Beta updated"
+date: 2012-07-16 00:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  Ribose Beta updated
+
+---
+= Ribose Beta updated
+
+At Ribose we have been busy incorporating your feedback in the system
+(Thank you!) . This release should have resolved a lot of user reported
+issues. Please continue letting us know your thoughts via the 'Give Us
+Feedback' menu . Thanks!
+
+Ribose Team

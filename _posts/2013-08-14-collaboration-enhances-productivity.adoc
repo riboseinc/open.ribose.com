@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Collaboration enhances productivity"
+date: 2013-08-14 00:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  Collaboration enhances productivity
+---
+= Collaboration enhances productivity
+
+Collaboration enhances productivity. There is so much to be gained from
+collaboration — it can open your mind to new ideas, different opinions,
+and a fresh perspective. The process of collaboration creates room for
+dialogue that can affirm your existing vision, challenge it, and
+ultimately strengthen it. For any occasion in your life, find
+opportunities to collaborate with others, even if it is just bouncing
+ideas back and forth with a friend.

@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Ribose new release"
+date: 2013-06-03 00:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  Ribose new release
+---
+= Ribose new release
+
+Hello fellow Ribosers!
+
+Our May release has been deployed a week ago, containing new features as
+well as fixes for bugs reported by our users (thank you!)
+
+Upon login you will notice the new intro screen, showing your avatar
+with a clearer progress indicator.
+
+The Chat interface has been revamped to give you more screen space
+allowing easier focus on the content area. For those who often work with
+multiple tabs, the title bar now blinks to let you know when a new
+message arrives. Chat statuses are now "available", "busy" and
+"invisible" to better reflect what they do.
+
+Sending feedback to our team has never been easier now with the newly
+designed feedback forms. Bugfixes in this release cover a wide spectrum
+including invitations, Calendar, Wiki, Widgets, Files, email, People,
+ToDos, Notification. Lastly, numerous performance enhancements have been
+included this time.
+
+We are committed to make Ribose better and better. Stay tuned for our
+next release in couple weeks. In the meantime, enjoy Riboseing!
+
+Team Ribose

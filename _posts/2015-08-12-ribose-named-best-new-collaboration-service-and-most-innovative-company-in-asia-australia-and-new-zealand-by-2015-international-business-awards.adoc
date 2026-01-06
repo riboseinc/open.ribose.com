@@ -1,0 +1,153 @@
+---
+layout: post
+title: "Ribose named Best New Collaboration Service and Most Innovative Company in Asia, Australia and New Zealand by 2015 International Business Awards"
+date: 2015-08-12 16:00:00 
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  Ribose named Best New Collaboration Service and Most Innovative Company in Asia, Australia and New Zealand by 2015 International Business Awards
+---
+= Ribose named Best New Collaboration Service and Most Innovative Company in Asia, Australia and New Zealand by 2015 International Business Awards
+
+*Company wins two Gold Stevie® Awards in world's premier business awards program*
+
+Hong Kong -- 13 August 2015 -- Ribose was named winner of two Gold Stevie®
+Awards in the "`Best New Product or Service of the Year -- Software
+Collaboration/Social Networking Solution`" and "`Most Innovative Company
+of the Year in Asia, Australia and New Zealand`" categories in The 12^th^
+Annual International Business Awards today.
+
+The International Business Awards are the world's premier business
+awards program. All individuals and organizations worldwide -- public and
+private, for-profit and non-profit, large and small -- are eligible to
+submit nominations. The 2015 IBAs received entries from more than 60
+nations and territories. More than 3,700 nominations from organizations
+of all sizes and in virtually every industry were submitted this year
+for consideration in a wide range of categories.
+
+The Ribose cloud collaboration platform democratizes collaboration
+technology, previously only affordable to large enterprises and
+government organizations, by putting world-class security and technology
+into the hands of all users. Capturing the attention of the technology
+and business worlds, Ribose has been featured in Fortune and TechTarget.
+
+Accessible anywhere, offering enterprise-level service dependability,
+and complying with international governance standards -- the Ribose
+platform gives users peace of mind to focus on their tasks at hand.
+Advocating a 'highest-bar' approach to cloud security, Ribose provides a
+higher level of security for all users by meeting the most stringent
+specified requirements worldwide.
+
+According to Ribose founder Ronald Tse, "`Ribose is delighted to have won
+not only one, but two Gold Stevie Awards in the hotly contested 'Best
+New Product or Service of the Year' and 'Most Innovative Company of the
+Year in Asia, Australia and New Zealand' categories at this year's
+International Business Awards. These awards stand as testament to our
+mission of providing world-class collaboration capability to make
+working together easy and fun -- while protecting users' data with the
+highest, internationally certified levels of security.`"
+
+He continued, "`We would like to thank the organizers for putting this
+year's awards together, and are humbled by the expert judges'
+recognition of our work -- especially considering the impressive list of
+nominees from around the globe. On behalf of our team at Ribose, we
+congratulate all of this year's award winners and nominees. It is an
+honor to be included amongst such distinguished company.`"
+
+Stevie Award winners were determined by the average scores of more than
+200 executives worldwide who participated in the judging process from
+May through early August.
+
+IBA Judges commended the Ribose platform for democratizing secure
+collaboration, by providing a "`technically robust offering`" with
+"`collaboration tools in a secured setting`", allowing an unprecedented
+flexibility to use the "`open platform`" in both "`professional working and
+fun`" settings through a "very easy to use and attractive interface
+design" -- as winning factors in naming Ribose's platform the Best New
+Product or Service of the Year in the Software
+Collaboration/Social-Network Solution category. Ribose's security focus
+was best summarized by a judge who noted: "`Most existing cloud
+collaboration software simply does not offer the necessary security
+levels to protect mission-critical, commercially sensitive projects.`"
+
+In naming Ribose the Most Innovative Company of the Year in Asia,
+Australia and New Zealand, IBA Judges lauded the company's "`great
+commitment and great team, deploying the technology to the benefit of
+both the company and the community,`" "`professional management`" and
+"`excellent performance`", as well as its "`impressive accomplishment in
+achieving multiple certifications`", providing users with "`all the
+benefits of an enterprise-class collaboration platform, with none of the
+associated infrastructure and costs.`"
+
+"`We congratulate Ribose on winning Two Gold Stevie Awards in the 12th
+Annual International Business Awards. This year, the Stevie Awards
+received over 3,700 entries lauding stories of success and achievement
+around the world. Out of all these world-class entries, the fact that
+our judges selected Ribose for two Gold Stevie Awards stands as
+testament to the company's innovation and reputation for excellence,`"
+said Michael Gallagher, president and founder of the Stevie Awards.
+
+Details about The International Business Awards and the lists of Stevie
+Award winners are available at
+http://www.stevieawards.com/IBA[www.StevieAwards.com/IBA].
+
+'''
+
+== https://www.ribose.com/[About Ribose]
+
+Ribose is a cloud collaboration platform that makes
+https://www.ribose.com/features[working together easy and fun] while
+https://www.ribose.com/commitments[keeping your data safe]. As the
+world's first cloud service provider certified to
+https://www.imda.gov.sg/regulations-licensing-and-consultations/ict-standards-and-quality-of-service/it-standards-and-frameworks/mtcs-certification-scheme[MTCS
+(Multi-Tier Cloud Security)],
+https://cloudsecurityalliance.org/star/attestation/[CSA STAR
+Attestation], https://cloudsecurityalliance.org/star/certification/[CSA
+STAR Certification]
+(https://cloudsecurityalliance.org/research/ccm/[Cloud Controls Matrix,
+CCM 3.0.1]) and the first Software-as-a-Service platform to complete the
+https://cloudsecurityalliance.org/star/c-star/[CSA C-STAR Assessment],
+Ribose has been consistently awarded the industry's highest cloud
+security ratings year after year: the highest security tier, Level 3, in
+MTCS and the highest maturity level, Gold, in STAR Certification.
+
+Ribose is also certified to http://www.iso.org/iso/iso_9000[ISO 9001],
+http://www.iso.org/iso/home/standards/management-standards/iso14000.htm[ISO
+14001],
+http://www.bsigroup.com/en-GB/ohsas-18001-occupational-health-and-safety/[OHSAS
+18001], http://www.isoiec20000certification.com/[ISO/IEC 20000],
+http://www.bsigroup.com/en-GB/iso-22301-business-continuity/[ISO 22301],
+http://www.iso.org/iso/iso27001[ISO/IEC 27001],
+http://www.iso.org/iso/home/standards/management-standards/iso50001.htm[ISO
+50001], http://www.bsigroup.com/en-GB/pas-99-integrated-management/[PAS
+99], https://www.cyberstreetwise.com/cyberessentials[Cyber Essentials
+Plus],
+https://www.mesalliance.org/communities/CDSA/production-security-guidelines/[CDSA
+Content Protection Security (CPS)] and http://www.aicpa.org/soc[AICPA
+Service Organization Control (SOC)] standards, and approved by the
+https://www.digitalmarketplace.service.gov.uk/[UK Government's G-Cloud
+program] for government use.
+
+Ribose is free to use: https://www.ribose.com/[ribose.com].
+
+== http://www.stevieawards.com/[About the Stevie Awards]
+
+Stevie Awards are conferred in six programs: The International Business
+Awards, The American Business Awards, the Asia-Pacific Stevie Awards,
+the German Stevie Awards, the Stevie Awards for Women in Business, and
+the Stevie Awards for Sales & Customer Service.  Honoring organizations
+of all types and sizes and the people behind them, the Stevies recognize
+outstanding performances in the workplace worldwide.
+
+Learn more about the Stevie Awards at
+http://www.stevieawards.com/[www.StevieAwards.com].
+
+---
+
+Originally published at:
+
+* http://www.businesswire.com/news/home/20150813005913/en/Ribose-Named-Collaboration-Service-Innovative-Company-Asia[Business Wire: Ribose named Best New Collaboration Service and Most Innovative Company in Asia, Australia and New Zealand by 2015 International Business Awards]
+* http://www.enhancedonlinenews.com/news/eon/20150813005914/en/ribose/collaboration/security[Business Wire EON: Ribose named Best New Collaboration Service and Most Innovative Company in Asia, Australia and New Zealand by 2015 International Business Awards]

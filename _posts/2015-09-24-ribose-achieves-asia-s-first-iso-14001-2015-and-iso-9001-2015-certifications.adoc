@@ -1,0 +1,27 @@
+---
+layout: post
+title: "Ribose achieves Asia's first ISO 14001:2015 and ISO 9001:2015 certifications!"
+date: 2015-09-24 16:00:00
+categories: ribose
+featured: true
+author:
+  name: Jeffrey Lau
+excerpt: >-
+  Ribose achieves Asia's first ISO 14001:2015 and ISO 9001:2015 certifications!
+---
+= Ribose achieves Asia's first ISO 14001:2015 and ISO 9001:2015 certifications!
+
+image:/assets/images/posts/2015-09-24-ribose-achieves-asia-s-first.jpg[]
+
+We're the first (outside of UK) to achieve the new ISO 14001:2015 and
+ISO 9001:2015 certifications! Goes to show how committed we are to
+excellent governance. Woo hoo!
+
+1. Both certifications are awarded by BSI and accredited by ANAB, the
+only Accreditation Body that has approved CBs as of now.
+
+2. Our 14001 certification is the 2nd accreditated certification in
+BSI, and of worldwide! (which is the only accredited CB currently)
+
+3. Our 9001 certification is among the first 4 accreditated
+certifications from BSI (3 are from UK)!

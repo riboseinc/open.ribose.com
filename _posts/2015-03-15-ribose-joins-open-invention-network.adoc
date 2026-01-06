@@ -1,0 +1,89 @@
+---
+layout: post
+title: "Ribose joins Open Invention Network"
+date: 2015-03-15 16:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  Ribose joins Open Invention Network
+---
+= Ribose joins Open Invention Network
+
+*Forerunner in secure cloud collaboration signs on to protect Linux*
+
+*16 March 2015 -- Hong Kong --* Cloud collaboration platform provider
+Ribose has joined the Open Invention Network (OIN), an organization
+created to foster patent non-aggression for Linux producers and users.
+With over 1,300 members, OIN is the world's largest IPR community,
+undertaking a range of activities to reduce members' software patent
+risk.
+
+As an OIN licensee, Ribose joins other community members in royalty-free
+cross-licensing of Linux System patents to one another. Members agree to
+a patent non-aggression pact, foregoing patent disputes between member
+organizations in Linux and adjacent technologies.
+
+"`Ribose's powerful, intuitive, and highly secure platform makes
+collaboration easier and faster for distributed teams. In joining OIN,
+Ribose is demonstrating its commitment to the Linux environment -- and to
+working with the global Linux development community,`" said Shane
+Coughlan, Global Director of Licensing.
+
+"`Ribose was established to help make collaboration easy and fun,`"
+explained Ribose's founder Ronald Tse. "`This spirit underlies our core
+philosophy -- and is a commonly held value amongst OIN members. As Linux
+and open source technologies are key to achieving our goals, joining OIN
+gives Ribose access to core Linux technology patents that support our
+platform's ongoing development.`"
+
+Mr Tse concluded, "`We strongly support OIN's efforts, and look forward
+to collaborating with the wider Linux user community to create a
+positive, nurturing environment for long-term development.`"
+
+'''
+
+== About Ribose
+
+Ribose is a cloud collaboration platform that makes working together
+easy and fun. A forerunner in https://www.ribose.com/commitments[cloud
+security], Ribose is the world's first cloud service provider certified
+to
+https://www.imda.gov.sg/regulations-licensing-and-consultations/ict-standards-and-quality-of-service/it-standards-and-frameworks/mtcs-certification-scheme[MTCS],
+https://cloudsecurityalliance.org/star/attestation/[STAR Attestation]
+and https://cloudsecurityalliance.org/star/certification/[STAR
+Certification] (https://cloudsecurityalliance.org/research/ccm/[CCM
+3.0.1]). It is also certified to http://www.iso.org/iso/iso27001[ISO/IEC
+27001], http://www.isoiec20000certification.com[ISO/IEC 20000],
+https://www.mesalliance.org/communities/CDSA/production-security-guidelines/[CDSA
+CPS] and
+http://www.aicpa.org/InterestAreas/FRC/AssuranceAdvisoryServices/Pages/AICPASOC3Report.aspx[SOC]
+standards, and approved by the
+https://www.digitalmarketplace.service.gov.uk/[UK Government's G-Cloud
+program] for government use.
+
+Ribose is free to use: https://www.ribose.com[ribose.com].
+
+== http://www.openinventionnetwork.com/[About Open Invention Network]
+
+Open Invention Network (OIN) is the largest patent non-aggression
+community in history and supports freedom of action in Linux as a key
+element of open source software. Funded by Google, IBM, NEC, Philips,
+Red Hat, Sony and SUSE, OIN has more than 1,300 OIN community members
+and owns more than 950 global patents and applications. Member
+cross-licenses and OIN patent licenses are available royalty free to any
+party that joins OIN. For more information, visit
+http://www.openinventionnetwork.com.
+
+---
+
+Originally published at:
+
+* http://www.businesswire.com/news/home/20150316005169/en/Ribose-Joins-Open-Invention-Network[​Business Wire: Ribose joins the Open Innovation Network]
+* http://www.enhancedonlinenews.com/news/eon/20150316005391/en/ribose/collaboration/security[​Business Wire EON: Ribose joins the Open Innovation Network]
+* http://www.openinventionnetwork.com/press-room/recent-coverage/[Open Innovation Network: Press Coverage: Ribose joins the Open Innovation Network]
+* http://www.businesswire.com/news/home/20150316005832/zh-HK/[Business Wire Chinese Traditional: Ribose加入開放創新聯盟]
+* http://www.businesswire.com/news/home/20150316005834/zh-CN/[Business Wire Chinese Simplified: Ribose加入开源发明网络]
+

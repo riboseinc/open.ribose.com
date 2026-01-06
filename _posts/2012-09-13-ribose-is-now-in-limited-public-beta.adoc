@@ -1,0 +1,38 @@
+---
+layout: post
+title: "Ribose is now in limited public Beta"
+date: 2012-09-13 00:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  Ribose is now in limited public Beta
+---
+= Ribose is now in limited public Beta
+
+First of all, thank you very much for being a valued member of our
+private beta community. We really appreciate your time and effort in
+providing numerous constructive feedbacks to us during the private beta
+period, that we have either already incorporated your suggestions or
+have prioritized to consider them in the near future.
+
+Today I'm happy to let you know that the Ribose private beta program is
+transitioning to a limited public beta.
+
+Previously our system is accessed through 'beta.ribose.com'. From now
+onwards, please access Ribose through 'my.ribose.com'. This transition
+does not impact your account in any way.
+
+To show our appreciation to our private Beta users, if you need more
+invitations to Ribose to help you collaborate, just let us know via the
+"Give Us Feedback" box and we will prioritize in providing you with
+invites before satisfying our public waitlist.
+
+Thank you again for your support, and we hope to serve your
+collaborative needs in the years to come.
+
+Best,
+
+Ronald, on behalf of the Ribose Team

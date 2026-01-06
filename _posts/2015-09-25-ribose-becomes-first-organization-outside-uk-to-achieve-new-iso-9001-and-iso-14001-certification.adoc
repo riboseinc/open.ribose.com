@@ -1,0 +1,155 @@
+---
+layout: post
+title: "Ribose becomes first organization outside UK to achieve new ISO 9001 and ISO 14001 certification"
+date: 2015-09-25 16:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  Ribose becomes first organization outside UK to achieve new ISO 9001 and ISO 14001 certification
+---
+= Ribose becomes first organization outside UK to achieve new ISO 9001 and ISO 14001 certification
+
+*World's first technology company to achieve certification by BSI*
+
+[Hong Kong] -- 25 September 2015 -- Cloud collaboration platform provider
+Ribose has become the first organization outside of the UK to achieve
+accredited certification to http://www.iso.org/iso/iso_9000[ISO
+9001:2015] and http://www.iso.org/iso/iso14000[ISO 14001:2015], the
+newly revised international standards for Quality Management Systems and
+Environmental Management Systems. Ribose is also the first technology
+company worldwide to receive ISO 9001:2015 and ISO 14001:2015
+certification.
+
+ISO 9001 is the world's most widely recognized standard for quality
+management systems, and its latest revision was published on 23
+September 2015. The standard helps organizations consistently meet the
+needs of customers and other key stakeholders in both the delivery and
+continuous improvement of products and services.
+
+ISO 14001 is the world's first international standard for environmental
+management systems, with its latest revision published on 15 September
+2015. This standard helps organizations comply with environmental
+regulations, minimizing their environmental footprint and improving
+their environmental performance.
+
+The new standards both feature a high level structure (HLS) -- including
+terms, definitions, headings and text common to all management system
+standards in accordance to http://www.iso.org/directives[ISO Annex SL] --
+allowing easier integration when implementing multiple management
+systems. Both of the new standards improve over previous revisions by
+requiring organizations to prioritize business needs, improving
+efficiency by implementing organizational-wide risk based thinking,
+better risk management, and enhanced leadership responsibility.
+
+Ribose's independent assessment and certification was performed by
+http://www.bsigroup.com[BSI (British Standards Institution)], the
+originator of the ISO 9001 and ISO 14001 standards, and the first
+globally accredited certification body for ISO 9001:2015 as well as
+currently the only globally accredited certification body for ISO
+14001:2015, both accredited by the http://www.anab.org/[ANSI-ASQ
+National Accreditation Board (ANAB)]. Ribose's revised certifications
+were issued the day ISO 9001:2015 was published, and the day after BSI
+received the world's first ISO 14001:2015 accreditation from ANAB.
+
+Ribose's founder Ronald Tse explained, "`Ribose is honored to be the
+first organization outside the UK -- and the first technology company in
+the world -- to achieve compliance to the new ISO 9001 and ISO 14001
+standards. Internationally certified, world-class corporate governance
+is one of our hallmarks, and we remain committed to upholding the
+highest standards of governance and transparency.`"
+
+"`Ribose has been using the new ISO 9001 and ISO 14001 draft standards to
+improve internal performance since they were first published in 2014.
+After assessing the revisions and their implications, we've been able to
+ensure our implementation takes full advantage of the new structure to
+streamline operations and enhance environmental performance,`" Tse
+continued.
+
+Tse concluded, "`Achieving certification to these latest ISO standards
+demonstrates Ribose's ongoing dedication to achieving the highest levels
+of corporate governance and environmental responsibility.`"
+
+Emmanuel Hervé, VP, Standards & Professional Solutions and Managing
+Director Hong Kong of BSI, said, "`Ribose has achieved a major milestone
+in becoming the first organization outside of the UK to achieve
+simultaneous certification to the newly published ISO 9001 and ISO 14001
+standards -- confirming their commitment to continuous improvement of
+governance, practices and performance. It is encouraging to see a
+smaller organization like Ribose operating to the same stringent
+standards as the best-managed companies in the world.`"
+
+'''
+
+== About Ribose
+
+Ribose is a cloud collaboration platform that makes
+https://www.ribose.com/features[working together easy and fun] while
+https://www.ribose.com/commitments[keeping your data safe]. As the
+world's first cloud service provider certified to
+https://www.imda.gov.sg/regulations-licensing-and-consultations/ict-standards-and-quality-of-service/it-standards-and-frameworks/mtcs-certification-scheme[MTCS
+(Multi-Tier Cloud Security)],
+https://cloudsecurityalliance.org/star/attestation/[CSA STAR
+Attestation], https://cloudsecurityalliance.org/star/certification/[CSA
+STAR Certification]
+(https://cloudsecurityalliance.org/research/ccm/[Cloud Controls Matrix,
+CCM 3.0.1]) and the first Software-as-a-Service platform to complete the
+https://cloudsecurityalliance.org/star/c-star/[CSA C-STAR Assessment],
+Ribose has been consistently awarded the industry's highest cloud
+security ratings year after year: the highest security tier, Level 3, in
+MTCS and the highest maturity level, Gold, in STAR Certification.
+
+This year, Ribose won two http://www.stevieawards.com[Gold Stevie®
+Awards] at the 2015 http://www.stevieawards.com/iba/[International
+Business Awards], where it was named _Most Innovative Company in Asia_
+and also _Best New Collaboration Service_; and was also named _Best
+Cloud Collaboration Platform_ at the 2015
+http://www.corp-vis.com/awards/top-tech-awards/[Technology Innovator
+Awards] hosted by http://www.corp-vis.com[Corporate Vision Magazine].
+Ribose was also included in http://www.redherring.com/[Red Herring's Top
+100] Asia in 2015, a prestigious list of up-and-coming technology
+companies.
+
+Ribose is also certified to http://www.iso.org/iso/iso_9000[ISO 9001],
+http://www.iso.org/iso/home/standards/management-standards/iso14000.htm[ISO
+14001],
+http://www.bsigroup.com/en-GB/ohsas-18001-occupational-health-and-safety/[OHSAS
+18001], http://www.isoiec20000certification.com[ISO/IEC 20000],
+http://www.bsigroup.com/en-GB/iso-22301-business-continuity/[ISO 22301],
+http://www.iso.org/iso/iso27001[ISO/IEC 27001],
+http://www.iso.org/iso/home/standards/management-standards/iso50001.htm[ISO
+50001], http://www.bsigroup.com/en-GB/pas-99-integrated-management/[PAS
+99], https://www.cyberstreetwise.com/cyberessentials[Cyber Essentials
+Plus],
+https://www.mesalliance.org/communities/CDSA/production-security-guidelines/[CDSA
+Content Protection Security (CPS)] and http://www.aicpa.org/soc[AICPA
+Service Organization Control (SOC)] standards, and approved by the
+https://www.digitalmarketplace.service.gov.uk/[UK Government's G-Cloud
+program] for government use.
+
+Ribose is free to use: https://www.ribose.com[ribose.com].
+
+== About BSI
+
+BSI (British Standards Institution) equips businesses with the necessary
+solutions to turn standards of best practice into habits of excellence.
+As the world's first National Standards Body and a founding member of
+the http://www.iso.org/[International Organization for Standardization
+(ISO)], BSI is responsible for originating many of the world's most
+commonly used management systems standards and publishes over 2,700
+standards annually.
+
+Independently assessed and accredited globally by http://anab.org/[ANAB
+(ANSI-ASQ National Accreditation Board)] and by over 26 other
+accreditation bodies around the world including
+http://www.ukas.com/[UKAS (United Kingdom Accreditation Service)], BSI
+is globally recognized as a champion of best practice.
+
+For more information, please visit:
+http://www.bsigroup.com/[bsigroup.com].
+
+---
+
+Originally published at: https://www.prnewswire.com/news-releases/ribose-achieves-iso-140012004-and-iso-500012011-certifications-279752972.html[PRNewswire: Ribose achieves ISO 14001:2004 and ISO 50001:2011 certifications]

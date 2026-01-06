@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Ribose at Singapore's CloudAsia 2016"
+date: 2016-05-03 16:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  Ribose at Singapore's CloudAsia 2016
+---
+= Ribose at Singapore's CloudAsia 2016
+
+Ribose is in Singapore for CloudAsia 2016!
+
+Thanks to the kind invitation by the IDA, we have a booth at the Suntec
+Convention Centre (4/F), within the IDA Pavilion which is right at the
+front door.
+
+We'll be around from May 3-5. Feel free to come say "hi"!

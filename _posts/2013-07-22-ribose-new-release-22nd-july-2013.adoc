@@ -1,0 +1,34 @@
+---
+layout: post
+title: "Ribose new release: 22nd July, 2013"
+date: 2013-07-22 00:00:00
+categories: ribose
+featured: true
+author:
+  name: Jeffrey Lau
+excerpt: >-
+  Ribose new release: 22nd July, 2013
+---
+=  Ribose new release: 22nd July, 2013
+
+Hello Ribosers!
+Once again, we have brought in a whole slew of changes to this new
+release.
+For new shiny UI elements and features, this release sees a new _Create
+Space form_ that dispenses with non-essential details (though accessible
+with the "More Options" button), a new _My Membership_ menu that
+facilitates management of one's Space memberhsip (so you don't have to
+hunt down your own icon in the People capp just to leave the Space!),
+and the ability for Chat messages sent from one location to also appear
+in all other signed-in locations.
+We have also managed to tweak our Discussions and Wiki capps a little
+bit to make them run a little bit faster.
+Last but not least, bugs have been squashed across the board in:
+
+* apps such as Inbox, Calendar, Discussions, Tags and To Do,
+* widgets such as Calendar, Space Menu, Countdown and RSS,
+* chat, email notification settings, avatar loading,
+* vCard uploading in Invitation to Spaces: now works for vCards created
+by _MS Outlook for Mac_
+
+Happy collaborating!

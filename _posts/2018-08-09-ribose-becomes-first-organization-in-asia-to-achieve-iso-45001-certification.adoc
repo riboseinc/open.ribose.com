@@ -1,0 +1,109 @@
+---
+layout: post
+title: "Ribose becomes first organization in Asia to achieve ISO 45001 certification"
+date: 2018-08-09 14:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  Ribose becomes first organization in Asia to achieve ISO 45001 certification
+---
+= Ribose becomes first organization in Asia to achieve ISO 45001 certification
+
+*Certified to newest international standard for health and safety management*
+
+{blank}[August 09, 2018 - Hong Kong & London]
+
+Secure cloud provider http://www.ribose.com[Ribose] has become the first
+organization in Asia and one of the first organizations in the world to achieve
+https://www.iso.org/standard/63787.html[ISO 45001:2018] certification by
+https://www.bsigroup.com[BSI].
+
+// [quote]
+// Ribose is first in Asia to achieve ISO 45001 certification, the international
+// standard for health and safety management, by BSI
+
+ISO 45001:2018 is the newly released international occupational health and
+safety management system standard. It is the successor to
+https://www.bsigroup.com/en-GB/ohsas-18001-occupational-health-and-safety/Certification-for-BS-OHSAS-18001/[OHSAS 18001],
+published 19 years ago.
+
+Ribose's certification was awarded by BSI (British Standards Institution), one
+of the first wave of certification bodies to be awarded global accreditation by
+the https://anab.ansi.org[ANSI-ASQ National Accreditation Board (ANAB)] for
+ISO 45001:2018. BSI initially issued a "confirmation of compliance" letter
+confirming Ribose's compliance with ISO 45001 on 30 March 2018.
+
+Previously, Ribose operated an OHSAS 18001 compliant management system, which
+has now been upgraded to comply with ISO 45001.
+
+ISO 45001 differs from OHSAS 18001 in adopting ISO's High-Level Structure (HLS)
+management system framework, described in Annex SL. Annex SL, which is also used
+by other management systems including ISO 9001 and ISO/IEC 27001, aligns
+management systems processes and therefore simplifies integration. ISO 45001
+also covers a wider scope than OHSAS 18001, with stakeholders including all
+internal or external parties who are directly or indirectly affected by the
+organization's health and safety management issues.
+
+According to Enoch Lee, General Manager of Hong Kong for BSI, "BSI has always
+been a proponent of health and safety management, having established the
+original BS OHSAS 18001 standard. Wellness and safety considerations apply to
+all industries, including office-based working environments. As the first
+organization in Asia to achieve ISO 45001 certification, Ribose is clearly
+demonstrating its commitment to maintaining the highest international standards
+of health and safety."
+
+Ronald Tse, Founder of Ribose, commented, "At Ribose, our staff are the core of
+our company, and their wellbeing is our top priority. Achieving ISO 45001
+certification stands as testament that our health and safety practices meet
+international best practices, and helps to ensure the wellbeing of our staff,
+partners and customers."
+
+---
+
+== About Ribose
+
+Ribose is the award-winning developer of asymmetric security™ technologies
+trusted by industries with heightened cybersecurity needs. Having
+pioneered the comprehensive approach to verifiable cybersecurity,
+Ribose is a Deloitte Technology FAST 20 and
+https://www.redherring.com/[Red Herring Top 100 Global] company, and
+received the CSA APAC Enterprise Award and several
+https://stevieawards.com/iba/[Stevie(R) Awards]
+for cybersecurity innovations.
+
+Ribose is the only cloud service provider (CSP)
+https://cloudsecurityalliance.org/star/levels/[triple-assured by the
+Cloud Security Alliance],
+the first CSP to receive
+https://www.bsigroup.com/en-GB/our-services/product-certification/kitemark/Kitemark-schemes-for-service-providers/kitemark-certification-for-secure-digital-banking/[BSI's Kitemark for Secure Digital Transactions],
+and the first to achieve certification to the highest security tiers in
+https://www.nist.gov/cyberframework[NIST CSF] and
+https://www.imda.gov.sg/[MTCS]. It is also certified to
+https://www.iso.org/iso-14001-environmental-management.html[ISO 14001],
+https://www.isoiec20000certification.com/[ISO/IEC 20000],
+https://www.iso.org/standard/50038.html[ISO 22301],
+https://www.iso.org/isoiec-27001-information-security.html[ISO/IEC 27001],
+https://www.iso.org/standard/43757.html[ISO/IEC 27017],
+https://www.iso.org/standard/61498.html[ISO/IEC 27018] and
+https://www.iso.org/iso-45001-occupational-health-and-safety.html[ISO 45001].
+
+Learn more at: https://www.ribose.com/[ribose.com].
+
+== About BSI
+
+BSI (British Standards Institution) equips businesses with the necessary
+solutions to turn standards of best practice into habits of excellence.
+As the world's first National Standards Body and a founding member
+of the
+https://www.iso.org/home.html[International Organization for Standardization (ISO)],
+BSI is responsible for originating many of the world's most commonly
+used management systems standards.
+
+Learn more at: https://www.bsigroup.com/[bsigroup.com].
+
+---
+
+Originally published at link:https://www.businesswire.com/news/home/20180809005009/en/[BusinessWire].

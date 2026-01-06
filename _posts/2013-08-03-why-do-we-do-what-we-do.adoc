@@ -1,0 +1,33 @@
+---
+layout: post
+title: "Why do we do what we do"
+date: 2013-08-03 00:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  Why do we do what we do
+---
+= Why do we do what we do
+
+People often ask: why do we do what we do?
+
+At Ribose, our goal is to positively impact society by helping people
+work together in an effective way.
+
+The purpose of any company is to advance goals shared by its members.
+But these goals need to be aligned with benefits to society, a
+requirement which is often neglected. As Peter Drucker said, a company
+exists only to provide value to society. 
+
+The reason is obvious. The continued success of any company relies on a
+healthy customer base and workforce. Pursuing a goal counter to
+society's interests threatens a company's existence, setting it on a
+path to ruin. Doing good for society actually benefits a company
+significantly by providing support to its very basis, society itself.
+
+Ribose is not a non-profit, but Ribose exists to serve the community.
+Doing good is our DNA.
+

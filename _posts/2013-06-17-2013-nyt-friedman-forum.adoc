@@ -1,0 +1,43 @@
+---
+layout: post
+title: "2013 NYT Friedman forum"
+date: 2013-06-17 00:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  2013 NYT Friedman forum
+---
+= 2013 NYT Friedman forum
+
+Ribose is excited to share that it will be attending the
+http://nytfriedmanforum.com/[Thomas L. Friedman Global Forum] in
+San Francisco on June 19th which will be hosted by the Pultzer
+Prize-winning New York Times columnist, Thomas L. Friedman. Our goal is
+to better understand how Ribose can be a key player and leader in the
+"`new connected world`". We will be sharing our thoughts about the event
+and how we believe Ribose and social collaboration is key to the shifts
+we are seeing in how people are connecting to make a difference in our
+world.
+
+Friedman hosts this timely forum, bringing together chief executive
+officers, tech pioneers, government officials, influential
+decision-makers and scholars to discuss the new world economy,
+opportunities and challenges. We will explore the complex dynamics of
+new-world infrastructure, especially the transformative electronic,
+digital and mobile environment. Attendees can expect invaluable insights
+into strategies for success in today's new world order.
+
+Agenda items include:
+
+* The World We Live in Now
+* Threats or Possibilities
+* What Happened to Power?
+* How the Digital Revolution Is Accelerating Everything
+* What You Don't Know Is Coming
+* Doing Business in the Next New World
+* What an Education Is Going to Mean
+* What Energy Is Going to Be
+

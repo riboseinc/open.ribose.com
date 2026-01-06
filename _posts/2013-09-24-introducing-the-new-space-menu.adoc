@@ -1,0 +1,54 @@
+---
+layout: post
+title: "Introducing the new Space menu, updated Settings, www.ribose.com and more!"
+date: 2013-09-24 16:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  Introducing the new Space menu, updated Settings, www.ribose.com and more!
+
+---
+= Introducing the new Space menu, updated Settings, www.ribose.com and more!
+
+It's been awhile since our last blog post. We have been working away and
+you can see all the hard work by logging in...(or creating an account,
+if you haven't already!)
+
+As you may have noticed, *we have redesigned the Space menu. Hoorah!* +
+ +
+It still has a few bugs which we are gradually ironing out and the
+design is being tweaked as I type but we hope you like the steps we are
+taking to improve the Ribose experience. +
+ +
+Our *main goals for the Space menu* that the previous menu did poorly
+was:
+
+* Drag and drop to organise
+* Maintaining 'Folders' (now called 'Lists')
+* Did not display the Space icon anywhere.
+
+Besides from the Space menu, you can see that the navigation
+looks...different. What you see is just the beginning of many changes
+yet to come (it's a slow process, bear with us!). The problem was -
+previously there were two navigations bars that looked very similar. The
+first bar contained apps that were used for personal use and the second
+bar belonged to the Space that you were currently in. However because
+they looked the same and even contained links that were named the same
+e.g. A personal calendar and a Space calendar, it would cause a lot of
+confusion to the user. +
+ +
+*Settings* has been improved. You no longer have to leave what you are
+working on to make a change to your Settings. It all auto saves too! +
+ +
+*Less color, less distractions.*
+
+From our beta tests a while back, many of you commented on the colors
+used on the site being a distraction. As a result we have been gradually
+reducing the use of too much color on the site where it does not help or
+enhance the user experience.
+
+As always, we welcome your feedback. Head to the About/Contact -
+https://www.ribose.com/about page to get in touch with our team!

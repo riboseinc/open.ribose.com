@@ -1,0 +1,175 @@
+---
+layout: post
+title: "Ribose wins Security Innovation of the Year by Cloud Security Alliance APAC"
+date: 2016-01-20 16:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  Ribose wins Security Innovation of the Year by Cloud Security Alliance APAC
+---
+= Ribose wins Security Innovation of the Year by Cloud Security Alliance APAC
+
+[Hong Kong] -- 21 January 2016 -- Ribose has been named Security
+Innovation of the Year by the Cloud Security Alliance (CSA), the premier
+organization for the cloud security industry.
+
+Ribose received the award at the CSA APAC Inaugural Awards Ceremony on 3
+December 2015 in Guangzhou, China after careful appraisal of
+professionalism, excellence, innovation and measurable success by the
+judging committee. The prestigious award recognizes the very best in the
+technology industry, rewarding industry-leading organizations for
+innovation and performance in the cloud sector. Ribose was named
+Security Innovation of the Year alongside Trend Micro and DBApp
+Security, recognizing its genuinely innovative approach to cloud
+security.
+
+Ribose is actively involved with the CSA on cloud security matters, with
+Ribose founder Ronald Tse a member of its International Standardization
+Council -- which develops international standards relating to cloud
+security with multiple partners including the ISO/IEC JTC1 SC27, the
+group that created the ISO/IEC 27001 international standard for
+Information Security Management Systems. Since joining the CSA in 2013,
+Ribose has participated in multiple CSA research programs to promote and
+develop improved cloud security practices for both users and providers.
+
+As a result, Ribose holds numerous cloud security "`firsts`" and heavily
+participates in multi-jurisdictional cloud security programs, believing
+the practice should be an industry standard as Cloud Security Providers
+(CSPs) must ensure the security of users' data across geopolitical and
+regulatory borders.
+
+A pioneer in cloud security, Ribose was the first CSP to adopt and
+promote CSA's CCM 3 control framework, and the world's first CSP
+simultaneously certified to all three of CSA's cloud security assessment
+schemes: STAR Certification to the highest Gold maturity level, STAR
+Attestation and C-STAR Assessment. Ribose was the first organization
+worldwide to achieve CSA STAR Attestation and STAR Certification using
+CCM 3.0 and CCM 3.0.1; as well as the first Software-as-a-Service (SaaS)
+to achieve STAR Certification and C-STAR Assessment.
+
+According to Jim Reavis, CEO and co-founder of the CSA, "`We first
+invited Ribose to join CSA having seen their dedication to providing the
+best security protection to their users. As pioneers in cloud security,
+Ribose is leading the industry in pursuing security assurance for its
+users, and became the world's first organization simultaneously
+certified to all three of CSA's cloud security assessment schemes: STAR
+Certification, STAR Attestation and C-STAR Assessment. In naming Ribose
+as Security Innovation of the Year, we are recognizing its dedication to
+providing the highest level of security protection for users and its
+commitment to benefitting the entire cloud security industry through its
+work with the CSA.`"
+
+"`Ribose serves as a leading example for CSPs in Asia, setting best
+practices in user security and privacy,`" said Aloysius Cheang, Managing
+Director APAC and Standards Secretariat of the CSA International
+Standardization Council. "`Asia is fast rising as the next hub of
+innovation in the technology space, and certified world-class
+organizations like Ribose are leading the charge. By using CCM
+extensively, and assisting in its development, Ribose has pioneered a
+high bar approach to cloud security -- adopting a streamlined process
+that provides robust protection for all users.`"
+
+"`Winning this recognition is a high honor for Ribose, as we work closely
+with many industry bodies like the CSA -- the authority on cloud
+security. We are thrilled to win this honor, which stands as an external
+testament to our deep commitment to cloud security and the effectiveness
+of our approach and implementation,`" explained Ronald Tse, founder of
+Ribose.
+
+Tse continued, "`CSA is the de-facto cloud security industry body, and
+their research has strongly influenced the cloud security industry as
+well as the most -- if not all -- cloud security standards used around the
+world today. As a corporate member of the CSA and a leader in cloud
+security, we strongly support the CSA's work and have helped them to
+develop and drive industry standards, thereby improving confidence for
+both cloud providers and users around the globe.`"
+
+"`As a collaboration platform, Ribose depends on the highest levels of
+cloud security to protect our users' intellectual property. Knowing that
+their work is protected by award-winning, internationally certified
+levels of security gives our users the peace of mind to focus on their
+tasks at hand,`" Tse concluded.
+
+'''
+
+== About Ribose
+
+Ribose is the cloud collaboration platform that makes
+https://www.ribose.com/features[working together easy and fun] while
+https://www.ribose.com/commitments[protecting users' data] with the
+highest, internationally certified levels of security. Triple-assured by
+the Cloud Security Alliance, Ribose is the world's first cloud service
+provider certified to
+https://cloudsecurityalliance.org/star/attestation/[CSA STAR
+Attestation], https://cloudsecurityalliance.org/star/certification/[CSA
+STAR Certification]
+(https://cloudsecurityalliance.org/research/ccm/[Cloud Controls Matrix,
+CCM 3.0.1]) and
+https://www.imda.gov.sg/regulations-licensing-and-consultations/ict-standards-and-quality-of-service/it-standards-and-frameworks/mtcs-certification-scheme[MTCS
+(Multi-Tier Cloud Security)], and the first Software-as-a-Service
+platform to complete the
+https://cloudsecurityalliance.org/star/c-star/[CSA C-STAR Assessment].
+Ribose has been consistently awarded the industry's highest cloud
+security ratings: the highest security tier, Level 3, in MTCS and the
+highest maturity level, Gold, in STAR Certification.
+
+In 2015, Ribose was selected as a http://www.redherring.com/[Red Herring
+Top 100 Global] company, joining a prestigious list of up-and-coming
+technology companies; won two http://www.stevieawards.com[Gold Stevie®
+Awards] at the 2015 http://www.stevieawards.com/iba/[International
+Business Awards] for _Most Innovative Company in Asia_ and _Best New
+Collaboration Service_, and was also awarded the CSA APAC Enterprise
+Award for _Security Innovation of the Year_.
+
+Ribose is also certified to http://www.iso.org/iso/iso_9000[ISO 9001],
+http://www.iso.org/iso/home/standards/management-standards/iso14000.htm[ISO
+14001],
+http://www.bsigroup.com/en-GB/ohsas-18001-occupational-health-and-safety/[OHSAS
+18001], http://www.isoiec20000certification.com[ISO/IEC 20000],
+http://www.bsigroup.com/en-GB/iso-22301-business-continuity/[ISO 22301],
+http://www.iso.org/iso/iso27001[ISO/IEC 27001],
+http://www.iso.org/iso/catalogue_detail.htm?csnumber=61498[ISO/IEC
+27018],
+http://www.iso.org/iso/home/standards/management-standards/iso50001.htm[ISO
+50001], http://www.bsigroup.com/en-GB/pas-99-integrated-management/[PAS
+99], https://www.cyberstreetwise.com/cyberessentials[Cyber Essentials
+Plus],
+https://www.mesalliance.org/communities/CDSA/production-security-guidelines/[CDSA
+Content Protection Security (CPS)] and http://www.aicpa.org/soc[AICPA
+Service Organization Control (SOC)] standards, and approved by the
+https://www.digitalmarketplace.service.gov.uk/[UK Government's G-Cloud
+program] for government use.
+
+Ribose is free to use: https://www.ribose.com[ribose.com].
+
+== https://cloudsecurityalliance.org[About The Cloud Security Alliance]
+
+The Cloud Security Alliance (CSA) is the world's leading organization
+dedicated to defining and raising awareness of best practices to help
+ensure a secure cloud computing environment. CSA harnesses the subject
+matter expertise of industry practitioners, associations, governments,
+and its https://cloudsecurityalliance.org/membership/[corporate and
+individual members] to offer
+https://cloudsecurityalliance.org/research/[cloud security-specific
+research], https://cloudsecurityalliance.org/education/[education],
+https://cloudsecurityalliance.org/star/[certification],
+https://cloudsecurityalliance.org/events/[events] and products. CSA's
+activities, knowledge and extensive network benefit the entire community
+impacted by the cloud — from providers and customers, to governments,
+entrepreneurs and the assurance industry — and provide a forum through
+which diverse parties can work together to create and maintain a trusted
+cloud ecosystem. CSA has developed the definitive best practices for the
+industry, including the
+https://cloudsecurityalliance.org/research/security-guidance/[Security
+Guidance for Critical Areas of Focus in Cloud Computing], the
+https://cloudsecurityalliance.org/research/ccm/[Cloud Controls Matrix],
+https://cloudsecurityalliance.org/research/top-threats/[Top Threats to
+Cloud Computing] and 50 other
+https://cloudsecurityalliance.org/research/[cloud security research
+artifacts].
+
+For further information, visit us at
+https://cloudsecurityalliance.org/[www.cloudsecurityalliance.org].

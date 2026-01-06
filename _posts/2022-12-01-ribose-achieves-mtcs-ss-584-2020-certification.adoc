@@ -1,0 +1,113 @@
+---
+layout: post
+title: "Ribose Achieves Certification to SS 584:2020 Multi-Tiered Cloud Security Standard"
+date: 2022-12-01 00:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  Ribose Achieves Certification to SS 584:2020 Multi-Tiered Cloud Security Standard
+---
+= Ribose Achieves Certification to SS 584:2020 Multi-Tiered Cloud Security Standard
+
+{blank}[1 December 2022 -- London, UK]
+
+http://www.ribose.com[Ribose] has achieved certification and renewal to
+https://www.singaporestandardseshop.sg/Product/SSPdtDetail/b5430dc1-27f3-4203-bd8e-00345da6bed5[SS 584:2020],
+the third edition of the Singapore Standard for
+https://www.bsigroup.com/en-SG/cloud-security/multi-tiered-cloud-security-ss584/[Multi-Tiered Cloud Security (MTCS)]
+at the highest Tier 3, accredited by the
+https://www.sac-accreditation.gov.sg[Singapore Accreditation Council (SAC)],
+having transitioned from its certification to
+https://www.singaporestandardseshop.sg/Product/SSPdtDetail/88be024c-cead-4a59-801d-9fcedbbab88f[SS 584:2015].
+
+The
+https://www.imda.gov.sg/regulations-and-licensing-listing/ict-standards-and-quality-of-service/IT-Standards-and-Frameworks/Cloud-Computing-and-Services[MTCS certification scheme]
+is the world's first multi-tiered cloud security certification, differentiating
+tiers of security requirements depending on risks faced by the provider. MTCS is
+defined by the SS 584 cloud security standard, which is approved by the
+https://www.imda.gov.sg/regulations-and-licensing-listing/ict-standards-and-quality-of-service/industry-committees-and-working-groups/IT-Standards-Committee[Information Technology Standards Committee (ITSC)]
+with
+support from
+https://www.enterprisesg.gov.sg/[Enterprise Singapore] and
+https://www.imda.gov.sg/[IMDA Singapore].
+The latest edition of SS 584:2020 improves on SS 584:2015 through closer
+alignment with
+https://www.iso.org/standard/54534.html[ISO/IEC 27001:2013]
+and providing additional controls on emerging technologies, such as
+zero trust and continuous monitoring.
+
+Ribose completed its transition assessment audit to SS 584:2020 from SS 584:2015
+in January 2022, observed by a Witness Assessor from the Singapore Accreditation
+Council, and fully renewed its certification in November 2022, both by BSI.
+Ribose was the world's first organization to achieve certification to MTCS when
+the program was first launched with
+https://www.singaporestandardseshop.sg/Product/SSPdtDetail/5b014ff6-02ca-4918-afb0-379703794b4d[SS 584:2013],
+and first to achieve transition towards SS 584:2015, also supported by BSI.
+
+"Our users work with valuable digital assets and are therefore heavily reliant
+on the underlying security of cloud platforms. MTCS has been a pioneering
+certification scheme since its inception by setting a high bar for cybersecurity
+of cloud service providers." noted Ronald Tse, founder of Ribose. "By upgrading
+our MTCS certification to SS 584:2020 at Tier 3, our users are assured that
+their information remain secure under the most stringent requirements designed
+for mission-critical data."
+
+Charlene Loo, Managing Director of
+https://www.bsigroup.com/en-SG/[BSI Singapore] said, "The MTCS certification
+scheme is the world's first cloud security standard that covers multiple tiers
+of cloud security. With the proliferation of data breaches and malicious
+attacks, organizations need to employ the most proficient and best-in-class
+cybersecurity strategy available. As a SAC-accredited certification body, BSI is
+proud to support Ribose's commitment to ensure cloud security through its SS
+584:2020 transition."
+
+
+---
+
+== About Ribose
+
+Ribose creates asymmetric security™ and standardization technologies trusted by
+industries with heightened cybersecurity needs. Having pioneered the
+comprehensive approach to verifiable cybersecurity, Ribose is a Deloitte
+Technology FAST 20 and http://www.redherring.com/[Red Herring Top 100 Global]
+company, and received the CSA APAC Enterprise Award and several
+http://www.stevieawards.com/iba/[Stevie® Awards] for its innovations.
+
+Ribose is the first cloud service provider (CSP) to achieve certification to the
+CSA CCM 4.0 and to achieve the highest security tiers in
+https://www.nist.gov/cyberframework[NIST CSF] and
+https://www.imda.gov.sg/regulations-and-licensing-listing/ict-standards-and-quality-of-service/IT-Standards-and-Frameworks/Compliance-and-Certification[MTCS].
+It is also certified to
+https://www.iso.org/iso-9001-quality-management.html[ISO 9001],
+https://www.iso.org/iso-14001-environmental-management.html[ISO 14001],
+https://apmg-international.com/product/iso-iec-20000[ISO/IEC 20000],
+https://www.iso.org/standard/75106.html[ISO 22301],
+https://www.iso.org/isoiec-27001-information-security.html[ISO/IEC 27001],
+https://www.iso.org/standard/43757.html[ISO/IEC 27017],
+https://www.iso.org/standard/76559.html[ISO/IEC 27018],
+https://www.iso.org/standard/71670.html[ISO/IEC 27701] and
+https://www.iso.org/iso-45001-occupational-health-and-safety.html[ISO 45001].
+
+Learn more at: https://www.ribose.com/[ribose.com].
+
+== About BSI
+
+BSI is the business improvement and standards company that enables organizations
+to turn standards of best practice into habits of excellence, 'inspiring trust
+for a more resilient world'. For over a century BSI has driven best practice in
+organizations around the world. Working with over 77,500 clients across 195
+countries, it is a truly global business with skills and experience across all
+sectors including automotive, aerospace, built environment, food and retail, and
+healthcare. Through its expertise in Standards and Knowledge, Assurance
+Services, Regulatory Services and Consulting Services, BSI helps clients to
+improve their performance, grow sustainably, manage risk and ultimately become
+more resilient.
+
+Learn more at: https://www.bsigroup.com/[bsigroup.com].
+
+---
+
+Originally published at link:https://www.businesswire.com/news/home/20221201005464/en/Ribose-Achieves-Certification-to-SS-5842020-Multi-Tiered-Cloud-Security-Standard[BusinessWire].

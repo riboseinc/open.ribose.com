@@ -1,0 +1,116 @@
+---
+layout: post
+title: "Ribose becomes first collaboration platform to complete UK Cyber Essentials Plus"
+date: 2015-05-19 16:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  Ribose becomes first collaboration platform to complete UK Cyber Essentials Plus
+---
+= Ribose becomes first collaboration platform to complete UK Cyber Essentials Plus
+
+*20 May 2015 -- London / Hong Kong --* Ribose has become the world's first
+collaboration platform to complete the UK Cyber Essentials Plus
+assessment, a UK Government-backed and industry-supported scheme that
+helps to protect businesses against cyber threats.
+
+Launched in June 2014, Cyber Essentials was developed by
+https://www.cesg.gov.uk[CESG] (the information security arm of
+http://www.gchq.gov.uk[GCHQ]) and the
+https://www.gov.uk/government/organisations/department-for-business-innovation-skills[Department
+of Business, Innovation and Skills] in conjunction with
+http://www.bsigroup.com[BSI (British Standards Institution)],
+the Information Assurance for Small and Medium Enterprises (IASME)
+consortium and the https://www.securityforum.org/[Information Security
+Forum (ISF)]. Since October 2014, Cyber Essentials certification has
+been mandatory for UK central government ICT (Information and
+Communications Technology) suppliers that handle sensitive and personal
+information.
+
+A two-level program, Cyber Essentials certification is awarded upon
+completion of a self-assessment questionnaire with independent
+verification. Cyber Essential Plus certification is optional, and
+provides a higher level of assurance through independent security
+controls testing by an external certifying body, focusing on resilience
+against external cyber threats.
+
+"`Ribose is proud to be the world's first collaboration platform to
+achieve both Cyber Essentials and Cyber Essential Plus certification,`"
+commented Ronald Tse, founder of Ribose. "`After being awarded our Cyber
+Essentials certification by IASME in August 2014, we were excited to
+receive Cyber Essential Plus certification accredited by
+http://www.crest-approved.org/[CREST] following an independent
+assessment by Cyberis.`"
+
+"`Cyber Essentials Plus provides independent, third-party verification of
+our security systems and controls, and also demonstrates our commitment
+to information security -- especially in respect of the UK market,`" Tse
+explained.
+
+According to Geoff Jones, Director of Cyberis, "Cyberis is pleased to
+award a successful pass certificate to Ribose under the
+http://www.crest-approved.org/industry-government/cyber-essentials/[CREST
+Cyber Essentials Plus scheme]. This shows a clear commitment to
+information security within Ribose, and demonstrates fundamental
+technical security controls are in place to help defend against
+Internet-borne threats."
+
+'''
+
+== About Ribose
+
+Ribose is a cloud collaboration platform that makes working together
+easy and fun while https://www.ribose.com/commitments[keeping your data
+safe]. As the world's first cloud service provider certified to
+https://www.imda.gov.sg/regulations-licensing-and-consultations/ict-standards-and-quality-of-service/it-standards-and-frameworks/mtcs-certification-scheme[MTCS]
+(Multi-Tier Cloud Security),
+https://cloudsecurityalliance.org/star/attestation/[STAR Attestation]
+and https://cloudsecurityalliance.org/star/certification/[STAR
+Certification] (https://cloudsecurityalliance.org/research/ccm/[CCM
+3.0.1]), Ribose has been consistently awarded the industry's highest
+cloud security ratings year after year: including the highest security
+tier, Level 3, in MTCS and the highest maturity level, Gold, in STAR
+Certification.
+
+Ribose is also certified to http://www.iso.org/iso/iso_9000[ISO 9001],
+http://www.iso.org/iso/home/standards/management-standards/iso14000.htm[ISO
+14001],
+http://www.bsigroup.com/en-GB/ohsas-18001-occupational-health-and-safety/[OHSAS
+18001], http://www.isoiec20000certification.com[ISO/IEC 20000],
+http://www.bsigroup.com/en-GB/iso-22301-business-continuity/[ISO 22301],
+http://www.iso.org/iso/iso27001[ISO/IEC 27001],
+http://www.iso.org/iso/home/standards/management-standards/iso50001.htm[ISO
+50001],
+https://www.mesalliance.org/communities/CDSA/production-security-guidelines/[CDSA
+CPS] and
+http://www.aicpa.org/InterestAreas/FRC/AssuranceAdvisoryServices/Pages/AICPASOC3Report.aspx[SOC]
+standards, and approved by the
+https://www.digitalmarketplace.service.gov.uk/[UK Government's G-Cloud
+program] for government use.
+
+Ribose is free to use: https://www.ribose.com[ribose.com].
+
+== http://www.cyberis.co.uk/[About Cyberis]
+
+Cyberis is a company of the
+http://www.cesg.gov.uk/servicecatalogue/service_assurance/IT-Health-Check/Pages/IT-Health-Check.aspx[CESG
+IT Health Check Service] and is an information security consultancy that
+prides itself in offering http://www.cyberis.co.uk/assurance[pragmatic
+solutions for risk management and remediation]. Cyberis works closely
+with clients to understand their business pressures and information
+assets, and to provide relevant and contextualized advice to meet their
+information security needs.
+
+'''
+
+---
+
+Originally published at:
+
+* http://www.businesswire.com/news/home/20150519005760/en[​Business Wire: Ribose becomes first collaboration platform to complete UK Cyber Essentials Plus]
+* http://www.enhancedonlinenews.com/news/eon/20150519007291/en/ribose/collaboration/security[Business Wire EON: Ribose becomes first collaboration platform to complete UK Cyber Essentials Plus]
+* http://www.businesswire.com/news/home/20150519005762/zh-HK/[Business Wire Chinese Traditional: Ribose成為首個通過英國Cyber Essentials Plus認證的合作平台]
+* http://www.businesswire.com/news/home/20150519005761/zh-CN/[Business Wire Chinese Simplified: Ribose成为首个通过英国Cyber Essentials Plus认证的合作平台]
