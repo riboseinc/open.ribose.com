@@ -9,7 +9,6 @@ author:
   email: tse@ribose.com
 excerpt: >-
   Ribose Beta updated
-
 ---
 = Ribose Beta updated
 

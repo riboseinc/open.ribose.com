@@ -5,7 +5,8 @@ date: 2017-01-10 00:00:00
 categories: ribose
 featured: true
 author:
-  name: Erik B
+  name: Ronald Tse
+  email: tse@ribose.com
 excerpt: >-
   New feature: all Ribose emails now cryptographically signed with PGP
 ---
@@ -34,7 +35,3 @@ prevent data leakage from emails. As a next step, we will be enabling
 full encryption of emails in an upcoming release, with a facility to
 upload your public PGP key that will be used to encrypt all messages
 sent via email. Stay tuned!
-
-For more details on Ribose email signing and how to verify signatures,
-visit our https://www.ribose.com/pgp[PGP page] at
-https://www.ribose.com/pgp.

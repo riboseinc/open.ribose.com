@@ -9,7 +9,6 @@ author:
   email: tse@ribose.com
 excerpt: >-
   Introducing the new Space menu, updated Settings, www.ribose.com and more!
-
 ---
 = Introducing the new Space menu, updated Settings, www.ribose.com and more!
 
@@ -50,5 +49,3 @@ used on the site being a distraction. As a result we have been gradually
 reducing the use of too much color on the site where it does not help or
 enhance the user experience.
 
-As always, we welcome your feedback. Head to the About/Contact -
-https://www.ribose.com/about page to get in touch with our team!

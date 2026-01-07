@@ -56,32 +56,3 @@ demonstrated its commitment to industry-leading corporate governance.
 The certified efficiency of its management systems allows Ribose to
 focus its resources on enhancing its platform, and delivering effective
 solutions to users.`"
-
-'''
-
-== About Ribose
-
-Ribose makes collaborating easy and fun. Whether planning business
-projects or social events, the Ribose platform helps users collaborate
-through world-class security certified to the highest standards,
-including ISO 27001, CSA STAR and CDSA CPS. Also available as part of
-the UK Government's G-Cloud program, Ribose is free to use:
-http://www.ribose.com./[http://www.ribose.com].
-
-== About BSI
-
-The British Standards Institution is the business standards company that
-helps businesses turn best practices of into habits of excellence. As
-the world's first national standards body and a founding member of ISO,
-BSI is an organization whose standards inspire excellence across the
-globe: http://www.bsigroup.com
-
----
-
-Originally published at:
-
-* http://www.prnewswire.com/news-releases/ribose-awarded-pas-99-certification-for-integrated-management-systems-263422351.html[PRNewswire: Ribose awarded PAS 99 certification for integrated management systems]
-* http://www.prnewswire.co.uk/news-releases/ribose-awarded-pas-99-certification-for-integrated-management-systems-263422081.html[PRNewswire UK: Ribose awarded PAS 99 certification for integrated management systems]
-* http://hk.prnasia.com/story/99260-2.shtml[PRNewswire HK: Ribose 榮獲 PAS 99 整合管理體系認證 -- 體現國際級公司治理與合規管理水平]
-* http://www.prnasia.com/story/99259-1.shtml[PRNewswire CN: Ribose 荣获 PAS 99 整合管理体系认证]
-
