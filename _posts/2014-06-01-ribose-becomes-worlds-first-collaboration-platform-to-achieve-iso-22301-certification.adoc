@@ -45,31 +45,3 @@ service continuity for its users. We commend Ribose for going the extra
 mile to test and verify its service availability through independent
 assessments and certifications, taking significant steps to ensure
 continuous access for all users.`"
-
-== About Ribose
-
-Ribose makes collaborating easy and fun. Whether planning business
-projects or social events, the Ribose platform helps users collaborate
-through enterprise-strength security certified to the highest standards,
-including ISO 27001, CSA STAR, and CDSA CPS. Also available as part of
-the UK Government's G-Cloud program, Ribose is free to use:
-http://www.ribose.com./[http://www.ribose.com].
-
-== About BSI
-
-The British Standards Institution is the business standards company that
-helps businesses turn best practices of into habits of excellence. As
-the world's first national standards body and a founding member of ISO,
-BSI is an organization whose standards inspire excellence across the
-globe: http://www.bsigroup.com
-
-Note: The term "`certification`" used here excludes unaccredited
-certifications.
-
----
-
-Originally published at:
-
-* http://www.prnewswire.com/news-releases/ribose-becomes-worlds-first-collaboration-platform-to-achieve-iso-22301-certification-261492301.html[PRNewswire: Ribose becomes world's first collaboration platform to achieve ISO 22301 certification]
-* http://hk.prnasia.com/story/98353-2.shtml[PRNewswire HK: Ribose成為全球首家獲得ISO 22301認證的合作平台]
-

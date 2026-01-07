@@ -6,12 +6,11 @@ categories: ribose
 featured: true
 author:
   name: Jeffrey Lau
+  email: jeffrey.lau@ribose.com
 excerpt: >-
   Ribose achieves Asia's first ISO 14001:2015 and ISO 9001:2015 certifications!
 ---
 = Ribose achieves Asia's first ISO 14001:2015 and ISO 9001:2015 certifications!
-
-image:/assets/images/posts/2015-09-24-ribose-achieves-asia-s-first.jpg[]
 
 We're the first (outside of UK) to achieve the new ISO 14001:2015 and
 ISO 9001:2015 certifications! Goes to show how committed we are to

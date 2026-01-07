@@ -35,11 +35,4 @@ We are mid-way through improving invitations but it has been delayed. We
 have re-thought much of the invitations flow and we hope it is easier to
 use. More on this next time...
 
-The *Space colors* have been updated to a much *softer* palette. What do
-you think? https://www.ribose.com/public_feedback[Let us know].
-
-We hope you like the changes and as
-usual.https://www.ribose.com/public_feedback[We welcome your feedback,
-suggestions or bug reports].
-
 *Maybe there's even a Ribose tee in it for you ;-)*

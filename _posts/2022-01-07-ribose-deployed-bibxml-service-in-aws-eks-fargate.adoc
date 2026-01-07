@@ -10,8 +10,6 @@ author:
 excerpt: >-
   Ribose has deployed BibXML Service in AWS EKS Fargate.
 ---
-
-
 = Deploying BibXML Service in AWS EKS Fargate
 
 In this article, we will use

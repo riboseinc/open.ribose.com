@@ -9,7 +9,6 @@ author:
   email: tse@ribose.com
 excerpt: >-
   Ribose committed to health and safety with OHSAS 18001:2007 certification
-
 ---
 = Ribose committed to health and safety with OHSAS 18001:2007 certification
 
@@ -49,40 +48,3 @@ wellness and safety considerations apply to all industries -- including
 office-based environments. By achieving OHSAS 18001 certification,
 Ribose is taking responsibility for the wellbeing of its staff and
 customers, setting a robust example for the technology industry.`"
-
-'''
-
-== About Ribose
-
-Ribose is a cloud collaboration platform that makes working together
-easy and fun. A forerunner in cloud security, Ribose is the world's
-first cloud service provider certified to
-https://cloudsecurityalliance.org/star/[CSA STAR] using
-https://cloudsecurityalliance.org/research/ccm/[CCM v3] and
-https://www.imda.gov.sg/regulations-licensing-and-consultations/ict-standards-and-quality-of-service/it-standards-and-frameworks/mtcs-certification-scheme[MTCS].
-It is also certified to http://www.iso.org/iso/iso27001[ISO/IEC 27001]
-and
-https://www.mesalliance.org/communities/CDSA/production-security-guidelines/[CDSA
-CPS] standards, and approved by the
-https://www.digitalmarketplace.service.gov.uk/[UK Government's G-Cloud
-program] for government use.
-
-Ribose is free to use: http://www.ribose.com[ribose.com].
-
-== About BSI
-
-BSI (British Standards Institution) helps businesses turn best practices
-into habits of excellence. As the world's first national standards body
-and a founding member of http://www.iso.org/[ISO], BSI's standards
-inspire excellence across the globe:
-http://www.bsigroup.com[bsigroup.com].
-
----
-
-Originally published at:
-
-* http://www.prnewswire.com/news-releases/ribose-committed-to-health-and-safety-with-ohsas-180012007-certification-311505406.html[PRNewswire: Ribose committed to health and safety with OHSAS 18001:2007 certification]
-* http://en.prnasia.com/story/107792-0.shtml[PRNewswire HK: Ribose committed to health and safety with OHSAS 18001:2007 certification]
-* http://hk.prnasia.com/story/107794-2.shtml[PRNewswire HK: Ribose 榮獲 OHSAS 18001:2007 職業健康和安全體系認證]
-* http://www.prnasia.com/story/107795-1.shtml[PRNewswire CN: Ribose 荣获 OHSAS 18001:2007 职业健康安全体系认证]
-

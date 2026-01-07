@@ -6,6 +6,7 @@ categories: ribose
 featured: true
 author:
   name: Jeffrey Lau
+  email: jeffrey.lau@ribose.com
 excerpt: >-
   Ribose new release: 22nd July, 2013
 ---
