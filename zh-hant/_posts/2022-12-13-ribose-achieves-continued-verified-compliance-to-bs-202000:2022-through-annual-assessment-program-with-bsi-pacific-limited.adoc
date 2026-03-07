@@ -1,0 +1,29 @@
+---
+layout: post
+title: "擎威 Ribose 成功持續符合 BS 202000:2022 標準：通過 BSI Pacific Limited 年度評估計畫"
+date: 2022-12-13 00:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  擎威 Ribose 成功持續符合 BS 202000:2022 標準：通過 BSI Pacific Limited 年度評估計畫
+---
+= 擎威 Ribose 成功持續符合 BS 202000:2022 標準：通過 BSI Pacific Limited 年度評估計畫
+
+{blank}[2022年12月13日 -- 英國倫敦] http://www.ribose.com[擎威 Ribose] 已通過與 https://www.bsigroup.com/en-HK/[BSI Pacific Limited] 的年度評估計畫，成功持續符合 BS 202000:2022 標準的驗證合規性。
+
+由 BSI 技術委員會 DEF/1 國防標準化小組編制，
+https://www.bsigroup.com/en-GB/standards/bs-2020002020-standardization-management-system--specification/[BS 202000:2020]
+是全球首個標準化管理系統標準，提供了一種系統且有效的方法來管理標準的使用，這對供應商和供應商的信心至關重要。BS 202000:2020 採用
+計劃-執行-檢查-行動 (PDCA) 循環方法來管理標準的選擇、採用、
+應用和部署，涵蓋政策、領導、規劃、支持和運營等方面。
+
+由於 BS 202000:2020 沒有認可的認證計畫，Ribose 通過年度第三方預評估審核實施了年度評估計畫。Ribose 於 2021 年 6 月 28 日完成了針對 BS 202000:2020 的初始兩階段審核，並由 BSI 發出符合性函，隨後於 2022 年 6 月 14 日完成了後續驗證審核，同樣由 BSI 執行。
+
+"標準對國際貿易和互操作性至關重要。面對日益增多的國際、國家和行業標準，組織被迫重新思考其採用和實施標準的方法，" 擎威 Ribose 創辦人 Ronald Tse 表示。"BS 202000:2020 是一個關鍵標準，提供了一種創新且系統化的方法來推動標準化，將有助於任何規模的組織。"
+
+Michael Lam, Managing Director, Assurance Division,
+https://www.bsigroup.com[BSI] APAC Region, 表示，"BS 202000:2020 提供了從國防行業累積的經驗中提煉出的最佳實踐，這對指導和協助當今組織採用標準具有很大幫助。BSI 很高興能支持 Ribose 在實施這一重要英國標準的年度評估計畫中的承諾。"
+

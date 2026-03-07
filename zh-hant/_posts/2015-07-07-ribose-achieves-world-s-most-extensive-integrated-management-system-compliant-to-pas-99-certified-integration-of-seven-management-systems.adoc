@@ -1,0 +1,58 @@
+---
+layout: post
+title: "擎威 Ribose 獲得全球最全面的符合 PAS 99 的整合管理系統認證：七大管理系統的認證整合"
+date: 2015-07-07 16:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  擎威 Ribose 獲得全球最全面的符合 PAS 99 的整合管理系統認證：七大管理系統的認證整合
+---
+= 擎威 Ribose 獲得全球最全面的符合 PAS 99 的整合管理系統認證：七大管理系統的認證整合
+
+{blank}[2015 年 7 月 8 日 -- 香港] -- 雲端協作平台提供商擎威 Ribose
+已獲得全球最全面的
+http://www.thecqi.org/Knowledge-Hub/Resources/Factsheets/Integrated-management-systems/[整合管理系統 (IMS)]
+認證，符合
+http://www.bsigroup.com/en-GB/pas-99-integrated-management/[PAS 99]
+標準。
+
+由 http://www.bsigroup.com[英國標準協會 (BSI)] 認證，
+Ribose 的 IMS 涵蓋了公司所有七個管理系統，每個系統已符合單獨的管理系統標準
+(MSS)，包括：
+
+* http://www.iso.org/iso/iso_9000[ISO 9001:2008] 品質管理系統 -- 要求，國際標準的品質管理系統 (QMS)
+
+* http://www.iso.org/iso/home/standards/management-standards/iso14000.htm[ISO
+14001:2004] 環境管理系統 -- 要求，國際標準的環境管理系統 (EMS)
+
+* http://www.bsigroup.com/en-GB/ohsas-18001-occupational-health-and-safety/[BS OHSAS 18001:2007]
+職業健康與安全管理系統 -- 要求，國際應用的英國標準職業健康與安全管理系統 (OHSMS)
+occupational health and safety management systems (OHSMS)
+
+* http://www.isoiec20000certification.com[ISO/IEC 20000-1:2011]
+資訊技術 -- 服務管理 -- 第 1 部分：服務管理系統要求，國際標準的 IT 服務管理系統 (SMS)
+
+* http://www.bsigroup.com/en-GB/iso-22301-business-continuity/[ISO
+22301:2012] 社會安全 -- 業務持續管理系統 -- 要求，國際標準的業務持續管理系統 (BCMS)
+
+* http://www.iso.org/iso/iso27001[ISO/IEC 27001:2013] 資訊技術 -- 安全技術 -- 資訊安全管理系統 -- 要求，國際標準的資訊安全管理系統 (ISMS)
+
+* http://www.iso.org/iso/home/standards/management-standards/iso50001.htm[ISO
+50001:2011] 能源管理系統 -- 要求，國際標準的能源管理系統 (EnMS)
+
+PAS 99 是全球首個整合管理系統的框架，建立在不同的管理系統標準 (MSS) 基礎上，規範了精簡 MSS 的要求，從而提升業務專注度、採用更通用的風險緩解方法並提高運營效率。
+
+PAS 99 採用了 http://www.iso.org/directives[ISO Directive Annex SL] 中定義的高級結構（HLS），這是一個統一的管理系統標準結構，具有相同的核心文本、定義和術語，旨在促進管理系統標準之間的整合。 PAS 99 的認證不僅確保了管理系統的整合，還確保了整合管理系統的有效性。
+
+擎威 Ribose 的創辦人 Ronald Tse 表示，「 擎威 Ribose 從一開始就採用了一個精簡的整合管理系統。作為一家員工數量有限的小公司，我們希望盡可能高效地管理公司的各個方面。通過 PAS 99 認證來精簡我們的 IMS，幫助我們避免了不同管理系統之間重疊的元素和重複的工作。」
+
+「將我們對全面、綜合協作的承諾付諸實踐，我們已將我們的信息安全、業務持續、質量、IT 服務、環境、能源和職業健康與安全管理系統整合為一個整體——讓我們能夠有效地管理這些方面的運營，而不會有通常會拖累非整合系統的典型開銷，」Tse 先生解釋道。「我們高度動態的信息安全管理系統，已連續獲得最高的安全評級並符合包括 CSA STAR、CSA C-STAR、MTCS 和 AICPA SOC 在內的最嚴格安全標準，也作為這個 IMS 的一部分運行。」
+
+Tse 先生總結道，「PAS 99 認證確認 Ribose 已正確整合其管理系統，並且 IMS 有效運作——為我們的管理團隊提供更好的監督和控制，同時確保為用戶提供最高水平的服務。」
+
+Emmanuel Herve, 英國標準協會（BSI）香港區董事總經理兼標準副總裁解釋道，「Ribose 已經達成了一個重要的里程碑，成為全球首家獲得 PAS 99 認證的組織，這是對他們在整合管理系統方面承諾的認可。通過將七個管理系統整合為一個 IMS，Ribose 能夠更有效地管理其業務運營，從而提高效率並降低風險。」
+
+Herve 先生補充道，「管理系統幫助公司從其業務中獲得更多收益，而整合這些管理系統則使他們能夠在不增加時間或金錢投入的情況下實現更大的效益。PAS 99 提供了一個最精簡的方法框架來實現這一目標。我們祝賀 Ribose 成為首家在 PAS 99 下整合七個管理系統的公司，為行業樹立了良好的榜樣。」

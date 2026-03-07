@@ -5,6 +5,7 @@ gem "jekyll"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem "jekyll-theme-rop"
+  gem "jekyll-polyglot"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
