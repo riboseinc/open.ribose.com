@@ -1,0 +1,33 @@
+---
+layout: post
+title: "擎威 Ribose 獲得英國標準協會（BSI）頒發的全球首個 NIST 網路安全框架認證"
+date: 2018-08-08 11:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  擎威 Ribose 獲得英國標準協會（BSI）頒發的全球首個 NIST 網路安全框架認證
+---
+= 擎威 Ribose 獲得英國標準協會（BSI）頒發的全球首個 NIST 網路安全框架認證
+
+*認證達到 NIST 網路安全框架第 4 級（適應性）的合規性*
+
+{blank}[2018 年 8 月 8 日 -- 香港]
+
+http://www.ribose.com[擎威 Ribose]
+已成為全球首家獲得英國標準協會（BSI）頒發的 NIST 網路安全框架（第 4 級）認證的組織。
+
+// [quote]
+// Ribose world's first certification to NIST Cybersecurity Framework
+
+美國國家標準與技術研究院（NIST）的網路安全框架（CSF）是由美國總統行政命令（EO）13636所規定，旨在保護關鍵基礎設施和重要產業免受網路攻擊。它還允許組織根據組織實踐選擇一個「`Tier`」，從 Tier 1（部分）到 Tier 4（適應性），表示從非正式和反應式到敏捷和風險驅動的漸進式方法。
+
+英國標準協會（BSI）是與 NIST 合作開發 CSF 的專家團隊成員之一，也是第一個提供 CSF 認證的認證機構。該計劃驗證與所選 Tier 級別相對應的流程和證據，並與 ISO/IEC 27001 集成，全面驗證信息安全和風險管理實踐。
+
+英國標準協會（BSI）全球信息安全和業務連續性產品冠軍 John DiMaria 表示：「BSI 創建了全球首個 NIST 網路安全框架認證。獨特的分層概念結合了堅實的信息安全原則和應用靈活性，將受到全球組織的重視。我們祝賀 Ribose 成為第一家獲得我們 NIST CSF 認證（第 4 級）的組織，並讚揚其長期致力於國際網路安全協調，提供最高水平的數據保護。」
+
+英國標準協會（BSI）香港總經理李恩諾補充說：「BSI 長期以來一直被認為是信息安全管理的先驅。新的 NIST 網路安全框架認證計劃是我們努力保持這一領導地位的關鍵組成部分。」
+
+擎威 Ribose 的創辦人 Ronald Tse 表示：「獲得英國標準協會（BSI）頒發的 NIST 網路安全框架認證是對我們在基於可驗證網路安全保護客戶數據方面不懈承諾的有力證明。我們的方法建立在堅實的安全基礎之上，包括選擇性的安全數位交易認證標章，以及通過 ISO/IEC 27017 和 ISO/IEC 27018 的雲安全和隱私認證。」

@@ -1,0 +1,51 @@
+---
+layout: post
+title: "Ribose 加入日曆機構 CalConnect"
+date: 2013-10-07 15:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  Ribose 加入日曆機構 CalConnect
+---
+= Ribose 加入日曆機構 CalConnect
+
+*http://www.ribose.com[Ribose] 加入 http://www.calconnect.org[CalConnect]*
+*Hong Kong -- October 9, 2013 --* http://www.ribose.com[Ribose]
+
+*Ribose 是首家攜手日曆和計劃協會 CalConnect 的亞洲公司*
+
+香港2013年10月9日電 /美通社/ -- 重新定義個人和機構在線協作方式的初創企業 Ribose 已加入日曆和計劃協會 CalConnect。Ribose 是開放式互聯網和國際標準的強有力擁護者，讓人們能夠更高效、更愉快地通力協作。
+
+Ribose 創辦人 Ronald Tse 解釋說：「Ribose 的使命是幫助人們無憂無慮地與他人無縫合作。為了履行這項使命，我們積極消除由於非標準專有軟件和協議導致的用戶挫折感和時間浪費。CalConnect 及其會員在使不同的日曆應用和系統共同作用方面做了不可思議的努力。我們很榮幸能夠加入這一特別的創新機構團體，與它們攜手為各種文化背景下的人們提供更加無縫的日曆和協作體驗。」
+
+CalConnect 協會執行董事 Dave Thewlis 解釋說：「CalConnect 熱忱歡迎 Ribose 作為首位亞洲會員加入。」世界大多數人口位於亞洲，亞洲擁有當前日曆標準尚未覆蓋的眾多與眾不同的日曆系統、書寫形式和哲學體系。「互操作式日曆是一項全球挑戰和機會。在應對這項挑戰和承諾方面，CalConnect 在以開放式標準方式為亞洲文化提供支持方面樹立了重要的里程碑。我們知道，Ribose 將為我們協會做出激動人心的貢獻。我們熱切期待在亞洲召開首個 CalConnect 會員會議。」
+
+
+'''
+
+== 關於 擎威 Ribose 平台
+
+擎威 Ribose 平台幫助全球的個人和組織通過其社交協作平台有效地協作。通過專注於「整體協作」，
+Ribose 將在線社交協作提升到了一個新的水平。無論是為家庭和朋友計劃社交活動，
+還是運行複雜的商業項目，您都會發現 Ribose 使協作變得簡單、高效，甚至充滿樂
+趣。Ribose 目前處於公開測試階段，免費使用，已經為許多人重新定義了協作結
+果。Ribose 成立於2008年，總部位於香港，在美國加利福尼亞州洛杉磯設有辦事
+處。Ribose 於2013年8月13日加入 CalConnect，成為其首家亞洲會員。
+http://www.ribose.com
+
+== 關於 CalConnect
+
+CalConnect 是一個非營利組織，致力於推進可互操作的日曆和排程技術。作為日曆和排程
+系統及工具的供應商與使用者之間的合作夥伴，其會員包括世界上最大的軟體公司。幾乎所
+有自2004年以來的重要日曆相關標準都是由 CalConnect 技術委員會的成員撰寫、編輯和/
+或共同編輯的。http://www.calconnect.org
+
+---
+
+Originally published at:
+
+* http://www.prnewswire.com/news-releases/ribose-joins-calendaring-organization-calconnect-227041421.html[PRNewswire US: Ribose Joins Calendaring Organization CalConnect]
+* http://hk.prnasia.com/story/87123-2.shtml[PRN HK: Ribose 加入日曆機構 CalConnect]

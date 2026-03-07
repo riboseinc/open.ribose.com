@@ -1,0 +1,30 @@
+---
+layout: post
+title: "擎威 Ribose 平台獲得 CSA Cloud Controls Matrix v4 STAR 認證，成為全球首家達成此認證的雲服務提供商"
+date: 2022-02-08 00:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  擎威 Ribose 平台獲得 CSA Cloud Controls Matrix v4 STAR 認證，成為全球首家達成此認證的雲服務提供商
+---
+= 擎威 Ribose 平台獲得 CSA Cloud Controls Matrix v4 STAR 認證，成為全球首家達成此認證的雲服務提供商
+
+{blank}[2022年2月8日 - 英國倫敦；美國西雅圖]
+
+http://www.ribose.com[Ribose]
+已成為全球首家雲服務提供商（CSP）獲得
+https://cloudsecurityalliance.org[雲端安全聯盟（CSA）] https://cloudsecurityalliance.org/star/[STAR 認證]，使用新發布的
+https://cloudsecurityalliance.org/research/cloud-controls-matrix/[CSA Cloud Controls Matrix v4]。
+
+STAR 認證是由 CSA 提供的國際公認雲端安全認證計畫，對雲服務提供商（CSP）提出全面且嚴格的雲端安全要求。CSA Cloud Controls Matrix（CCM）是雲端安全保證與合規的事實標準，廣泛用於評估雲端實施的安全性能。CCM 4.0.1 是矩陣的最新版本，由 17 個領域中的 197 個控制目標組成，詳細說明了前沿的雲端安全實踐，涵蓋了雲端技術的所有關鍵方面。
+
+STAR 認證升級評估由 BSI 執行，BSI 是領先的雲端評估認證機構，也是 CSA STAR 認證計畫的原始啟動合作夥伴。Ribose 的認證於 2021 年 12 月 15 日授予。
+
+「我們的用戶是各自行業的領先創新者。通過達到迄今為止最新且最全面的雲端安全標準，用戶可以放心依賴 Ribose 取得成功，」Ribose 創辦人 Ronald Tse 表示。「作為全球首家同時獲得 CCM 3 和 CCM 4 STAR 認證的組織，我們在最大程度保護用戶資訊和隱私方面的承諾持續得到證明。」
+
+「CSA CCM 現已進入第四版，受到許多政府和行業的認可，涵蓋了針對當前網路威脅的前沿最佳實踐和指導。我們讚賞 Ribose 對雲端安全的承諾，以及其持續提供安全環境的努力，」CSA 執行長 Jim Reavis 解釋道。
+
+BSI 亞太區保證部董事總經理 Michael Lam 表示：「雲端安全的格局不斷變化，就如同我們今天所生活的世界。為了為用戶提供安全且私密的工作方式，Ribose 展示了其在雲端安全領域達成領先最佳實踐的世界級承諾。」

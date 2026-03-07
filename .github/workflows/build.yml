@@ -23,6 +23,15 @@ jobs:
         ruby-version: '3.3'
         bundler-cache: true
 
+    - name: Install OpenCC
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y opencc
+
+    - name: Convert zh-hant to zh-hans
+      run: |
+        ruby scripts/convert_hant_to_hans.rb
+
     - name: Build site
       env:
         JEKYLL_ENV: production

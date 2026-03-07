@@ -1,0 +1,31 @@
+---
+layout: post
+title: "擎威 Ribose 平台新版本發布"
+date: 2013-04-08 00:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  擎威 Ribose 平台新版本發布
+---
+= 擎威 Ribose 平台新版本發布
+
+擎威 Ribose 平台於2013年4月8日進行了更新。
+整體界面樣式有所調整。所有已報告的安全問題均已解決。
+此版本還包含多項錯誤修復，涉及以下方面：
+
+* 小工具
+
+* 日曆
+
+* 文件
+
+* 待辦事項
+
+* 設定
+
+* 討論
+
+* 標籤

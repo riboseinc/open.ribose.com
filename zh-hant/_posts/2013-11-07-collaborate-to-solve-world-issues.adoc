@@ -1,0 +1,25 @@
+---
+layout: post
+title: "協作解決世界問題"
+date: 2013-11-07 08:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  協作解決世界問題
+---
+= 協作解決世界問題
+
+當許多人面臨更艱困的處境，承受貧困與無家可歸的困境時，此刻社區齊心協力援助弱勢群體至關重要。《赫芬頓郵報》今日刊文探討美國境內無家可歸兒童的現況。我們亟需與個人及社區攜手合作解決此問題，而這絕非遙不可及。您的社區可攜手協助一名孩童，
+同時與您合作的在地支援組織並肩作戰。
+協作的本質在於團隊合作。
+若我們能齊心協力幫助弱勢群體，
+便正朝著正確方向前進。
+
+深入瞭解美國無家可歸學童的困境。
+透過團隊協作探索援助方案，
+您能創造改變的契機。
+
+http://www.huffingtonpost.com/2013/11/07/childhood-homelessness_n_4233503.html?ref=topbar

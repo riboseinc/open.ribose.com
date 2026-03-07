@@ -1,0 +1,62 @@
+---
+layout: post
+title: "擎威 Ribose 成為首家英國以外獲得新 ISO 9001 和 ISO 14001 認證的組織"
+date: 2015-09-25 16:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  擎威 Ribose 成為首家英國以外獲得新 ISO 9001 和 ISO 14001 認證的組織
+---
+= 擎威 Ribose 成為首家英國以外獲得新 ISO 9001 和 ISO 14001 認證的組織
+
+*全球首家獲得 BSI 認證的科技公司*
+
+[香港] -- 2015年9月25日 -- 雲端協作平台提供商擎威 Ribose 成為首家獲得英國以外認證的組織，獲得 http://www.iso.org/iso/iso_9000[ISO 9001:2015] 和 http://www.iso.org/iso/iso14000[ISO 14001:2015] 認證，這是最新修訂的國際標準，涵蓋質量管理系統和環境管理系統。Ribose 也是全球首家獲得 ISO 9001:2015 和 ISO 14001:2015 認證的科技公司。
+
+ISO 9001 是全球最廣泛認可的質量管理系統標準，其最新修訂版於 2015 年 9 月 23 日發布。該標準幫助組織在產品和服務的交付及持續改進中，持續滿足客戶和其他主要利益相關者的需求。
+
+ISO 14001 是全球首個環境管理系統國際標準，其最新修訂版於 2015 年 9 月 15 日發布。該標準幫助組織遵守環境法規，將環境足跡降至最低，並改善環境績效。
+
+新標準均採用了高級結構（HLS）——包括所有管理系統標準中通用的術語、定義、標題和文本，根據 http://www.iso.org/directives[ISO 附錄 SL] ——在實施多個管理系統時更易於整合。新標準相較於之前的修訂版有所改進，要求組織優先考慮業務需求，通過實施全組織範圍的風險思維提高效率，更好地管理風險，並增強領導責任。
+
+擎威 Ribose 的獨立評估和認證由 http://www.bsigroup.com[BSI (British Standards Institution)] 執行，BSI 是 ISO 9001 和 ISO 14001 標準的創始機構，也是全球首個獲得 ISO 9001:2015 認證的認證機構，目前也是唯一獲得 ISO 14001:2015 認證的全球認證機構，均由 http://www.anab.org/[ANSI-ASQ National Accreditation Board (ANAB)] 認可。 Ribose 的修訂認證於 ISO 9001:2015 發布當天和 BSI 從 ANAB 獲得全球首個 ISO 14001:2015 認證的第二天發布。
+
+擎威 Ribose 的創始人 Ronald Tse 解釋：「
+Ribose 很榮幸成為首家英國以外的組織——也是全球首家科技公司——獲得新 ISO 9001 和 ISO 14001 標準的認證。國際認證的世界級企業治理是我們的標誌之一，我們將繼續致力於維持最高標準的治理和透明度。」
+
+「擎威 Ribose 自 2014 年首次發布新 ISO 9001 和 ISO 14001 草案標準以來，一直在使用它們來改進內部績效。在評估了修訂版及其影響後，我們能夠確保我們的實施充分利用新結構來簡化運營並提高環境績效，」Tse 繼續說道。
+
+Tse 總結道：「獲得這些最新 ISO 標準的認證，展示了 Ribose 持續致力於實現最高水平的企業治理和環境責任。」
+
+Emmanuel Hervé，英國標準協會（BSI）標準與專業解決方案副總裁兼香港董事總經理，說道：「Ribose 已經達成了一個重要的里程碑，成為首家英國以外的組織，同時獲得新發布的 ISO 9001 和 ISO 14001 標準的認證——這證明了他們對持續改進治理、實踐和績效的承諾。看到像 Ribose 這樣的較小組織能夠按照與世界上管理最好的公司相同的嚴格標準運作，令人鼓舞。」
+
+'''
+
+== 關於 擎威 Ribose
+
+擎威 Ribose 是一個雲端協作平台，使團隊能夠輕鬆且愉快地一起工作，同時確保您的數據安全。作為全球首家獲得 MTCS (Multi-Tier Cloud Security)、CSA STAR Attestation、CSA STAR Certification (Cloud Controls Matrix, CCM 3.0.1) 和 CSA C-STAR Assessment 認證的雲服務提供商，Ribose 年復一年地獲得業界最高的雲安全評級：MTCS 的最高安全級別 Level 3 和 STAR Certification 的最高成熟度級別 Gold。
+
+今年，Ribose 在 2015 年國際商業獎（International Business Awards）中獲得兩項 Gold Stevie® 獎，分別被評為「亞洲最具創新力公司」和「最佳新協作服務」；同時在 2015 年技術創新者獎（Technology Innovator Awards）中被評為「最佳雲端協作平台」，該獎項由 Corporate Vision Magazine 主辦。 Ribose 也入選了 2015 年 Red Herring 亞洲百強（Red Herring's Top 100 Asia），這是一個備受推崇的上升科技公司名單。
+
+擎威 Ribose 亦獲得了 ISO 9001、ISO 14001、OHSAS 18001、ISO/IEC 20000、ISO 22301、ISO/IEC 27001、ISO 50001、PAS 99、Cyber Essentials Plus、CDSA Content Protection Security (CPS) 和 AICPA Service Organization Control (SOC) 標準的認證，並獲得英國政府 G-Cloud 計劃的批准。
+
+使用 Ribose 平台為免費: https://www.ribose.com[ribose.com].
+
+== 關於 BSI
+
+BSI (英國標準協會，British Standards Institution) 是全球領先的標準機構，幫助組織提高績效、降低風險並通過認證獲得競爭優勢。BSI 的專業服務團隊提供培訓、審核和認證服務，幫助企業將最佳實踐的標準轉化為卓越的習慣。作為世界上第一個國家標準機構和 http://www.iso.org/[國際標準化組織 (ISO)] 的創始成員，BSI 負責創建許多世界上最常用的管理系統標準，每年發布超過 2,700 項標準。
+
+BSI由全球認可的機構認證獨立評估，包括 http://anab.org/[ANAB
+(ANSI-ASQ National Accreditation Board)] 以及全球超過 26 個其他認證機構，包括
+http://www.ukas.com/[UKAS (United Kingdom Accreditation Service)]，BSI
+在全球範圍內被公認為最佳實踐的倡導者。
+
+有關 BSI 的更多信息，請訪問 http://www.bsigroup.com[bsigroup.com]。
+
+---
+
+原文鏈接：
+https://www.prnewswire.com/news-releases/ribose-achieves-iso-140012004-and-iso-500012011-certifications-279752972.html[PRNewswire: Ribose achieves ISO 14001:2004 and ISO 50001:2011 certifications]

@@ -1,0 +1,43 @@
+---
+layout: post
+title: "擎威推出Ribose休閒協作平台 現開放測試版用戶使用"
+date: 2012-08-29 15:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  擎威推出Ribose休閒協作平台 現開放測試版用戶使用
+---
+
+*讓您輕鬆規劃勞動節與親友的聚會行程*
+
+波士頓，2012年8月30日 /美通社/ -- 勞動節週末是夏季最後一次與親友相聚的絕佳時機，但協調行程往往比工作更耗時！適逢假期前夕，擎威 http://www.ribose.com/[Ribose] 今日宣布開放限量測試帳號，體驗全新線上平台 http://www.ribose.com/[www.ribose.com]。
+
+擎威 Ribose 平台旨在簡化各規模群體的協作模式。
+此平台匯集無與倫比的工具、應用程式與小工具，
+運用當今網路的即時性、社交性與雲端靈活性，
+協助規劃、組織及簡化從小型家庭聚會
+到社交俱樂部常態活動等各類事務。
+
+註冊用戶可免費取得Ribose網站測試版權限，
+測試用戶最多可發送10份邀請函，
+開始建立協作團隊。欲深入了解或註冊測試版使用權限，
+立即體驗輕鬆協作的強大功能，請造訪
+http://www.ribose.com/[www.ribose.com]。
+該平台將於2012年秋季正式全面上線。
+
+追蹤Ribose推特動態：https://twitter.com/RiboseUS
+
+
+== 關於Ribose
+
+專為忙碌人士打造，協助規劃與管理個人或商業專案、活動及冒險旅程，讓生活充滿精彩。Ribose 作為功能完備的休閒協作平台，提供完整工具與人際連結，讓您能與親友、同事及夥伴同步規劃各類規模的活動。由Ronald Tse創立的Ribose，將當今網路的即時性、社交性與雲端靈活性整合於單一安全平台，搭配完整工具庫、應用程式及小工具，不僅能發掘更多連結、優化活動流程，更能打造客製化的新型組織模式——從小型休閒家庭聚會到社交俱樂部的常態活動皆能輕鬆駕馭。
+
+---
+
+原文刊載於：
+
+* http://www.prnewswire.com/news-releases/casual-collaboration-platform-from-ribose-now-open-for-beta-users-168078926.html[美通社：Ribose休閒協作平台開放測試版用戶註冊]
+

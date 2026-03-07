@@ -1,0 +1,53 @@
+---
+layout: post
+title: "Ribose 提升休閒協作魅力"
+date: 2012-09-11 15:00:00
+categories: ribose
+featured: true
+author:
+  name: Ronald Tse
+  email: tse@ribose.com
+excerpt: >-
+  Ribose 提升休閒協作魅力
+---
+= Ribose 提升休閒協作魅力
+
+*基於雲端的新平台通過一個安全網站簡化各種類型和規模的協作式規劃活動*
+
+波士頓2012年9月13日電 /美通社/ -- 擎威 Ribose 宣佈推出新的網上平台，旨在簡化各種規模的活動的協作方式。新的網絡平台 www.ribose.com 匯集了無與倫比的工具組件、應用程序和窗口小部件，利用當今互聯網的實時性、社交功能和基於雲端的靈活性來幫助簡化、組織和規劃任何事務 -- 從小型家庭聚會到各種各樣的社交俱樂部活動。
+
+任何成功的協作都離不開想法的交流和經驗的分享，在此基礎上，新的 Ribose 平台充分利用當今社交網絡，使用戶能夠與協作者保持聯繫，並提供公共空間，讓人們可以通過社交人際網絡聚在一起，發現新的想法和資源。
+
+Ribose 創辦人兼行政總裁Ronald Tse 表示：「任何規模的群體活動的協作都涉及大量的意見和問題以及很多細節上的緊急討論。Ribose 的目標是建立一個平台，利用人們日常在社交網絡上採用的休閒協作方式來為他們的協作活動提供個性化的空間以及工具組件。」
+
+新的 Ribose 網站提供10多個協作工具組件，用於組織群體活動和活動主題（而非工具）有關的事務，用戶能夠從一整套功能中獲得好處，同時採用定制型的特殊工具組件來滿足自己在活動或事務上的具體需求。Ribose 採用了乾淨簡約的界面風格，用戶可以根據自己獨特的設計審美要求，從各種調色板和主題中進行選擇。該網站側重於三大關鍵用戶需求：
+
+協作空間：提供每項具體協作的關鍵細節、日曆項、文件和狀態報告。
+協作應用程序 (Capps)：結合不同功能和工具，符合特定活動主題的要求，確保用戶在特定類型的協作中能使用到合適的工具組件和功能。
+我的應用程序 (Mapps)：讓用戶可以將他們在 Ribose 上的活動記錄下來，提供窗口小部件、個人資料和聯繫信息以及各項協作的總覽，包括個人日曆視圖、任務列表和聊天記錄。
+註冊用戶免費瀏覽 Ribose 網站，最多可發出10個邀請來構建自己的協作團隊。Ribose 未來的擴張和開發項目包括流動網絡接入和流動應用程序的開發。欲了解更多信息，請登入 www.ribose.com 完成註冊，感受休閒協作的魅力。
+
+在 Twitter 上關注 Ribose：https://twitter.com/RiboseUS
+
+== Ribose 簡介
+
+對於想讓生活更加豐富多彩，卻又很難騰出時間管理規劃所有個人或群體活動、事務和探險活動的人來說，功能齊全的休閒協作平台 Ribose 是最合適的選擇。該平台提供必要的工具和人際關係網絡，幫助用戶與親友、同事和合作夥伴同時規劃各種規模的活動。由Ronald Tse 創立的 Ribose 充分利用當今互聯網的實時性、社交功能和基於雲端的靈活性，打造出一個提供各種工具、應用程序和窗口小部件的安全網站，幫助用戶擴大人脈關係、更好地精簡活動並採用定制型的新方法來組織從小型家庭聚會到各種各樣的社交俱樂部活動等一切事務。網址：www.ribose.com 。
+
+傳媒聯繫人：
+博達公關 (Brodeur Partners) 的 Sonia Bovio
+電話：+1-480-308-0281
+電郵：sbovio@brodeur.com
+
+---
+
+原文刊載於：
+
+* http://www.prnewswire.com/news-releases/casual-collaboration-sweetened-by-ribose-169562746.html[PRNewswire: Casual Collaboration Sweetened by Ribose]
+* http://hk.prnasia.com/story/67877-2.shtml[PRNewswire HK: Ribose 提升休閒協作魅力]
+* http://www.prnewswire.co.uk/news-releases/casual-collaboration-sweetened-by-ribose-169567376.html[PRNewswire UK: Casual Collaboration Sweetened by Ribose]
+* http://www.prnewswire.com/news-releases/ungezwungene-zusammenarbeit-von-ribose-versuWt-169660606.html[PRNewswire German: Ungezwungene Zusammenarbeit von Ribose versüßt]
+* http://www.prnewswire.fr/news-releases/ribose-rend-plus-attrayante-la-collaboration-de-loisirs-169704586.html[PRNewswire French: Ribose rend plus attrayante la collaboration de loisirs]
+* http://www.prnewswire.com/news-releases/colaboracion-casual-endulzada-por-ribose-169776886.html[PRNewswire Spanish: Colaboración casual endulzada por Ribose]
+* http://www.newswire.ca/en/story/1035959/ribose-facilite-le-processus-de-collaboration-entre-personnes[PRNewswire Canada (French): Ribose facilite le processus de collaboration entre personnes]
+* http://www.newswire.ca/en/story/1035171/casual-collaboration-sweetened-by-ribose[PRNewswire Canada (English): Casual Collaboration Sweetened by Ribose]
+* http://prnewswire.se/news-releases/casual-collaboration-sweetened-by-ribose-169567376.html[PRNewswire Sweden: Casual Collaboration Sweetened by Ribose]
