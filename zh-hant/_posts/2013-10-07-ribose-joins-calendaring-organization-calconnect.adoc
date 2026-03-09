@@ -41,7 +41,8 @@ http://www.ribose.com
 CalConnect 是一個非營利組織，致力於推進可互操作的日曆和排程技術。作為日曆和排程
 系統及工具的供應商與使用者之間的合作夥伴，其會員包括世界上最大的軟體公司。幾乎所
 有自2004年以來的重要日曆相關標準都是由 CalConnect 技術委員會的成員撰寫、編輯和/
-或共同編輯的。http://www.calconnect.org
+或共同編輯的。
+http://www.calconnect.org
 
 ---
 

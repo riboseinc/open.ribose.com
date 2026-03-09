@@ -6,7 +6,9 @@ revision_date_template: "最後修訂日期：{{ revision_date | date: '%Y年%-m
 hero_include: index-page-hero.html
 ---
 
-CAUTION: 本頁面為英文版本的翻譯，僅供參考。如中英文版本有任何不一致之處，應以+++<a href="https://open.ribose.com/feedback/">英文版本</a>+++為準。
+CAUTION: 本頁面為英文版本的翻譯，僅供參考。如中英文版本有任何不一致之處，應以
+https://www.ribose.com/feedback/"[英文版本]
+為準。
 
 == 我們很樂意聽取您的意見！
 

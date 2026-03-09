@@ -43,8 +43,8 @@ t:
       <strong>Collaborative technologies</strong>
       <br>
       for&nbsp;all
-    explore_projects: "Explore Projects"
-    nav_projects: "Projects"
+    explore_projects: "Explore Technologies"
+    nav_projects: "Technologies"
     nav_software: "Software"
     nav_specs: "Specifications"
     nav_blog: "News"
@@ -54,8 +54,8 @@ t:
     footer_security: "Security"
     footer_feedback: "Feedback"
     footer_openpgp: "OpenPGP Keys"
-    featured_projects: "Featured Projects"
-    other_projects: "Other Projects"
+    featured_projects: "Featured Technologies"
+    other_projects: "Other Technologies"
     latest_news: "Latest news"
     from_blog: "News"
     visit_site: "Visit Site"
@@ -68,8 +68,8 @@ t:
       <strong>Technologies collaboratives</strong>
       <br>
       pour tous
-    explore_projects: "Explorer les projets"
-    nav_projects: "Projets"
+    explore_projects: "Explorer les technologies"
+    nav_projects: "Technologies"
     nav_software: "Logiciels"
     nav_specs: "Spécifications"
     nav_blog: "Actualités"
@@ -79,14 +79,14 @@ t:
     footer_security: "Sécurité"
     footer_feedback: "Commentaires"
     footer_openpgp: "Clés OpenPGP"
-    featured_projects: "Projets en vedette"
-    other_projects: "Autres projets"
+    featured_projects: "Technologies en vedette"
+    other_projects: "Autres technologies"
     latest_news: "Dernières actualités"
     from_blog: "Actualités"
     visit_site: "Visiter le site"
     all_software: "Tous les logiciels"
     all_specs: "Toutes les spécifications"
-    no_projects: "Aucun projet à afficher."
+    no_projects: "Aucune technologie à afficher."
   ja:
     site_title: "Ribose"
     tagline: "すべての人のための協調技術"
@@ -94,8 +94,8 @@ t:
       <strong>協調技術</strong>
       <br>
       すべての人のために
-    explore_projects: "プロジェクトを探す"
-    nav_projects: "プロジェクト"
+    explore_projects: "技術を探す"
+    nav_projects: "技術"
     nav_software: "ソフトウェア"
     nav_specs: "仕様"
     nav_blog: "ニュース"
@@ -105,14 +105,14 @@ t:
     footer_security: "セキュリティ"
     footer_feedback: "フィードバック"
     footer_openpgp: "OpenPGP鍵"
-    featured_projects: "注目プロジェクト"
-    other_projects: "その他のプロジェクト"
+    featured_projects: "注目技術"
+    other_projects: "その他の技術"
     latest_news: "最新ニュース"
     from_blog: "ニュース"
     visit_site: "サイトを訪問"
     all_software: "すべてのソフトウェア"
     all_specs: "すべての仕様"
-    no_projects: "表示するプロジェクトがありません。"
+    no_projects: "表示する技術がありません。"
   zh-hant:
     site_title: "擎威科技"
     tagline: "開源協作"
@@ -120,8 +120,8 @@ t:
       <strong>協作科技</strong>
       <br>
       為所有人而設
-    explore_projects: "探索專案"
-    nav_projects: "專案"
+    explore_projects: "探索技術"
+    nav_projects: "技術"
     nav_software: "軟体"
     nav_specs: "規範"
     nav_blog: "最新消息"
@@ -131,8 +131,8 @@ t:
     footer_security: "安全"
     footer_feedback: "反饋"
     footer_openpgp: "OpenPGP金鑰"
-    featured_projects: "精選專案"
-    other_projects: "其他專案"
+    featured_projects: "精選技術"
+    other_projects: "其他技術"
     latest_news: "最新消息"
     from_blog: "最新消息"
     visit_site: "訪問網站"
@@ -145,8 +145,8 @@ t:
       <strong>协作科技</strong>
       <br>
       为所有人而设
-    explore_projects: "探索项目"
-    nav_projects: "项目"
+    explore_projects: "探索技术"
+    nav_projects: "技术"
     nav_software: "软件"
     nav_specs: "规范"
     nav_blog: "最新消息"
@@ -156,8 +156,8 @@ t:
     footer_security: "安全"
     footer_feedback: "反馈"
     footer_openpgp: "OpenPGP密钥"
-    featured_projects: "精选项目"
-    other_projects: "其他项目"
+    featured_projects: "精选技术"
+    other_projects: "其他技术"
     latest_news: "最新消息"
     from_blog: "最新消息"
     visit_site: "访问网站"

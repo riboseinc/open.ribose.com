@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Deploying BibXML Service in AWS EKS Fargate"
+title: "擎威 Ribose 成功將 BibXML 服務部署至 AWS EKS Fargate"
 date: 2021-01-07 00:00:00
 categories: ribose-open
 featured: true
@@ -8,22 +8,19 @@ author:
   name: Kwan Koon Wa
   email: kw.kwan@ribose.com
 excerpt: >-
-  Ribose has deployed BibXML Service in AWS EKS Fargate.
+  擎威 Ribose 成功將 BibXML 服務部署至 AWS EKS Fargate
 ---
-= Deploying BibXML Service in AWS EKS Fargate
+= 擎威 Ribose 成功將 BibXML 服務部署至 AWS EKS Fargate
 
-In this article, we will use
-https://github.com/ietf-ribose/bibxml-service[BibXML Service] (Django-based
-Web service implementing IETF BibXML APIs) as a showcase to show you how to
-deploy containerized Python and Django applications in AWS EKS Fargate.
+本文中我們將使用
+https://github.com/ietf-ribose/bibxml-service[BibXML Service]（基於 Django 的 Web 服務，實現 IETF BibXML API）作為範例，展示如何在 AWS EKS Fargate 中部署容器化的 Python 和 Django 應用程式。
 
 .Network Diagram
 image::/assets/blog/2022-01-07_1.png[Network Diagram]
 
 == Prerequisites
 
-You may need to learn the technologies listed below to understand the steps
-listed in this article.
+您可能需要了解以下技術，以便理解本文中列出的步驟。
 
 * https://kubernetes.io/docs/concepts/overview/what-is-kubernetes[Kubernetes]
 
@@ -319,7 +316,7 @@ resource "aws_eks_cluster" "main" {
   timeouts {
     delete    = "30m"
   }
-  
+
   depends_on = [
     aws_iam_role.eks_cluster_role,
     aws_iam_role_policy_attachment.eks-AmazonEKSClusterPolicy,
@@ -877,7 +874,7 @@ data "aws_iam_policy_document" "elb_assume_role_policy" {
   statement {
     actions = ["sts:AssumeRoleWithWebIdentity"]
     effect  = "Allow"
-    
+
 
     condition {
       test     = "StringEquals"

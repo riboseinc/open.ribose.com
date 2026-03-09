@@ -8,7 +8,9 @@ hero_include: index-page-hero.html
 ---
 :page-liquid:
 
-CAUTION: 本页面为英文版本的翻译，仅供参考。如中英文版本有任何不一致之处，应以+++<a href="https://open.ribose.com/privacy/">英文版本</a>+++为准。
+CAUTION: 本页面为英文版本的翻译，仅供参考。如中英文版本有任何不一致之处，应以
+https://www.ribose.com/privacy/"[英文版本]
+为准。
 
 == 简介
 
