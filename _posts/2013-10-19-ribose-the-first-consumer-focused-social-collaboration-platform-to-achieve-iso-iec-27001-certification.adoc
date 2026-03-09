@@ -18,7 +18,7 @@ excerpt: >-
 *Hong Kong, 21 October 2013 --* http://www.ribose.com[Ribose], a start-up
 that is redefining the way individuals and organizations collaborate to
 get better results, today announced that it has achieved
-link:http://www.iso.org[ISO]/link:http://www.iec.ch[IEC] 27001 certification
+link:http://www.iso.org[ISO] / link:http://www.iec.ch[IEC] 27001 certification
 covering all aspects of the company, including its social collaboration
 platform.
 
