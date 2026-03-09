@@ -19,8 +19,8 @@ https://www.ribose.com/feedback/"[英文版本]
 _例如_ https://github.com/rnpgp/rnp/issues
 
 NOTE: GitHub 問題追蹤器是公開可見的。
-請通過link:/cve-policy[專用渠道]報告安全問題。
+請通過 link:/cve-policy[專用渠道]報告安全問題。
 
 === 安全反饋
 
-請參閱link:/cve-policy[我們的披露政策]。
+請參閱 link:/cve-policy[我們的披露政策]。

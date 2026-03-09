@@ -19,7 +19,8 @@ https://www.ribose.com/feedback/"[英語版]
 _例：_ https://github.com/rnpgp/rnp/issues
 
 NOTE: GitHubイシュートラッカーは公開されています。
-セキュリティの問題はlink:/cve-policy[専用チャネル]からご報告ください。
+セキュリティの問題は
+link:/cve-policy[専用チャネル]からご報告ください。
 
 === セキュリティフィードバック
 
