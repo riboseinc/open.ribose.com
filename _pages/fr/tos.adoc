@@ -8,7 +8,9 @@ hero_include: index-page-hero.html
 ---
 :page-liquid:
 
-CAUTION: Cette page est une traduction de la version anglaise, fournie à titre indicatif uniquement. En cas de divergence entre la version française et la version anglaise, la +++<a href="https://open.ribose.com/tos/">version anglaise</a>+++ prévaut.
+CAUTION: Cette page est une traduction de la version anglaise, fournie à titre indicatif uniquement. En cas de divergence entre la version française et la version anglaise, la
+https://www.ribose.com/tos/"[version anglaise]
+ prévaut.
 
 == Conditions
 

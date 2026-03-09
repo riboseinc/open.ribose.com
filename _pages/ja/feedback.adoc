@@ -6,7 +6,9 @@ revision_date_template: "最終改訂日：{{ revision_date | date: '%Y年%-m月
 hero_include: index-page-hero.html
 ---
 
-CAUTION: このページは英文版の翻訳であり、参考用です。日本語版と英語版に不一致がある場合は、+++<a href="https://open.ribose.com/feedback/">英語版</a>+++が優先されます。
+CAUTION: このページは英文版の翻訳であり、参考用です。日本語版と英語版に不一致がある場合は、
+https://www.ribose.com/feedback/"[英語版]
+が優先されます。
 
 == ご意見をお聞かせください！
 

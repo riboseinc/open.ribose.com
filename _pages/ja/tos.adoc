@@ -8,7 +8,9 @@ hero_include: index-page-hero.html
 ---
 :page-liquid:
 
-CAUTION: このページは英文版の翻訳であり、参考用です。日本語版と英語版に不一致がある場合は、+++<a href="https://open.ribose.com/tos/">英語版</a>+++が優先されます。
+CAUTION: このページは英文版の翻訳であり、参考用です。日本語版と英語版に不一致がある場合は、
+https://www.ribose.com/tos/"[英語版]
+が優先されます。
 
 == 条款
 

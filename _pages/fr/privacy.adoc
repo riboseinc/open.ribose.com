@@ -8,7 +8,9 @@ hero_include: index-page-hero.html
 ---
 :page-liquid:
 
-CAUTION: Cette page est une traduction de la version anglaise, fournie à titre indicatif uniquement. En cas de divergence entre la version française et la version anglaise, la +++<a href="https://open.ribose.com/privacy/">version anglaise</a>+++ prévaut.
+CAUTION: Cette page est une traduction de la version anglaise, fournie à titre indicatif uniquement. En cas de divergence entre la version française et la version anglaise, la
+https://www.ribose.com/privacy/"[version anglaise]
+ prévaut.
 
  en cas of any discrepancy between the French and English versions.
 

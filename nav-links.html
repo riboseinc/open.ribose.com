@@ -8,7 +8,7 @@
 {% endif %}
 
 {% if site.is_hub %}
-  {% assign projects_title = t.nav_projects | default: "Projects" %}
+  {% assign projects_title = t.nav_projects | default: "Technologies" %}
   {% include nav-page-link.html htmlclass="projects" url="/projects/" title=projects_title %}
 
   {% if site.num_all_software > 0 %}

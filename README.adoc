@@ -8,7 +8,7 @@ See https://github.com/riboseinc/open.ribose.com/wiki/Listing-of-open-projects[l
 
 == Introduction
 
-This is the Ribose Open Site (Hub) located at https://open.ribose.com.
+This is the Ribose Official Site located at https://www.ribose.com.
 
 The site is implemented as a https://jekyllrb.com[Jekyll] site and configured
 in _config.yml. Site data is located in this directory and build gets created

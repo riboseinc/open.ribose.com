@@ -7,7 +7,7 @@
 {% assign num_featured_projects = featured_projects | size %}
 {% if num_featured_projects > 0 %}
   <section class="featured-projects">
-    <h2 class="title">{{ t.featured_projects | default: "Featured Projects" }}</h2>
+    <h2 class="title">{{ t.featured_projects | default: "Featured Technologies" }}</h2>
 
     <div class="items">
 
@@ -54,7 +54,7 @@
 <section class="other-projects">
   {% include assets/symbol.svg %}
 
-  <h2 class="title">{{ t.other_projects | default: "Other Projects" }}</h2>
+  <h2 class="title">{{ t.other_projects | default: "Other Technologies" }}</h2>
 
   <div class="items {% if num_other_projects < 5 %}one-row{% endif %}">
     {% for item in other_projects %}
