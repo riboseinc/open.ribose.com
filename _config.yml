@@ -250,6 +250,18 @@ project_descriptions:
     ja: "軽量クロスプラットフォーム実行コンテナ"
     zh-hant: "輕量級跨平台可執行容器"
     zh-hans: "轻量级跨平台可执行容器"
+  fontist:
+    en: "Install openly-licensed fonts on Windows, Linux and Mac"
+    fr: "Installer des polices sous licence libre sur Windows, Linux et Mac"
+    ja: "Windows、Linux、Macでオープンライセンスフォントをインストール"
+    zh-hant: "在 Windows、Linux 和 Mac 上安裝開源授權字型"
+    zh-hans: "在 Windows、Linux 和 Mac 上安装开源授权字体"
+  parsanol:
+    en: "Parser combinator library for Rust and Ruby"
+    fr: "Bibliothèque de combinateurs d'analyseurs pour Rust et Ruby"
+    ja: "RustとRuby用のパーサーコンビネータライブラリ"
+    zh-hant: "Rust 和 Ruby 的解析器組合庫"
+    zh-hans: "Rust 和 Ruby 的解析器组合库"
 
 social:
   links:

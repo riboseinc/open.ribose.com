@@ -18,7 +18,8 @@ layout: default
 
         <header>
           <div class="logo-container">
-            <div class="logo"><img src="{{ '/assets/symbol.svg' | relative_url }}" alt="{{ project.title }} logo"></div>
+            {% assign symbol_path = "/projects/" | append: project_slug | append: "/assets/symbol.svg" %}
+            <div class="logo"><img src="{{ symbol_path | relative_url }}" onerror="this.src='{{ '/assets/symbol.svg' | relative_url }}'" alt="{{ project.title }} logo"></div>
           </div>
           <h3 class="title">{{ project.title }}</h3>
         </header>
