@@ -14,7 +14,7 @@ excerpt: >-
 
 {blank}[8 July 2015 -- Hong Kong] -- Cloud collaboration platform provider Ribose
 has achieved the world's most extensive
-http://www.thecqi.org/Knowledge-Hub/Resources/Factsheets/Integrated-management-systems/[integrated management system (IMS)]
+https://web.archive.org/web/20090214112605/http://www.thecqi.org/Knowledge-Hub/Resources/Factsheets/Integrated-management-systems/[integrated management system (IMS)]
 certified to the
 http://www.bsigroup.com/en-GB/pas-99-integrated-management/[PAS 99]
 standard.

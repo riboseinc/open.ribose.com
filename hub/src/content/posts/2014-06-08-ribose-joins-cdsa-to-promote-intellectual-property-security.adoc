@@ -19,7 +19,7 @@ lifecycle*
 
 *Hong Kong, 9 June 2014 --* http://www.ribose.com[Ribose], a start-up
 redefining the way people collaborate, has joined the
-https://www.mesalliance.org/communities/CDSA/[Content Delivery and Security Association
+https://web.archive.org/web/20160615232113/https://www.mesalliance.org/communities/CDSA/[Content Delivery and Security Association
 (CDSA)] to promote the development of intellectual property security.
 Committed to an open Internet, Ribose believes respect for intellectual
 property is necessary for people to work together efficiently,

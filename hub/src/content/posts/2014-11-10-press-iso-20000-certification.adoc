@@ -13,7 +13,7 @@ press@ribose.com
 
 *Hong Kong, 10 November 2014 –* http://www.ribose.com[Ribose] has become the world’s first casual collaboration platform to achieve certification to the http://www.iso.org/iso/catalogue_detail?csnumber=51986[ISO/IEC 20000-1:2011] international standard for information technology service management (ITSM).
 
-Based on the http://www.itil-officialsite.com/[IT infrastructure library (ITIL®)] best practice framework, ISO/IEC 20000-1 specifies requirements for planning, establishing, implementing, operating, monitoring, reviewing, maintaining and improving services management systems. The standard ensures companies can achieve evidence-based benchmarks to continuously improve service delivery.
+Based on the https://web.archive.org/web/20061117132505/http://www.itil-officialsite.com/[IT infrastructure library (ITIL®)] best practice framework, ISO/IEC 20000-1 specifies requirements for planning, establishing, implementing, operating, monitoring, reviewing, maintaining and improving services management systems. The standard ensures companies can achieve evidence-based benchmarks to continuously improve service delivery.
 
 Ribose’s certification is awarded by http://www.bsigroup.com/[BSI], the originator of the ISO/IEC 20000-1 standard and its predecessor, BS 15000, accredited by http://www.anab.org/[ANAB (ANSI-ASQ National Accreditation Board)], and recognized by the official http://www.isoiec20000certification.com/[ISO/IEC 20000 IT Service Management Certification Scheme] created by http://www.itsmfi.org/[itSMF (the IT Service Management Forum)] and operated by the http://www.apmgroupltd.com/[APM Group].
 
@@ -27,7 +27,7 @@ According to Emmanuel Herve, Managing Director of BSI Hong Kong, “Evidence-bas
 
 http://www.ribose.com[*About Ribose*]
 
-Ribose is a cloud collaboration platform that makes working together easy and fun. A forerunner in cloud security, Ribose is the world’s first cloud service provider certified to https://cloudsecurityalliance.org/star/[CSA STAR] using https://cloudsecurityalliance.org/research/ccm/[CCM v3] and http://www.ida.gov.sg/Collaboration-and-Initiatives/Initiatives/Store/MTCS-Certification-Scheme[MTCS]. It is also certified to http://www.iso.org/iso/iso27001[ISO/IEC 27001], http://www.iso.org/iso/catalogue_detail?csnumber=51986[ISO/IEC 20000-1] and http://www.cdsaonline.org/content-protection-and-security-standards-and-procedures/[CDSA CPS] standards, and approved by the https://www.digitalmarketplace.service.gov.uk/[UK Government’s G-Cloud program] for government use.
+Ribose is a cloud collaboration platform that makes working together easy and fun. A forerunner in cloud security, Ribose is the world’s first cloud service provider certified to https://cloudsecurityalliance.org/star/[CSA STAR] using https://cloudsecurityalliance.org/research/ccm/[CCM v3] and https://web.archive.org/web/20000302171106/https://web.archive.org/web/20131121181951/http://www.ida.gov.sg/Collaboration-and-Initiatives/Initiatives/Store/MTCS-Certification-Scheme[MTCS]. It is also certified to http://www.iso.org/iso/iso27001[ISO/IEC 27001], http://www.iso.org/iso/catalogue_detail?csnumber=51986[ISO/IEC 20000-1] and http://www.cdsaonline.org/content-protection-and-security-standards-and-procedures/[CDSA CPS] standards, and approved by the https://www.digitalmarketplace.service.gov.uk/[UK Government’s G-Cloud program] for government use.
 
 Ribose is free to use: http://www.ribose.com[ribose.com].
 

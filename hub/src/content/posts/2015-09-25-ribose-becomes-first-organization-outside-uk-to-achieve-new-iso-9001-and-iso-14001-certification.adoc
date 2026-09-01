@@ -123,7 +123,7 @@ http://www.iso.org/iso/home/standards/management-standards/iso50001.htm[ISO
 50001], http://www.bsigroup.com/en-GB/pas-99-integrated-management/[PAS
 99], https://www.cyberstreetwise.com/cyberessentials[Cyber Essentials
 Plus],
-https://www.mesalliance.org/communities/CDSA/production-security-guidelines/[CDSA
+https://web.archive.org/web/20160615232113/https://web.archive.org/web/20190818175613/https://www.mesalliance.org/communities/CDSA/production-security-guidelines/[CDSA
 Content Protection Security (CPS)] and http://www.aicpa.org/soc[AICPA
 Service Organization Control (SOC)] standards, and approved by the
 https://www.digitalmarketplace.service.gov.uk/[UK Government's G-Cloud

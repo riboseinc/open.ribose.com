@@ -19,9 +19,9 @@ rating*
 
 HONG KONG, March 17, 2014 /PRNewswire/ -- http://www.ribose.com[Ribose]
 has achieved certification for
-https://www.mesalliance.org/communities/CDSA/production-security-guidelines/[Content
+https://web.archive.org/web/20160615232113/https://web.archive.org/web/20190818175613/https://www.mesalliance.org/communities/CDSA/production-security-guidelines/[Content
 Protection and Security (CPS)] from the
-https://www.mesalliance.org/communities/CDSA/[Content Delivery and Security Association
+https://web.archive.org/web/20160615232113/https://www.mesalliance.org/communities/CDSA/[Content Delivery and Security Association
 (CDSA)]. All audited areas were rated as Green, indicating full
 compliance and a low level of risk. Ribose is the only collaboration
 platform worldwide certified to CPS.
@@ -62,7 +62,7 @@ protecting user information."
 
 == About CDSA
 
-The https://www.mesalliance.org/communities/CDSA/[Content Delivery and Security Association (CDSA)]
+The https://web.archive.org/web/20160615232113/https://www.mesalliance.org/communities/CDSA/[Content Delivery and Security Association (CDSA)]
 is a non-profit organization advocating the innovative and
 responsible delivery and storage of entertainment, software and
 information. Among its members are some of the world's largest

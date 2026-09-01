@@ -14,7 +14,7 @@ excerpt: >-
 
 {blank}[2015 年 7 月 8 日 -- 香港] -- 雲端協作平台提供商擎威 Ribose
 已獲得全球最全面的
-http://www.thecqi.org/Knowledge-Hub/Resources/Factsheets/Integrated-management-systems/[整合管理系統 (IMS)]
+https://web.archive.org/web/20090214112605/http://www.thecqi.org/Knowledge-Hub/Resources/Factsheets/Integrated-management-systems/[整合管理系統 (IMS)]
 認證，符合
 http://www.bsigroup.com/en-GB/pas-99-integrated-management/[PAS 99]
 標準。
