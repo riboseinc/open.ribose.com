@@ -2,9 +2,9 @@
 import { newsStream, SITE, escapeXml } from '../../lib/newsStream'
 import type { APIRoute } from 'astro'
 
-export const GET: APIRoute = () => {
+export const GET: APIRoute = async () => {
   const updated = new Date().toISOString()
-  const entries = newsStream().slice(0, 50).map((i) => `  <entry>
+  const entries = (await newsStream()).slice(0, 50).map((i) => `  <entry>
     <title>${escapeXml(i.title)}</title>
     <id>${escapeXml(i.urn)}</id>
     <link href="${SITE}${i.href}"/>

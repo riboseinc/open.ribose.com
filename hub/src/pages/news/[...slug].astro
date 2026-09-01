@@ -5,15 +5,17 @@ import { wire, type WireArticle } from '../../lib/wire'
 import { posts, englishPosts, zhVariantOf, type Post } from '../../lib/posts'
 import { newsArticleJsonLd, breadcrumbJsonLd } from '../../lib/seo'
 import { t } from '../../lib/i18n'
+import { spokeArticles } from '../../lib/newsmlSpoke'
 
 const Asciidoctor = (await import('asciidoctor')).default
 const asciidoctor = Asciidoctor()
 
 type Entry =
   | { kind: 'wire'; path: string; article: WireArticle }
+  | { kind: 'spoke'; path: string; spoke: Awaited<ReturnType<typeof spokeArticles>>[number] }
   | { kind: 'post'; path: string; post: Post }
 
-export function getStaticPaths() {
+export async function getStaticPaths() {
   const wireEntries: Entry[] = wire().index().map((article) => ({
     kind: 'wire' as const,
     path: article.id.replace(/^urn:ribose:news:/, '').replace(/:/g, '-'),
@@ -24,12 +26,18 @@ export function getStaticPaths() {
     path: post.lang === 'zh-hant' ? `zh-hant/${post.slug}` : post.slug,
     post,
   }))
+  const spokeEntries: Entry[] = (await spokeArticles()).map((spoke) => ({
+    kind: 'spoke' as const,
+    path: spoke.href.replace('/news/', ''),
+    spoke,
+  }))
   // Prev/next follows the same timeline as /news (newest first), and never
   // crosses streams: news neighbors for news, archive neighbors for archive.
   const base = (list: { path: string; date: string; title: string }[]) =>
     list.sort((a, b) => b.date.localeCompare(a.date))
   const newsTimeline = base([
     ...wireEntries.map((e) => ({ path: e.path, date: e.article.published ?? '', title: e.article.headline })),
+    ...spokeEntries.map((e) => ({ path: e.path, date: e.spoke.date, title: e.spoke.title })),
     ...englishPosts().filter((p) => !p.archived).map((post) => ({ path: post.slug, date: post.date, title: post.title })),
   ])
   const archiveTimeline = base(
@@ -40,7 +48,7 @@ export function getStaticPaths() {
     const n = list[i + offset]
     return n ? { href: `/news/${n.path}`, title: n.title } : undefined
   }
-  return [...wireEntries, ...postEntries].map((entry) => {
+  return [...wireEntries, ...spokeEntries, ...postEntries].map((entry) => {
     const isZh = entry.kind === 'post' && entry.post.lang === 'zh-hant'
     const timeline = entry.kind === 'post' && entry.post.archived ? archiveTimeline : newsTimeline
     return {
@@ -63,7 +71,15 @@ let published: string | null = null; let canonicalHref: string | undefined
 let originLabel: string | undefined; let originUrl: string | undefined
 let variant: Post | undefined
 
-if (entry.kind === 'wire') {
+if (entry.kind === 'spoke') {
+  title = entry.spoke.title
+  description = entry.spoke.description || entry.spoke.title
+  bodyHtml = `<div class="spoke-body">${entry.spoke.bodyXhtml}</div>`
+  published = entry.spoke.date
+  canonicalHref = entry.spoke.canonical
+  originLabel = entry.spoke.origin
+  originUrl = entry.spoke.canonical
+} else if (entry.kind === 'wire') {
   const full = wire().article(entry.article)
   title = full.headline
   subheadline = full.subheadline ?? undefined
@@ -100,7 +116,7 @@ const date = published ? new Date(published) : null
       : undefined}
     share={{ url: new URL(canonicalPath, Astro.site).href, title }}
   >
-    {entry.kind === 'wire' && originUrl && (
+    {(entry.kind === 'wire' || entry.kind === 'spoke') && originUrl && (
       <footer class="mt-10 max-w-3xl rounded-2xl border border-brand-200 bg-brand-50 p-5 text-sm dark:border-brand-900 dark:bg-brand-900/30">
         <p>{t('news.origin')} <a href={originUrl} class="font-semibold">{originLabel}</a></p>
       </footer>

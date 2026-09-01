@@ -1,10 +1,10 @@
 // NewsML-G2 (IPTC 2.35) projection of the news stream. Interim generator;
 // swaps to the newsmlg2-ts library once it lands (TODO.import-network/02).
-import { newsStream, SITE, escapeXml } from '../../lib/newsStream'
+import { newsStream, escapeXml } from '../../lib/newsStream'
 import type { APIRoute } from 'astro'
 
-export const GET: APIRoute = () => {
-  const items = newsStream().slice(0, 100).map((i) => `    <newsItem xml:lang="en" standard="NewsML-G2" standardversion="2.35" conformance="power" guid="${escapeXml(i.urn)}" version="1">
+export const GET: APIRoute = async () => {
+  const items = (await newsStream()).slice(0, 100).map((i) => `    <newsItem xml:lang="en" standard="NewsML-G2" standardversion="2.35" conformance="power" guid="${escapeXml(i.urn)}" version="1">
       <itemMeta>
         <itemClass qcode="ninat:text"/>
         <provider qcode="nprov:ribose">

@@ -1,6 +1,7 @@
 ---
 import BaseLayout from '../../layouts/Base.astro'
 import { wire } from '../../lib/wire'
+import { spokeArticles } from '../../lib/newsmlSpoke'
 import { englishPosts } from '../../lib/posts'
 
 const articles = wire().index().map((article) => ({
@@ -17,7 +18,14 @@ const posts = englishPosts().map((post) => ({
   origin: 'ribose.com',
   kind: post.archived ? ('archive' as const) : ('news' as const),
 }))
-const all = [...articles, ...posts].sort((a, b) => b.date.localeCompare(a.date))
+const spoke = (await spokeArticles()).map((a) => ({
+  href: a.href,
+  date: a.date,
+  title: a.title,
+  origin: a.origin,
+  kind: 'wire' as const,
+}))
+const all = [...articles, ...spoke, ...posts].sort((a, b) => b.date.localeCompare(a.date))
 const archiveCount = posts.filter((p) => p.kind === 'archive').length
 const years = [...new Set(all.map((item) => item.date.slice(0, 4)))].sort((a, b) => b.localeCompare(a))
 ---
