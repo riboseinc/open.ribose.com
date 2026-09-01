@@ -17,7 +17,7 @@ jobs:
         working-directory: hub
     environment:
       name: ${{ github.ref == 'refs/heads/main' && 'production' || 'staging' }}
-      url: ${{ github.ref == 'refs/heads/main' && 'https://open.ribose.com' || 'https://staging-open.ribose.com' }}
+      url: ${{ github.ref == 'refs/heads/main' && 'https://www.ribose.com' || 'https://staging.ribose.com' }}
 
     steps:
       - uses: actions/checkout@v4
