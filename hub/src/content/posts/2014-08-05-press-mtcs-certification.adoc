@@ -11,9 +11,9 @@ press@ribose.com
 
 *Compliant to Singapore Standard SS 584, world’s first multi-tiered cloud standard*
 
-*Singapore/Hong Kong, 5 August 2014 –* http://www.ribose.com[Ribose] has become the world’s first cloud service provider (CSP) to achieve Singapore’s https://web.archive.org/web/20131121181955/http://www.ida.gov.sg/Infocomm-Landscape/ICT-Standards-and-Framework/MTCS-Certification-Scheme[Multi-Tier Cloud Security (MTCS)] certification.
+*Singapore/Hong Kong, 5 August 2014 –* http://www.ribose.com[Ribose] has become the world’s first cloud service provider (CSP) to achieve Singapore’s https://web.archive.org/web/20130115150744/http://www.ida.gov.sg//Infocomm-Landscape/ICT-Standards-and-Framework/MTCS-Certification-Scheme[Multi-Tier Cloud Security (MTCS)] certification.
 
-Initiated by the http://www.ida.gov.sg[Infocomm Development Authority of Singapore (IDA)] and developed under the http://www.itsc.org.sg[Information Technology Standards Committee (ITSC)], the MTCS is a Singapore Standard (SS 584:2013) that specifies stringent security and operational requirements for CSPs to encourage adoption of sound risk management and security practices. The certification specifies three tiers of security certification, with level three being the highest.
+Initiated by the https://web.archive.org/web/20130115150744/http://www.ida.gov.sg/[Infocomm Development Authority of Singapore (IDA)] and developed under the http://www.itsc.org.sg[Information Technology Standards Committee (ITSC)], the MTCS is a Singapore Standard (SS 584:2013) that specifies stringent security and operational requirements for CSPs to encourage adoption of sound risk management and security practices. The certification specifies three tiers of security certification, with level three being the highest.
 
 Ribose’s level one MTCS certification was awarded after thorough evaluation by http://www.bsigroup.com[BSI (British Standards Institution)], a participating Certification Body for the MTCS standard.
 
@@ -27,13 +27,13 @@ According to Ribose founder Ronald Tse, “By achieving MTCS certification, Ribo
 
 http://www.ribose.com[*About Ribose*]
 
-Ribose makes collaborating easy and fun. Whether planning business projects or social events, the Ribose platform helps users collaborate through world-class security certified to the highest standards, including http://www.iso.org/iso/home/standards/management-standards/iso27001.htm[ISO/IEC 27001], https://cloudsecurityalliance.org/star/certification/[CSA STAR], http://www.cdsaonline.org/content-protection-and-security-standards-and-procedures/[CDSA CPS] and https://web.archive.org/web/20131121181955/http://www.ida.gov.sg/Infocomm-Landscape/ICT-Standards-and-Framework/MTCS-Certification-Scheme[IDA MTCS]. Also available as part of the http://govstore.service.gov.uk/cloudstore/search/?q=ribose[UK Government's G-Cloud] program, Ribose is free to use: http://www.ribose.com.
+Ribose makes collaborating easy and fun. Whether planning business projects or social events, the Ribose platform helps users collaborate through world-class security certified to the highest standards, including http://www.iso.org/iso/home/standards/management-standards/iso27001.htm[ISO/IEC 27001], https://cloudsecurityalliance.org/star/certification/[CSA STAR], http://www.cdsaonline.org/content-protection-and-security-standards-and-procedures/[CDSA CPS] and https://web.archive.org/web/20130115150744/http://www.ida.gov.sg//Infocomm-Landscape/ICT-Standards-and-Framework/MTCS-Certification-Scheme[IDA MTCS]. Also available as part of the http://govstore.service.gov.uk/cloudstore/search/?q=ribose[UK Government's G-Cloud] program, Ribose is free to use: http://www.ribose.com.
 
 For further details, see https://web.archive.org/web/20150209061648/http://gsp.ngp.org.sg/csp-registry/csp-self-disclosures/[Ribose on IDA’s Infocomm Resource Marketplace].
 
-http://www.ida.gov.sg[*About IDA*]
+https://web.archive.org/web/20130115150744/http://www.ida.gov.sg/[*About IDA*]
 
-The mission of the IDA is to develop information technology and telecommunications within Singapore with a view to serve citizens of all ages and companies of all sizes. IDA does this by actively supporting the growth of innovative technology companies and start-ups in Singapore, working with leading global IT companies as well as developing excellent information technology and telecommunications infrastructure, policies and capabilities for Singapore. For more news and information, visit https://web.archive.org/web/20000302171106/http://www.ida.gov.sg/[www.ida.gov.sg].
+The mission of the IDA is to develop information technology and telecommunications within Singapore with a view to serve citizens of all ages and companies of all sizes. IDA does this by actively supporting the growth of innovative technology companies and start-ups in Singapore, working with leading global IT companies as well as developing excellent information technology and telecommunications infrastructure, policies and capabilities for Singapore. For more news and information, visit https://web.archive.org/web/20130115150744/http://www.ida.gov.sg/[www.ida.gov.sg].
 
 http://www.bsigroup.com[*About BSI*]
 

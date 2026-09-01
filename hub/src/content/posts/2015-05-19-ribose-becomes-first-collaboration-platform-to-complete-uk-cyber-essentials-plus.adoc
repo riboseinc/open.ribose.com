@@ -18,7 +18,7 @@ assessment, a UK Government-backed and industry-supported scheme that
 helps to protect businesses against cyber threats.
 
 Launched in June 2014, Cyber Essentials was developed by
-https://www.cesg.gov.uk[CESG] (the information security arm of
+https://web.archive.org/web/20130118023207/https://www.cesg.gov.uk/[CESG] (the information security arm of
 http://www.gchq.gov.uk[GCHQ]) and the
 https://www.gov.uk/government/organisations/department-for-business-innovation-skills[Department
 of Business, Innovation and Skills] in conjunction with
