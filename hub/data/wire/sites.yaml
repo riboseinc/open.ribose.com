@@ -12,6 +12,9 @@ sites:
     url: https://www.metanorma.org
     type: project
     news_path: /blog/
+    # Static NewsML-G2 spoke feed (TODO.import-network/03); the hub pulls
+    # this index and imports full articles at build time.
+    newsml: https://www.metanorma.org/news-data/newsml.xml
   - id: primmel
     name: Primmel
     url: https://www.primmel.org
