@@ -7,10 +7,10 @@ labels:
 - innovation
 pictures:
 - pages/awards/corpvis-tech-2016.png
-detail_link: http://www.corp-vis.com/top-tech-awards
+detail_link: https://web.archive.org/web/20160721085530/http://www.corp-vis.com/top-tech-awards
 ---
 Ribose was named
-http://www.corp-vis.com/top-tech-awards[Best Secure Collaboration Platform in the 2016 Technology Innovator Awards]
+https://web.archive.org/web/20160721085530/http://www.corp-vis.com/top-tech-awards[Best Secure Collaboration Platform in the 2016 Technology Innovator Awards]
 hosted by the Corporate Vision Magazine.
 
 Ribose was named Best Secure Collaboration Platform of the year in the 2016

@@ -9,7 +9,7 @@ pictures:
 - pages/awards/corpvis-tech-2015.png
 detail_link: /blog/2015/ribose-named-best-cloud-collaboration-platform-in-2015-technology-innovator-awards
 ---
-Ribose was named http://www.corp-vis.com/top-tech-awards[Best Cloud Collaboration Platform in the 2015 Technology Innovator Awards]
+Ribose was named https://web.archive.org/web/20160721085530/http://www.corp-vis.com/top-tech-awards[Best Cloud Collaboration Platform in the 2015 Technology Innovator Awards]
 hosted by the Corporate Vision Magazine.
 
 Ribose joined other winners including AIG, Level 3 Communications and Standard

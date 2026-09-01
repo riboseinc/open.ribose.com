@@ -166,7 +166,6 @@ suites:
     name: Kotoshu
     domain: language
     org: kotoshu
-    site: https://kotoshu.github.io
     tagline: Spell checking as a service, API, and LSP
     softwares:
       - { name: kotoshu, note: "Ruby spellchecker" }

@@ -72,6 +72,7 @@ export default defineConfig({
   redirects: {
     '/openpgp_keys': '/security',
     '/security/feedback': '/security',
+    '/public_feedback': '/feedback',
     '/advisories': '/security/advisories',
     '/advisories/ra-2021-05-30': '/security/advisories/ra-2021-05-30',
     '/advisories/ra-2023-04-11': '/security/advisories/ra-2023-04-11',
