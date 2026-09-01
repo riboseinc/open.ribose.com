@@ -42,6 +42,14 @@ jobs:
             --verbose --no-progress --cache --max-cache-age 1d
             --base "$PWD/hub/dist"
             --exclude 'iso\.org'
+            --exclude 'iec\.ch'
+            --exclude 'mitre\.org'
+            --exclude 'webtrust\.org'
+            --exclude 'anab\.ansi\.org'
+            --exclude 'nytfriedmanforum\.com'
+            --exclude 'singaporestandardseshop\.sg'
+            --exclude 'github\.com'
+            --exclude 'stevieawards\.com/iba/ribose-inc-hong-kong'
             --exclude 'anab\.org'
             --exclude 'spc\.net\.cn'
             --exclude 'primmel/private-models'
