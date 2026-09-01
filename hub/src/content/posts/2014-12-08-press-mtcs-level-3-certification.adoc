@@ -12,7 +12,7 @@ achieves highest Level 3 security tier*
 
 *Singapore/Hong Kong, 8 December 2014 –* http://www.ribose.com[Ribose], the world’s first cloud service provider (CSP) certified to Singapore’s Multi-Tier Cloud Security (MTCS) program, has achieved the highest possible security tier: Level 3.
 
-Initiated by the http://www.ida.gov.sg[Infocomm Development Authority of Singapore (IDA)] and launched by SPRING Singapore, the MTCS standard (SS 584:2013) specifies stringent security and operational requirements for CSPs, encouraging adoption of sound risk management and security practices. MTCS Certification specifies three tiers of security levels, with Level 3 being the highest. The Singapore Accreditation Council (SAC) recently launched an accreditation program for MTCS Certification.
+Initiated by the https://web.archive.org/web/20130115150744/http://www.ida.gov.sg/[Infocomm Development Authority of Singapore (IDA)] and launched by SPRING Singapore, the MTCS standard (SS 584:2013) specifies stringent security and operational requirements for CSPs, encouraging adoption of sound risk management and security practices. MTCS Certification specifies three tiers of security levels, with Level 3 being the highest. The Singapore Accreditation Council (SAC) recently launched an accreditation program for MTCS Certification.
 
 Ribose was the first CSP worldwide to achieve MTCS certification with security tier Level 1 in June 2014. Following a thorough evaluation by http://www.bsigroup.com[BSI (British Standards Institution)], a participating Certification Body for the MTCS standard, Ribose has upgraded its certification to the highest security tier, Level 3 – indicating its platform’s suitability for running high-impact workloads, serving business- and mission-critical purposes, and hosting sensitive information as well as highly confidential business data.
 
@@ -24,7 +24,7 @@ Owen Xu, General Manager of BSI Singapore, commented, “BSI takes pride in empl
 
 http://www.ribose.com[*About Ribose*]
 
-Ribose is a cloud collaboration platform that makes working together easy and fun. A forerunner in cloud security, Ribose is the world’s first cloud service provider certified to https://cloudsecurityalliance.org/star/[CSA STAR] (CCM 3.0.1) and https://web.archive.org/web/20131121181951/http://www.ida.gov.sg/Collaboration-and-Initiatives/Initiatives/Store/MTCS-Certification-Scheme[MTCS]. It is also certified to http://www.iso.org/iso/iso27001[ISO/IEC 27001], ISO/IEC 20000 and http://www.cdsaonline.org/content-protection-and-security-standards-and-procedures/[CDSA CPS] standards, and approved by the https://www.digitalmarketplace.service.gov.uk/[UK Government’s G-Cloud program] for government use.
+Ribose is a cloud collaboration platform that makes working together easy and fun. A forerunner in cloud security, Ribose is the world’s first cloud service provider certified to https://cloudsecurityalliance.org/star/[CSA STAR] (CCM 3.0.1) and https://web.archive.org/web/20130115150744/http://www.ida.gov.sg//Collaboration-and-Initiatives/Initiatives/Store/MTCS-Certification-Scheme[MTCS]. It is also certified to http://www.iso.org/iso/iso27001[ISO/IEC 27001], ISO/IEC 20000 and http://www.cdsaonline.org/content-protection-and-security-standards-and-procedures/[CDSA CPS] standards, and approved by the https://www.digitalmarketplace.service.gov.uk/[UK Government’s G-Cloud program] for government use.
 
 Ribose is free to use: http://www.ribose.com[ribose.com].
 

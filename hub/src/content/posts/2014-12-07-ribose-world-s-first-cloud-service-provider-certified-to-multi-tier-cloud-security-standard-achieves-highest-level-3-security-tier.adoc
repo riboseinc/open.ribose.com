@@ -19,7 +19,7 @@ Cloud Security (MTCS)] program, has recently achieved the highest
 possible security tier: Level 3.
 
 Initiated by the https://www.imda.gov.sg[Infocomm Development Authority of
-Singapore (IDA)] and launched by http://www.spring.gov.sg[SPRING
+Singapore (IDA)] and launched by https://web.archive.org/web/20130114223503/http://www.spring.gov.sg/[SPRING
 Singapore], the MTCS standard (SS 584:2013) specifies stringent security
 and operational requirements for CSPs, encouraging adoption of sound
 risk management and security practices. MTCS Certification specifies

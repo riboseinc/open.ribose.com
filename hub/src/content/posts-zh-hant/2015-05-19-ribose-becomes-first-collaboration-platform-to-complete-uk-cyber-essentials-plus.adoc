@@ -15,7 +15,7 @@ excerpt: >-
 *20 May 2015 -- London / Hong Kong --* 擎威 Ribose 成為全球首個完成英國 Cyber Essentials Plus 認證的協作平台。
 Cyber Essentials 是一個由英國政府支持並由行業支持的計劃，旨在幫助企業防範網絡威脅。
 
-2014 年 6 月推出，Cyber Essentials 由 https://www.cesg.gov.uk[CESG] (http://www.gchq.gov.uk[GCHQ]
+2014 年 6 月推出，Cyber Essentials 由 https://web.archive.org/web/20130118023207/https://www.cesg.gov.uk/[CESG] (http://www.gchq.gov.uk[GCHQ]
 的資訊安全部門) 及
 https://www.gov.uk/government/organisations/department-for-business-innovation-skills[英國 Department of Business, Innovation and Skills] 與
 http://www.bsigroup.com[英國標準協會 BSI (British Standards Institution)]，
