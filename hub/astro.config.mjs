@@ -38,7 +38,6 @@ const legacySections = {
   '/people': '/company',
   '/software': '/technologies',
   '/projects': '/technologies',
-  '/tag/:tag': '/news',
 }
 const postRedirects = { ...legacyBlog, ...legacySections }
 for (const [dir, prefix, targetPrefix] of [
@@ -72,6 +71,11 @@ export default defineConfig({
   },
   redirects: {
     '/openpgp_keys': '/security',
+    '/security/feedback': '/security',
+    '/advisories': '/security/advisories',
+    '/advisories/ra-2021-05-30': '/security/advisories/ra-2021-05-30',
+    '/advisories/ra-2023-04-11': '/security/advisories/ra-2023-04-11',
+    '/advisories/ra-2025-11-20': '/security/advisories/ra-2025-11-20',
     '/careers': '/company',
     '/commitments': '/company',
     '/features': '/technologies',
