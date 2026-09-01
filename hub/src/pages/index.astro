@@ -5,15 +5,18 @@ import ClientWall from '../components/ClientWall.astro'
 import SuiteLogo from '../components/SuiteLogo.astro'
 import { platforms, suitesByDomain, domains } from '../lib/registry'
 import { wire } from '../lib/wire'
+import { spokeArticles } from '../lib/newsmlSpoke'
 import { newsPosts } from '../lib/posts'
 import { t } from '../lib/i18n'
 const byDomain = suitesByDomain()
 const wireLatest = wire().index().slice(0, 3)
-const fill = newsPosts().slice(0, 3 - wireLatest.length)
+const spokeLatest = (await spokeArticles()).slice(0, 3)
+const fill = newsPosts().slice(0, Math.max(0, 3 - wireLatest.length - spokeLatest.length))
 const latest = [
   ...wireLatest.map((a) => ({ href: `/news/${a.id.replace(/^urn:ribose:news:/, '').replace(/:/g, '-')}`, date: a.published?.slice(0, 10) ?? '', title: a.headline, origin: a.originSite.replace(/-/g, '.') })),
+  ...spokeLatest.map((s) => ({ href: s.href, date: s.date, title: s.title, origin: s.origin })),
   ...fill.map((p) => ({ href: `/news/${p.slug}`, date: p.date, title: p.title, origin: 'ribose.com' })),
-]
+].slice(0, 3)
 
 const work = [
   { client: 'IETF', title: 'The IETF BibXML service', what: 'Bibliographic infrastructure behind RFC and Internet-Draft authoring, operated in production.' },

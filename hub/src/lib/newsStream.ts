@@ -1,7 +1,9 @@
-// The site's merged, publishable news stream: network (wire) articles plus
-// corporate posts. Feeds and listings derive from this one source.
+// The site's merged, publishable news stream: network (wire) articles,
+// spoke-site imports, and corporate posts. Feeds and listings derive from
+// this one source.
 import { wire } from './wire'
 import { newsPosts } from './posts'
+import { spokeArticles } from './newsmlSpoke'
 
 export interface StreamItem {
   urn: string            // guid, e.g. urn:ribose:news:2023-04-25:press-cna
@@ -10,13 +12,13 @@ export interface StreamItem {
   title: string
   description: string
   by: string
-  origin: string         // label, e.g. ribose.com / metanorma.org
+  origin: string         // label, e.g. ribose.com / PubID
   canonical: string      // absolute canonical URL
 }
 
 export const SITE = 'https://www.ribose.com'
 
-export const newsStream = (): StreamItem[] => {
+export const newsStream = async (): Promise<StreamItem[]> => {
   const wireItems: StreamItem[] = wire().index().map((a) => ({
     urn: a.id,
     href: `/news/${a.id.replace(/^urn:ribose:news:/, '').replace(/:/g, '-')}`,
@@ -26,6 +28,16 @@ export const newsStream = (): StreamItem[] => {
     by: a.authors?.map((x) => x.name).join(', ') ?? 'Ribose',
     origin: a.originSite.replace(/-/g, '.'),
     canonical: a.canonical ?? SITE,
+  }))
+  const spokeItems: StreamItem[] = (await spokeArticles()).map((s) => ({
+    urn: s.urn,
+    href: s.href,
+    date: s.date,
+    title: s.title,
+    description: s.description,
+    by: s.by,
+    origin: s.origin,
+    canonical: s.canonical,
   }))
   const postItems: StreamItem[] = newsPosts().map((p) => ({
     urn: `urn:ribose:news:${p.slug}`,
@@ -37,7 +49,7 @@ export const newsStream = (): StreamItem[] => {
     origin: 'ribose.com',
     canonical: `${SITE}/news/${p.slug}`,
   }))
-  return [...wireItems, ...postItems].sort((a, b) => b.date.localeCompare(a.date))
+  return [...wireItems, ...spokeItems, ...postItems].sort((a, b) => b.date.localeCompare(a.date))
 }
 
 export const escapeXml = (s: string): string =>

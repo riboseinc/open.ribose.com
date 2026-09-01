@@ -2,10 +2,10 @@
 import { newsStream, SITE } from '../../lib/newsStream'
 import type { APIRoute } from 'astro'
 
-export const GET: APIRoute = () => {
+export const GET: APIRoute = async () => {
   const body = JSON.stringify({
     uri: SITE,
-    items: newsStream().map((i) => ({
+    items: (await newsStream()).map((i) => ({
       uri: i.canonical,
       type: 'text',
       headline: i.title,
