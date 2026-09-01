@@ -74,6 +74,8 @@ jobs:
             --exclude 'ec\.europa\.eu/social'
             --exclude 'strictquirks\.nl'
             --exclude 'adobe\.com'
+            --exclude 'businesswire\.com/news/home/20180822'
+            --exclude 'href=%24'
             --exclude 'primmel/private-models'
             --exclude 'primmel/smartcab'
             --exclude 'stevieawards\.com/iba/ribose-inc-hong-kong-new-product'
