@@ -52,6 +52,7 @@ jobs:
             --exclude 'stevieawards\.com/iba/ribose-inc-hong-kong'
             --exclude 'anab\.org'
             --exclude 'spc\.net\.cn'
+            --exclude 'gdei\.gov\.cn'
             --exclude 'primmel/private-models'
             --exclude 'primmel/smartcab'
             --exclude 'stevieawards\.com/iba/ribose-inc-hong-kong-new-product'
