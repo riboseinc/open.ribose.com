@@ -36,4 +36,4 @@ are used.
 
 Please do have a look at our https://www.ribose.com/privacy[new privacy
 policy] and if you have any questions, feel free to contact us using the
-https://www.ribose.com/public_feedback[feedback form]!
+/feedback[feedback form]!

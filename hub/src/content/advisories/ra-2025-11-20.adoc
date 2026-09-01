@@ -25,7 +25,7 @@ This advisory notice covers the following:
 
 Name:: Use of Insufficiently Random Values in Session Key Generation for PKESK
 Link:: https://cve.mitre.org/cgi-bin/cvename.cgi?name=CVE-2025-13470[CVE-2025-13470]
-Problem:: https://cwe.mitre.org/data/definitions/CWE-330[CWE-330^] Use of Insufficiently Random Values
+Problem:: https://cwe.mitre.org/data/definitions/330.html[CWE-330^] Use of Insufficiently Random Values
 Impact:: Confidentiality issue for PKESK-encrypted data
 Affected vendors:: Ribose
 Affected products:: https://www.rnpgp.org[RNP], version 0.18.0 ONLY
