@@ -30,4 +30,4 @@ Ronald Tse，擎威 Ribose 的創始人評論道：「Ribose 很自豪成為全�
 
 「Cyber Essentials Plus 提供了對我們的安全系統和控制措施的獨立第三方驗證，並展示了我們對信息安全的承諾——特別是在英國市場方面」Tse 解釋道。
 
-Geoff Jones，Cyberis 的董事解釋：「Cyberis 很高興能夠向 Ribose 頒發成功通過的證書，根據 http://www.crest-approved.org/industry-government/cyber-essentials/[CREST Cyber Essentials Plus 計劃]。這顯示了 Ribose 對信息安全的明確承諾，並證明了基本的技術安全控制措施已到位，以幫助防禦互聯網威脅。」
+Geoff Jones，Cyberis 的董事解釋：「Cyberis 很高興能夠向 Ribose 頒發成功通過的證書，根據 https://web.archive.org/web/20140413022846/http://www.crest-approved.org/industry-government/cyber-essentials/[CREST Cyber Essentials Plus 計劃]。這顯示了 Ribose 對信息安全的明確承諾，並證明了基本的技術安全控制措施已到位，以幫助防禦互聯網威脅。」

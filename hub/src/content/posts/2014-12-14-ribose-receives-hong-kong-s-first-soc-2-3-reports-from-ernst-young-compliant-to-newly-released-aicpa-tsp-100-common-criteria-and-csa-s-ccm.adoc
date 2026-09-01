@@ -14,7 +14,7 @@ excerpt: >-
 
 *Hong Kong, 15 December 2014 --* http://www.ribose.com[Ribose] received
 its first
-http://www.aicpa.org/InterestAreas/FRC/AssuranceAdvisoryServices/Pages/SORHome.aspx[Service
+https://web.archive.org/web/20110722144955/http://www.aicpa.org/InterestAreas/FRC/AssuranceAdvisoryServices/Pages/SORHome.aspx[Service
 Organization Controls (SOC) 2 and SOC 3 reports] -- as well as the
 http://www.webtrust.org/[SysTrust] seal -- from international auditing
 firm http://www.ey.com[Ernst & Young (EY)].
@@ -23,13 +23,13 @@ SOC 2 and 3 are widely recognized attestations, providing independent
 validation that companies' internal controls comply with applicable
 http://www.aicpa.org/[American Institute of Certified Public
 Accountants' (AICPA)]
-http://www.aicpa.org/InterestAreas/InformationTechnology/Resources/TrustServices/Pages/Trust%20Services%20Principles%E2%80%94An%20Overview.aspx[Trust
+https://web.archive.org/web/20101113235034/http://www.aicpa.org/InterestAreas/InformationTechnology/Resources/TrustServices/Pages/Trust%20Services%20Principles%E2%80%94An%20Overview.aspx[Trust
 Services Principles and Criteria (TSP 100)].
 
-http://www.aicpa.org/InterestAreas/FRC/AssuranceAdvisoryServices/Pages/AICPASOC2Report.aspx[SOC
+https://web.archive.org/web/20110726090845/http://www.aicpa.org/InterestAreas/FRC/AssuranceAdvisoryServices/Pages/AICPASOC2Report.aspx[SOC
 2] Type II is an internal control report regarding risks associated with
 organizations' services, including detailed testing of controls.
-http://www.aicpa.org/InterestAreas/FRC/AssuranceAdvisoryServices/Pages/AICPASOC3Report.aspx[SOC
+https://web.archive.org/web/20110726090155/http://www.aicpa.org/InterestAreas/FRC/AssuranceAdvisoryServices/Pages/AICPASOC3Report.aspx[SOC
 3] is intended for public consumption and includes fewer details than
 SOC 2.
 

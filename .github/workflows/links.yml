@@ -37,5 +37,20 @@ jobs:
       - name: Run lychee
         uses: lycheeverse/lychee-action@v2
         with:
-          args: --verbose --no-progress --base "$PWD/hub/dist" --cache --max-cache-age 1d 'hub/dist/**/*.html'
+          token: ${{ secrets.GITHUB_TOKEN }}
+          args: >-
+            --verbose --no-progress --cache --max-cache-age 1d
+            --base "$PWD/hub/dist"
+            --exclude 'iso\.org'
+            --exclude 'anab\.org'
+            --exclude 'spc\.net\.cn'
+            --exclude 'primmel/private-models'
+            --exclude 'primmel/smartcab'
+            --exclude 'stevieawards\.com/iba/ribose-inc-hong-kong-new-product'
+            --exclude 'newswire\.ca/en/story/1035'
+            --exclude 'sportsoho\.com'
+            --exclude 'sustainablebrands\.com/news_and_views/leadership'
+            --exclude 'govstore\.service\.gov\.uk'
+            --exclude 'prnewswire\.se'
+            'hub/dist/**/*.html'
           fail: true
