@@ -85,7 +85,10 @@ export const spokeArticles = async (): Promise<SpokeArticle[]> => {
       } catch {
         continue
       }
-      const bodyXhtml = full.contentMeta?.bodyXhtml ? stripHtmlWrapper(full.contentMeta.bodyXhtml) : ''
+      let bodyXhtml = full.contentMeta?.bodyXhtml ? stripHtmlWrapper(full.contentMeta.bodyXhtml) : ''
+      // Spoke bodies use spoke-relative links; point them at the spoke origin
+      bodyXhtml = bodyXhtml
+        .replace(/(href|src)="\/(?!\/)/g, `$1="${site.url}/`)
       if (!bodyXhtml) continue
       out.push({
         urn: item.itemMeta.guid,
@@ -95,7 +98,7 @@ export const spokeArticles = async (): Promise<SpokeArticle[]> => {
         description: full.contentMeta?.description ?? '',
         by: full.contentMeta?.by ?? site.name,
         origin: site.name,
-        canonical: `${site.url}/blog/${slug}`,
+        canonical: full.itemMeta.canonical ?? `${site.url}/blog/${date}-${slug}`,
         bodyXhtml,
       })
     }
