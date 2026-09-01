@@ -79,6 +79,7 @@ jobs:
             --exclude 'metanorma\.org/blog'
             --exclude 'file://.*dist/news/2021-07-20'
             --exclude 'chisou\.go\.jp'
+            --exclude 'ribose\.com/technologies/ribose-platform'
             --exclude 'primmel/private-models'
             --exclude 'primmel/smartcab'
             --exclude 'stevieawards\.com/iba/ribose-inc-hong-kong-new-product'
