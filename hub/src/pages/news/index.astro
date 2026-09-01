@@ -3,6 +3,7 @@ import BaseLayout from '../../layouts/Base.astro'
 import { wire } from '../../lib/wire'
 import { englishPosts } from '../../lib/posts'
 import { spokeArticles } from '../../lib/newsmlSpoke'
+import { identityFor } from '../../lib/productIdentity'
 
 const articles = wire().index().map((article) => ({
   href: `/news/${article.id.replace(/^urn:ribose:news:/, '').replace(/:/g, '-')}`,
@@ -32,7 +33,7 @@ const years = [...new Set(all.map((item) => item.date.slice(0, 4)))].sort((a, b)
 const chips = [
   { filter: 'kind:news', label: 'News', icon: 'r', count: all.filter((i) => i.kind === 'news').length },
   { filter: 'kind:archive', label: 'Platform archive', icon: 'archive', count: archiveCount },
-  { filter: 'kind:wire', label: 'Network', icon: 'signal', count: all.filter((i) => i.kind === 'wire').length },
+  { filter: 'kind:wire', label: 'Products', icon: 'signal', count: all.filter((i) => i.kind === 'wire').length },
   { filter: 'kind:', label: 'All', icon: 'grid', count: all.length },
 ]
 ---
@@ -95,7 +96,16 @@ const chips = [
           data-archived={item.kind === 'archive' ? 'true' : undefined}>
           <div class="flex items-baseline justify-between gap-2">
             <time class="text-xs text-slate-500 dark:text-slate-500">{item.date}</time>
-            {item.kind === 'wire' && <span class="rounded-full bg-brand-100 px-2 py-0.5 text-xs font-medium text-brand-800 dark:bg-brand-900 dark:text-brand-300">{item.origin}</span>}
+            {item.kind === 'wire' && (() => {
+    const id = identityFor(item.origin)
+    return (
+      <span class="inline-flex items-center gap-1.5 rounded-full border border-line bg-white px-2 py-0.5 text-xs font-medium text-slate-600 dark:border-slate-700 dark:bg-ink-2 dark:text-slate-300">
+        {id && <img src={id.logo} alt="" width="14" height="14" class={id.logoDark ? 'h-3.5 w-3.5 dark:hidden' : 'h-3.5 w-3.5'} />}
+        {id?.logoDark && <img src={id.logoDark} alt="" width="14" height="14" class="hidden h-3.5 w-3.5 dark:block" />}
+        {item.origin}
+      </span>
+    )
+  })()}
             {item.kind === 'archive' && <span class="rounded-full border border-line px-2 py-0.5 text-xs text-slate-400 dark:border-slate-700 dark:text-slate-500">archive</span>}
           </div>
           <h3 class="mt-2.5 font-semibold leading-snug group-hover:text-brand-700 dark:group-hover:text-brand-300">{item.title}</h3>

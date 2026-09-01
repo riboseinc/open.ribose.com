@@ -455,3 +455,13 @@ suites:
     softwares:
       - { name: bacman, note: "ISO 22301 BCMS UI tool" }
       - { name: bc-model-sample-data, note: "sample data" }
+
+  # The deprecated Ribose collaboration platform (2012-2023).
+  # Kept in the registry for historical accuracy and news filtering.
+  - id: ribose-platform
+    name: Ribose Collaboration Platform
+    domain: collaboration
+    org: riboseinc
+    tagline: Discontinued cloud collaboration platform (2012-2023)
+    curated: true
+    softwares: []
