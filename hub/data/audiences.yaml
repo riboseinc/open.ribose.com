@@ -1,0 +1,26 @@
+# Hub-owned: audience landing definitions (site content, not portfolio data).
+audiences:
+  - id: standards-organizations
+    name: Standards organizations
+    pain: Authoring, publication, and governance workflows still built on documents.
+    answer: The Metanorma and Primmel Digital CAB platforms digitalize the full standards lifecycle.
+  - id: conformity-assessment-bodies
+    name: Conformity & accreditation bodies
+    pain: Certification schemes trapped in spreadsheets, email, and PDFs.
+    answer: Primmel Digital CAB runs requirements, test programs, and certificates digitally.
+  - id: governments-regulators
+    name: Governments & regulators
+    pain: Compliance and publication tooling that must be verifiable and open.
+    answer: Open-source platforms, signed documents, and sanction screening built on open standards.
+  - id: developers
+    name: Developers
+    pain: You want the source, not a sales call.
+    answer: Thirty-plus suites of open-source tooling, all on GitHub, with docs and feeds.
+  - id: enterprises
+    name: Enterprises
+    pain: Document pipelines that do not interoperate.
+    answer: Standards-grade publication and math, font, and language infrastructure.
+  - id: researchers
+    name: Researchers
+    pain: Notation and terminology tools that do not talk to each other.
+    answer: Math and chemistry notation, transliteration, and concept tooling.

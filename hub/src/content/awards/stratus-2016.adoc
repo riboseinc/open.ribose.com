@@ -1,0 +1,23 @@
+---
+title: Best Cloud Collaboration Startup
+name: stratus-2016
+labels:
+- global
+- business
+- security
+- reliability
+- innovation
+pictures:
+- pages/awards/stratus-2016.png
+detail_link: http://www.bintelligence.com/blog/2016/7/20/26-companies-that-prove-the-cloud-is-dominating-globally
+---
+Ribose was named
+http://www.bintelligence.com/blog/2016/7/20/26-companies-that-prove-the-cloud-is-dominating-globally[Best Cloud Collaboration Startup] in the 2016 Stratus Awards
+hosted by the Business Intelligence Group.
+
+The Stratus Awards recognize companies and individuals innovating in the
+cloud and providing offerings that are truly differentiated in the market.
+
+Ribose was named the http://www.bintelligence.com/blog/2016/7/20/26-companies-that-prove-the-cloud-is-dominating-globally[Best Cloud Collaboration Startup]
+among numerous nominations, alongside other winners including NetApp, Fonality
+and Toshiba.

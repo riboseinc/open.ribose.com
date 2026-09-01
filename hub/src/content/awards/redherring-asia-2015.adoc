@@ -1,0 +1,31 @@
+---
+title: Red Herring Asia Top 100 Asia
+name: redherring-asia-2015
+labels:
+- global
+pictures:
+- pages/awards/redherring-asia-2015.png
+detail_link: /blog/2015/ribose-wins-red-herring-asia-top-100-asia-award
+---
+Cloud collaboration platform provider Ribose has been named a winner of the
+http://www.redherring.com/events/red-herring-asia/2015-top100-winners/[Red Herring 2015 Top 100 Asia] Award.
+
+Ribose has been named a winner of the Red Herring 2015 Top 100 Asia Award and
+is the first secure cloud collaboration company to be included in global media
+conglomerate Red Herring's annual lineup of rising stars in the technology
+world.
+
+http://www.redherring.com/events/red-herring-asia/[Red Herring's Top 100 Asia] is a prestigious recognition
+for the region's most promising private technology ventures. The list has
+become a mark of distinction for up-and-coming companies and entrepreneurs,
+and Ribose joins prominent previous Top 100 winners including Google,
+Facebook, Kakao, Twitter, Rakuten, Salesforce.com, Xiaomi and YouTube.
+
+Choosing from a pool of hundreds of companies across Asia each year, the Red
+Herring editorial team selects the most innovative candidates for further
+assessment. Nominees are evaluated on both quantitative and qualitative
+criteria including financial performance, technological innovation, quality of
+management, execution of strategy and integration into their respective
+industries. Ribose was named a winner after presenting its secure cloud
+collaboration platform to judges at the Red Herring Asia Forum held in Manila
+on 14-16 September 2015.

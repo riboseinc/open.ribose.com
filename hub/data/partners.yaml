@@ -1,0 +1,8 @@
+# Partners (companies we build with) and supporters (organizations that
+# fund or adopt our work). Shown on /customers only, never the index.
+partners:
+  - { id: g10code, logo: g10code.svg, logo_dark: g10code-white.svg, name: G10Code }
+  - { id: intevation, logo: intevation.svg, logo_dark: intevation-white.svg, name: Intevation }
+supporters:
+  - { id: nlnet, logo: nlnet.svg, logo_dark: nlnet-white.svg, name: NLnet Foundation }
+  - { id: ngi, logo: ngi-zero-pet.svg, name: NGI }

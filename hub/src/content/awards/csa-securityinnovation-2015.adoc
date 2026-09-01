@@ -1,0 +1,24 @@
+---
+title: Security Innovation of the Year by Cloud Security Alliance APAC
+name: csa-securityinnovation-2015
+labels:
+- global
+- security
+- reliability
+- innovation
+pictures:
+- pages/awards/csa-securityinnovation-2015.png
+detail_link: /blog/2016/ribose-wins-security-innovation-of-the-year-by-cloud-security-alliance-apac
+---
+
+Ribose has been named Security Innovation of the Year by the Cloud Security
+Alliance (CSA), the premier organization for the cloud security industry.
+
+Ribose received the award at the https://cloudsecurityalliance.org/csa_events/csa-congress-apac-2015/[CSA APAC Inaugural Awards Ceremony]
+on 3 December 2015 in Guangzhou, China after
+careful appraisal of professionalism, excellence, innovation and measurable
+success by the judging committee. The prestigious award recognizes the very
+best in the technology industry, rewarding industry-leading organizations for
+innovation and performance in the cloud sector. Ribose was named Security
+Innovation of the Year alongside Trend Micro and DBApp Security, recognizing
+its genuinely innovative approach to cloud security.

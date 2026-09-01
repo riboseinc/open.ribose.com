@@ -1,0 +1,64 @@
+---
+import BaseLayout from '../layouts/Base.astro'
+---
+<BaseLayout title="Search" description="Search ribose.com — platforms, technologies, news, and company pages." path="/search">
+  <section class="mx-auto max-w-2xl px-4 py-16 sm:px-6 sm:py-24">
+    <p class="eyebrow">Search</p>
+    <h1 class="h-display mt-2 text-4xl font-bold">Find anything on ribose.com</h1>
+    <p class="mt-3 text-slate-600 dark:text-slate-400">Platforms, technologies, news, security advisories, and company pages.</p>
+
+    <div class="mt-8 overflow-hidden rounded-2xl border border-line bg-white shadow-sm dark:border-slate-800 dark:bg-ink-2">
+      <div class="flex items-center gap-3 border-b border-line px-4 dark:border-slate-700">
+        <svg class="h-5 w-5 shrink-0 text-slate-400" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="m21 21-4.3-4.3"/></svg>
+        <input id="page-search-input" class="sp-input h-14" type="text" placeholder="Search ribose.com…" autocomplete="off" spellcheck="false"
+          role="combobox" aria-expanded="true" aria-controls="page-search-results" aria-autocomplete="list" />
+      </div>
+      <div id="page-search-results" role="listbox" aria-label="Search results" class="max-h-[60vh] overflow-y-auto p-2"></div>
+    </div>
+
+    <p class="mt-6 text-xs text-slate-500 dark:text-slate-500">Tip: press <kbd class="kbd">⌘K</kbd> or <kbd class="kbd">/</kbd> anywhere on the site to search.</p>
+  </section>
+
+  <script>
+    import { loadPagefind, search } from '../lib/searchCore'
+
+    const input = document.getElementById('page-search-input') as HTMLInputElement
+    const list = document.getElementById('page-search-results') as HTMLElement
+    let timer: ReturnType<typeof setTimeout> | undefined
+
+    const render = (hits: any[], note?: string) => {
+      list.replaceChildren()
+      if (note) {
+        const p = document.createElement('p')
+        p.className = 'px-3 py-8 text-center text-sm text-slate-500'
+        p.textContent = note
+        list.append(p)
+        return
+      }
+      hits.forEach((hit) => {
+        const a = document.createElement('a')
+        a.href = hit.url
+        a.className = 'sp-row block no-underline'
+        const t = document.createElement('span')
+        t.className = 'truncate font-medium'
+        t.textContent = hit.title
+        const m = document.createElement('span')
+        m.className = 'sp-meta'
+        m.textContent = hit.section
+        a.append(t, m)
+        list.append(a)
+      })
+    }
+
+    const run = async () => {
+      const q = input.value.trim()
+      if (!q) { render([], 'Type to search.') ; return }
+      const hits = await search(q, 12)
+      render(hits, hits.length ? undefined : 'No results for “' + q + '”.')
+    }
+
+    input.addEventListener('input', () => { clearTimeout(timer); timer = setTimeout(run, 140) })
+    render([], 'Type to search.')
+    loadPagefind().then((pf) => { if (!pf) render([], 'Search index unavailable. Build the site once (npm run build) and reload.') })
+  </script>
+</BaseLayout>

@@ -1,0 +1,17 @@
+---
+name: davidc
+full_name: Prof. David W.L. Cheung
+picture: pages/about/advisor_davidc.jpg
+detail_link: http://www.cs.hku.hk/people/profile.jsp?teacher=dcheung
+---
+:page-liquid:
+
+Prof. Cheung is the Associate Dean of Engineering, Professor of the Department
+of Computer Science and also Director of CECID of the University of Hong Kong.
+Specializing in databases, data mining and e-commerce, he is widely published
+at leading conferences including SIGMOD, VLDB, ICDE and KDD. He serves on the
+Board of the Hong Kong Deposit Protection Scheme, the RGC Engineering Panel, as
+Chairman of the Certification Board of HKITPC, with previous appointments to
+the Hong Kong Central Policy Unit and the PECC.
+
+{{page.detail_link}}[More at the University of Hong Kong]

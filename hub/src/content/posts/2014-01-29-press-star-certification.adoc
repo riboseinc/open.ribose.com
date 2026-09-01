@@ -1,0 +1,37 @@
+---
+title: "Ribose first to achieve CSA STAR Certification compliant with latest cloud security standard"
+date: 2014-01-29 12:00:00
+categories: [press]
+---
+[.underline]#Press contact#
+
+press@ribose.com
+
+*http://www.ribose.com[Ribose] first to achieve CSA STAR Certification compliant with latest cloud security standard*
+
+*One of two orgnaizations worldwide with a Gold maturity rating*
+
+*Hong Kong, XX January, 2014 –* http://www.ribose.com[Ribose], a start-up redefining the way people collaborate, is first to achieve https://cloudsecurityalliance.org/star/[STAR Certification] from https://cloudsecurityalliance.org[Cloud Security Alliance (CSA)] compliant with the latest cloud security standard: https://cloudsecurityalliance.org/research/ccm/[Cloud Controls Matrix (CCM) 3.0].
+
+Ribose’s achievements
+
+* Ribose is the first and currently the only organization to achieve STAR Certification through full compliance with CCM 3.0.
+* Ribose is one of only two organizations worldwide to have been awarded Gold Certification, the highest possible level in the program, based on the maturity of its security measures and controls as assessed by the http://www.bsigroup.com/[British Standards Institute (BSI)].
+* Ribose is also the first and only Software-as-a-Service (SaaS) cloud service provider (CSP) to have achieved STAR Certification.
+
+What is STAR?
+
+* STAR Certification, the first internationally recognized cloud security certification program, was developed jointly by the CSA and BSI. It places stringent and extensive requirements and controls on information security management systems with comprehensive coverage on cloud security.
+* Certification is awarded only after an independent accredited auditor has conducted a thorough audit and verified that the organization’s applications, systems, processes and services fully comply with STAR requirements, including the security standards ISO/IEC 27001 and CCM.
+
+Ribose is committed to protecting user information to the greatest extent. This certification means that Ribose users can be confident that their privacy and data will always be respected and protected in the cloud, and that they can collaborate freely on Ribose to innovate and succeed with their teams.
+
+++[++BSI contact and position++]++ of BSI, says: “++[++STAR is extensive and demanding. Because independent audits are required to achieve it, it carries weight and achieving it is significant. As an independent assessor of STAR Certification, BSI is delighted to tell users that they can collaborate freely through Ribose, knowing that they are operating on one of the most secure cloud platforms in the world.++]++”
+
+++[++CSA contact and position of CSA says: “++[++STAR certification is a comprehensive, industry-accepted standard covering numerous security control areas and capabilities. We commend Ribose’s aggressive commitment to cloud security. By reaching STAR Gold, it has demonstrated that its cloud security system operates at the highest standards..++]++”
+
+*About Ribose*
+
+Founded in 2008, Ribose redefines collaboration results by providing individuals and organizations with an effective and efficient collaboration platform. Whether you are planning social events or running business projects, you will find that Ribose makes collaborating easy and fun. Currently in public beta, Ribose is free to use: http://www.ribose.com.
+
+++##++

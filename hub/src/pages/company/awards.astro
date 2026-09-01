@@ -1,0 +1,38 @@
+---
+import BaseLayout from '../../layouts/Base.astro'
+import { awards } from '../../lib/collections'
+
+const Asciidoctor = (await import('asciidoctor')).default
+const asciidoctor = Asciidoctor()
+
+const yearOf = (doc: { frontmatter: Record<string, any>; body: string; id: string }): number => {
+  const m = String(doc.frontmatter.name ?? '').match(/(19|20)\d{2}/) ?? doc.body.match(/(19|20)\d{2}/)
+  return m ? Number(m[0]) : 0
+}
+const docs = awards()
+  .map((doc) => ({
+    year: yearOf(doc),
+    picture: String(doc.frontmatter.pictures?.[0] ?? ""),
+    title: String(doc.frontmatter.title ?? doc.id),
+    detailLink: doc.frontmatter.detail_link as string | undefined,
+    html: asciidoctor.convert(doc.body.trim(), { safe: 'safe' }) as string,
+  }))
+  .sort((a, b) => b.year - a.year)
+---
+<BaseLayout title="Awards" description="Recognition received by Ribose." path="/company/awards">
+  <section class="mx-auto max-w-4xl px-4 py-16 sm:px-6">
+    <nav class="text-sm text-slate-500 dark:text-slate-400" aria-label="Breadcrumb"><a href="/company">Company</a> / Awards</nav>
+    <p class="eyebrow mt-6">Company</p>
+    <h1 class="h-display mt-2 text-4xl font-bold sm:text-5xl">Awards</h1>
+    <div class="mt-8 space-y-4">
+      {docs.map((doc) => (
+        <article class="rounded-2xl border border-slate-200 bg-white p-6 dark:border-slate-800 dark:bg-ink-2">
+          <img src={`/images/${doc.picture}`} alt="" width="72" height="72" class="float-left mr-4 mb-2 h-18 w-18 rounded-lg object-contain" loading="lazy" />
+          <h2 class="text-lg font-semibold"><span class="mr-2 font-mono text-sm text-slate-500 dark:text-slate-400">{doc.year}</span>{doc.title}</h2>
+          <div class="prose-news mt-2 text-sm" set:html={doc.html} />
+          {doc.detailLink && <p class="mt-2 text-sm"><a href={doc.detailLink} rel="noopener">Details ↗</a></p>}
+        </article>
+      ))}
+    </div>
+  </section>
+</BaseLayout>

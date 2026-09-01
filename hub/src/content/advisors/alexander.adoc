@@ -1,0 +1,14 @@
+---
+name: alexander
+full_name: Alexander Reid Hamilton
+picture: pages/about/advisor_alexander.jpg
+---
+:page-liquid:
+
+Mr. Hamilton serves on the Boards of a number of listed companies including
+CITIC Pacific, COSCO International Holdings, Esprit Holdings, Shangri-La Asia
+and JPMorgan China Region Fund. He also serves on the Boards of Octopus Cards
+Ltd. and DBS Bank (HK) Ltd. A member of the Institute of Chartered Accountants
+of Scotland, Hong Kong Institute of Certified Public Accountants and Institute
+of Directors, he was a partner in PricewaterhouseCoopers for 16 years and has
+more than 30 years of audit and accounting experience.

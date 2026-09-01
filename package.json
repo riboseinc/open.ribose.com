@@ -1,0 +1,12 @@
+{
+  "name": "ribose-com",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "npm --prefix hub run dev",
+    "build": "npm --prefix hub run build",
+    "preview": "npm --prefix hub run preview",
+    "sync": "npm --prefix hub run sync",
+    "test": "npm --prefix hub run build"
+  }
+}

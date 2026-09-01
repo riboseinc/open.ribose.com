@@ -1,0 +1,23 @@
+---
+title: Best Secure Collaboration Platform in 2016 Technology Innovator Awards
+name: corpvis-collaboration-2016
+labels:
+- global
+- business
+- innovation
+pictures:
+- pages/awards/corpvis-tech-2016.png
+detail_link: http://www.corp-vis.com/top-tech-awards
+---
+Ribose was named
+http://www.corp-vis.com/top-tech-awards[Best Secure Collaboration Platform in the 2016 Technology Innovator Awards]
+hosted by the Corporate Vision Magazine.
+
+Ribose was named Best Secure Collaboration Platform of the year in the 2016
+Technology Innovator Awards for allowing users in security-aware industries to
+work together effectively, while protecting their highly-valuable collaborative
+data through pioneering cloud security and privacy, all delivered through an
+intuitive user experience.
+
+Other winners include leading technology providers such as 3M, BT, CA
+Technologies, KPMG, Tripwire, and Xerox.

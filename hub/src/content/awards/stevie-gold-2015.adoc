@@ -1,0 +1,51 @@
+---
+title: Best New Collaboration Service and Most Innovative Company in Asia, Australia and New Zealand by the 12th annual International Business Awards
+name: stevie-gold-2015
+labels:
+- global
+- business
+- security
+- reliability
+- innovation
+pictures:
+- pages/awards/stevie-gold-2015-h.png
+detail_link: /blog/2015/ribose-named-best-new-collaboration-service-and-most-innovative-company-in-asia-australia-and-new-zealand-by-2015-international-business-awards
+---
+Ribose was named winner of two Gold Stevie® Awards in the
+http://stevieawards.com/iba/ribose-inc-hong-kong-new-product["Best New Product or Service of the Year -- Software Collaboration/Social Networking Solution"]
+and
+http://stevieawards.com/iba/ribose-inc-hong-kong["Most Innovative Company of the Year in Asia, Australia and New Zealand"]
+categories in The 12th Annual International Business Awards.
+
+Ribose was named winner of two Gold Stevie® Awards in the
+"http://stevieawards.com/iba/ribose-inc-hong-kong-new-product[Best New Product or Service of the Year -- Software Collaboration/Social Networking Solution]" and
+"http://stevieawards.com/iba/ribose-inc-hong-kong[Most Innovative Company of the Year in Asia, Australia and New Zealand]"
+categories in http://stevieawards.com/iba/[The 12th Annual International Business Awards].
+
+http://stevieawards.com/iba/[The International Business Awards] are the world's premier business awards
+program. All individuals and organizations worldwide -- public and private,
+for-profit and non-profit, large and small -- are eligible to submit
+nominations. The 2015 IBAs received entries from more than 60 nations and
+territories. More than 3,700 nominations from organizations of all sizes and
+in virtually every industry were submitted this year for consideration in a
+wide range of categories.
+
+IBA Judges commended the Ribose platform for democratizing secure
+collaboration, by providing a "technically robust offering" with "collaboration
+tools in a secured setting", allowing unprecedented flexibility to use the
+"open platform" in both "professional working and fun" settings through a "very
+easy to use and attractive interface design" -- as winning factors in naming
+Ribose's platform the
+http://stevieawards.com/iba/ribose-inc-hong-kong-new-product[Best New Product or Service of the Year -- Software Collaboration/Social Networking Solution]
+category. Ribose's security focus was best summarized by a judge who noted:
+"Most existing cloud collaboration software simply does not offer the necessary
+security levels to protect mission-critical, commercially sensitive projects."
+
+In naming Ribose the
+http://stevieawards.com/iba/ribose-inc-hong-kong[Most Innovative Company of the Year in Asia, Australia and New Zealand],
+IBA Judges lauded the company's "great commitment and great team, deploying the
+technology to the benefit of both the company and the community," "professional
+management" and "excellent performance", as well as its "impressive
+accomplishment in achieving multiple certifications", providing users with "all
+the benefits of an enterprise-class collaboration platform, with none of the
+associated infrastructure and costs."

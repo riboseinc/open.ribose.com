@@ -1,0 +1,112 @@
+---
+import BaseLayout from '../../layouts/Base.astro'
+import ArticleShell from '../../components/ArticleShell.astro'
+import { wire, type WireArticle } from '../../lib/wire'
+import { posts, englishPosts, zhVariantOf, type Post } from '../../lib/posts'
+import { newsArticleJsonLd, breadcrumbJsonLd } from '../../lib/seo'
+import { t } from '../../lib/i18n'
+
+const Asciidoctor = (await import('asciidoctor')).default
+const asciidoctor = Asciidoctor()
+
+type Entry =
+  | { kind: 'wire'; path: string; article: WireArticle }
+  | { kind: 'post'; path: string; post: Post }
+
+export function getStaticPaths() {
+  const wireEntries: Entry[] = wire().index().map((article) => ({
+    kind: 'wire' as const,
+    path: article.id.replace(/^urn:ribose:news:/, '').replace(/:/g, '-'),
+    article,
+  }))
+  const postEntries: Entry[] = posts.map((post) => ({
+    kind: 'post' as const,
+    path: post.lang === 'zh-hant' ? `zh-hant/${post.slug}` : post.slug,
+    post,
+  }))
+  // Prev/next follows the same timeline as /news (newest first), and never
+  // crosses streams: news neighbors for news, archive neighbors for archive.
+  const base = (list: { path: string; date: string; title: string }[]) =>
+    list.sort((a, b) => b.date.localeCompare(a.date))
+  const newsTimeline = base([
+    ...wireEntries.map((e) => ({ path: e.path, date: e.article.published ?? '', title: e.article.headline })),
+    ...englishPosts().filter((p) => !p.archived).map((post) => ({ path: post.slug, date: post.date, title: post.title })),
+  ])
+  const archiveTimeline = base(
+    englishPosts().filter((p) => p.archived).map((post) => ({ path: post.slug, date: post.date, title: post.title }))
+  )
+  const neighbor = (list: { path: string; date: string; title: string }[], path: string, offset: number) => {
+    const i = list.findIndex((item) => item.path === path)
+    const n = list[i + offset]
+    return n ? { href: `/news/${n.path}`, title: n.title } : undefined
+  }
+  return [...wireEntries, ...postEntries].map((entry) => {
+    const isZh = entry.kind === 'post' && entry.post.lang === 'zh-hant'
+    const timeline = entry.kind === 'post' && entry.post.archived ? archiveTimeline : newsTimeline
+    return {
+      params: { slug: entry.path },
+      props: {
+        entry,
+        prevNext: isZh
+          ? {}
+          : { prev: neighbor(timeline, entry.path, -1), next: neighbor(timeline, entry.path, 1) },
+      },
+    }
+  })
+}
+
+const { entry, prevNext } = Astro.props as { entry: Entry; prevNext: { prev?: { href: string; title: string }; next?: { href: string; title: string } } }
+const canonicalPath = `/news/${entry.path}`
+
+let title: string; let description: string; let bodyHtml: string; let subheadline: string | undefined
+let published: string | null = null; let canonicalHref: string | undefined
+let originLabel: string | undefined; let originUrl: string | undefined
+let variant: Post | undefined
+
+if (entry.kind === 'wire') {
+  const full = wire().article(entry.article)
+  title = full.headline
+  subheadline = full.subheadline ?? undefined
+  description = full.subheadline ?? full.headline
+  bodyHtml = asciidoctor.convert(full.bodyAdoc, { safe: 'safe' }) as string
+  published = full.published
+  canonicalHref = entry.article.canonical
+  originLabel = entry.article.originSite.replace(/-/g, '.')
+  originUrl = entry.article.canonical
+} else {
+  title = entry.post.title
+  description = entry.post.excerpt ?? entry.post.title
+  bodyHtml = asciidoctor.convert(entry.post.bodyAdoc, { safe: 'safe', doctype: 'book' }) as string
+  published = entry.post.date
+  variant = entry.post.lang === 'en' ? zhVariantOf(entry.post) : undefined
+}
+
+const jsonLd = [
+  breadcrumbJsonLd([{ name: 'News', path: '/news' }, { name: title, path: canonicalPath }]),
+  newsArticleJsonLd({ headline: title, canonical: canonicalHref ?? `https://www.ribose.com${canonicalPath}`, published, language: entry.kind === 'post' ? entry.post.lang : 'en' })]
+const date = published ? new Date(published) : null
+---
+<BaseLayout title={title} description={description} path={canonicalPath} type="article" publishedTime={published ?? undefined} jsonLd={jsonLd} canonicalHref={canonicalHref}>
+  <ArticleShell
+    crumbs={[{ href: '/news', label: 'News' }]}
+    title={title}
+    sub={entry.kind === 'wire' ? subheadline : undefined}
+    date={published}
+    lang={entry.kind === 'post' ? entry.post.lang : undefined}
+    bodyHtml={bodyHtml}
+    prevNext={prevNext}
+    notice={entry.kind === 'post' && entry.post.archived
+      ? 'From the Ribose collaboration platform archive (2012–2023) — announcements from the discontinued collaboration platform product.'
+      : undefined}
+    share={{ url: new URL(canonicalPath, Astro.site).href, title }}
+  >
+    {entry.kind === 'wire' && originUrl && (
+      <footer class="mt-10 max-w-3xl rounded-2xl border border-brand-200 bg-brand-50 p-5 text-sm dark:border-brand-900 dark:bg-brand-900/30">
+        <p>{t('news.origin')} <a href={originUrl} class="font-semibold">{originLabel}</a></p>
+      </footer>
+    )}
+    {variant && (
+      <p class="mt-8 max-w-3xl text-sm"><a href={`/news/zh-hant/${variant.slug}`} lang="zh-hant">繁體中文版</a></p>
+    )}
+  </ArticleShell>
+</BaseLayout>

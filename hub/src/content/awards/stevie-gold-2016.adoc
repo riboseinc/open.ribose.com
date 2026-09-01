@@ -1,0 +1,58 @@
+---
+title: Best New Collaboration Service, Best New Social Business Service, Best Social Mobile App categories and Best Security Solution by the 13th annual International Business Awards
+name: stevie-gold-2016
+labels:
+- global
+- business
+- security
+- reliability
+- innovation
+pictures:
+- pages/awards/stevie-gold-2016-h.png
+- pages/awards/stevie-bronze-2016-h.png
+detail_link: /blog/2016/ribose-named-best-new-collaboration-service-best-new-social-business-solution-and-best-social-coll
+---
+Ribose was named winner of three Gold Stevie® Awards in the
+"Best New Product or Service of the Year -- Software Collaboration/Social Networking Solution",
+"Best New Product or Service of the Year - Software - Social Business Solution",
+"Best Social Mobile App" categories, and a Bronze Stevie® Award for
+"Best New Product or Service of the Year - Software - Security Solution"
+at http://stevieawards.com/iba/[The 13th Annual International Business Awards].
+
+Ribose has won three Gold Stevie® Awards in the "Best New Product or Service of
+the Year -- Software Collaboration/Social Networking Solution", "Best New
+Product or Service of the Year - Software - Social Business Solution" and "Best
+Social Mobile App" categories, as well as a Bronze Stevie® Award for "Best New
+Product or Service of the Year - Software - Security Solution" at http://stevieawards.com/iba/[The 13th Annual International Business Awards].
+
+http://stevieawards.com/iba/[The International Business Awards], or "Stevies", are the world's premier
+business awards program recognizing the most respected individuals and
+commercial organizations around the world. The 2016 IBAs attracted more than
+3,800 nominations from over 60 nations and territories -- representing a wide
+range of public and private, profit and non-profit, small and large
+organizations from virtually every industry.
+
+Ribose skipped participation in the traditional Company / Organization
+categories as its Founder/CEO
+http://blog.stevieawards.com/blog/the-2016-international-business-awards-announces-judging-chairs[Ronald Tse chaired the Company / Organization judging committee at the 13th IBA],
+to prevent any conflict of interest.
+
+In awarding Ribose the Gold Stevie for Best Social Collaboration App, judges
+commended Ribose for "being social but at the same time highly protected in a
+cloud based platform" and for "practical and strong use of technology to enable
+greater globalization and digitization."
+
+Judges who selected Ribose for the Gold Stevie in the Best Collaboration /
+Social Networking Solution category called it "a great example of customer
+engagement and involvement in business operations" and "definitely a company to
+watch out for," praising Ribose for offering a "clever new angle on secured
+collaboration." Scoring the submission for Best Social Business Solution, the
+panel highlighted Ribose's "world class cloud platform" and "exceptional
+security features", backed by "numerous international awards and
+certifications."
+
+IBA judges also presented Ribose with a Bronze Stevie Award for Best New
+Product or Service of the Year - Software - Security Solution, commenting,
+"Ribose empowers customers to devote their full energy to developing
+their business, while leaving security in their capable hands. It is a
+true enabler to many industries."

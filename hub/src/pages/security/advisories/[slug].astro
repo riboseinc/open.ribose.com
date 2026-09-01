@@ -1,0 +1,25 @@
+---
+import BaseLayout from '../../../layouts/Base.astro'
+import ArticleShell from '../../../components/ArticleShell.astro'
+import { advisories, type Advisory } from '../../../lib/advisories'
+import { breadcrumbJsonLd } from '../../../lib/seo'
+
+const Asciidoctor = (await import('asciidoctor')).default
+const asciidoctor = Asciidoctor()
+
+export function getStaticPaths() {
+  return advisories().map((advisory) => ({ params: { slug: advisory.slug }, props: { advisory } }))
+}
+
+const { advisory } = Astro.props as { advisory: Advisory }
+const html = asciidoctor.convert(advisory.bodyAdoc, { safe: 'safe', doctype: 'book' }) as string
+---
+<BaseLayout title={advisory.title} description={advisory.excerpt ?? advisory.title} path={`/security/advisories/${advisory.slug}`} type="article" publishedTime={advisory.date} jsonLd={[breadcrumbJsonLd([{ name: 'Security', path: '/security' }, { name: 'Advisories', path: '/security/advisories' }, { name: advisory.title, path: `/security/advisories/${advisory.slug}` }])]}>
+  <ArticleShell
+    crumbs={[{ href: '/security', label: 'Security' }, { href: '/security/advisories', label: 'Advisories' }]}
+    title={advisory.title.replace(/^[^:]+:\s*/, '')}
+    meta={advisory.id + (advisory.cveId ? ` · ${advisory.cveId}` : '')}
+    date={advisory.date}
+    bodyHtml={html}
+  />
+</BaseLayout>

@@ -1,0 +1,16 @@
+---
+title: "New version released (2021-07-07)"
+tags: []
+permalink: blog/2021/new-version-released-20210707
+archived: true
+---
+= Ribose policy updates
+KW Kwan
+:revdate: 2021-07-07T00:00:00Z
+
+== Version notes
+
+* Updated https://www.ribose.com/privacy[Privacy Notice]
+* Updated https://www.ribose.com/tos[Terms of Use]
+* Updated https://www.ribose.com/cookies[Use of Cookies]
+* Minor bug fixes

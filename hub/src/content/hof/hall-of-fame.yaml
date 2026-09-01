@@ -1,0 +1,10 @@
+layout: default
+title: Security Hall of Fame
+permalink: security/hall_of_fame
+years_hofs:
+- research_heading: 2023
+  hofs:
+    - Jens Mueller
+- research_heading: Previous Year
+  hofs:
+    - Shreyash Khare

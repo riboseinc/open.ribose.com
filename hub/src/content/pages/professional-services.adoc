@@ -1,0 +1,241 @@
+---
+layout: page_section
+title: Professional Services Agreement
+revision_date: 2018-05-08
+revision_date_template: "Last revised on: {{ revision_date | date: '%b %d, %Y' }}"
+permalink: legal/professional-services
+---
+:page-liquid:
+
+== Introduction
+
+. The Ribose Group of companies (collectively "`Ribose`", "`we`", "`us`"), is committed
+to protecting personal information. This Privacy Notice applies to the online
+collaboration platform offered by Ribose ("`Services`").
+. The main operating company, Ribose Asia Limited, is based in Hong Kong and
+complies with the Hong Kong Personal Data (Privacy) Ordinance. This policy has
+been drafted to demonstrate compliance not only with Hong Kong law but also
+with the privacy laws of the other jurisdictions in which Ribose operates.
+. This document describes the terms on which Ribose does business on
+professional services. They do not affect your statutory rights, and are
+designed to set out clearly the Company's responsibilities and your rights.
+
+:sectnums:
+
+== Definitions
+
+. In these terms and conditions (hereinafter collectively referred to as "`Conditions`"):
+
+.. "`Affiliate`" shall mean from time to time in relation to the
+Company, another entity controlling, controlled by, or under common
+control with, the Company, where "`control`" means, directly or
+indirectly, 50% or more of the legal, beneficial or equitable ownership
+of the capital stock (or other ownership rights) of such entity
+ordinarily having voting rights or the equivalent right under contract
+to control management decisions with regard to relevant subjects.
+
+.. "`Customer`" means you, the corporate entity requesting Services
+from the Company.
+
+.. "`Contract`" means the contract made between the Company and the
+Customer for performance of the Services as specified in the Scope of
+Work.
+
+.. "`Fees`" mean the fees set out in the Scope of Work.
+
+.. "`Man Day`" means a period of 7.5 hours.
+
+.. "`Working Day`" means any day other than a Saturday or Sunday,
+excluding public holidays in Hong Kong.
+
+.. "`Parties`" means the Company and the Customer.
+
+.. "`Restricted Information`" means any information which is disclosed
+by either Party to the other Party pursuant to or in connection with
+any Contract (whether orally or in writing, and whether or not such
+information is expressly stated to be confidential or marked as such).
+
+.. "`Services`" means any services specified in the Scope of Work which
+the Company provides to the Customer.
+
+.. "`Scope of Work`" means any scope of work (whether oral and written)
+for Services.
+
+. In these Conditions, references to any ordinance or statutory
+provision shall, unless the context otherwise requires, be construed as
+a reference to that ordinance or statutory provision as from time to
+time amended, consolidated, modified, extended, re-legislated or
+replaced.
+
+. In these Conditions headings will not affect the construction of
+these Conditions.
+
+
+== Terms of Acceptance
+
+. The Customer agrees that these Conditions shall be the exclusive basis on which the Contract is made between the Company and Customer.
+
+. These Conditions shall not create any agency or partnership between the Parties or any third party.
+
+. A Contract is formed between the Customer and the Company when (and not before) the Company signs off the Scope of Work or notifies the Customer in writing that the Scope of Work has been accepted. A purchase order issued by the Company for the services outlined in the Scope of Work is deemed acceptance of these terms.
+
+. No third parties except those expressly provided for in the Contract may enforce any term in the Contract in accordance with the Contracts (Rights of Third Parties) Ordinance (Cap. 623).
+
+
+== Appointment of Company
+
+. The Customer appoints the Company to provide the Services, and the Company accepts such appointment subject to the Conditions and the Contract.
+
+
+== Services to be Provided
+
+. The Services to be performed by the Company are set out in the Scope of Work.
+
+. The Company represents that it possesses the requisite skill, knowledge, expertise and experience to perform the Services.
+
+. The Company undertakes to perform the Services using reasonable care and skill.
+
+. Notwithstanding the generality of the preceding clauses in relation to the Services performed by the Company, the Company shall:
+
+.. Perform the Services using qualified and experienced personnel; and;
+
+.. be in accordance with sound principles and practices in the Company's industry;
+
+. The Company shall perform the Services on such dates specified in the Scope of Work and where such dates are not specified, the Parties shall mutually agree a suitable date and time for the performance of such Services. Where the Company is unable to perform the Services on the dates specified in the Scope of Work and/or previously agreed dates and times, the Company shall use reasonable endeavors to inform the Customer prior to the Service dates and re-arrange an alternative mutually convenient date as close as is reasonably practicable to the original pre-agreed dates.
+
+. If at any time before the due completion of the Services, the Customer wishes to change all or any part of the Services to be performed by the Company, then the Customer shall provide the Company with full written particulars of such proposed changes and with such further information as the Company may reasonably require in connection with such proposed changes.
+
+. The Company shall then submit to the Customer as soon as reasonably practicable a full written quotation for such changes specifying what changes (if any) will be required to fees payable by the Customer to the Company and what adjustments will be required to the Scope of Work.
+
+. Upon receipt of such quotation the Customer may elect either:
+
+.. to accept such quotation, in which case the Scope of Work shall be amended accordingly; or
+
+.. to withdraw the proposed alterations in which case the Scope of Work shall continue in force unchanged.
+
+.. The Company shall be entitled to make a reasonable charge for considering such changes and preparing the said quotation and if the Customer's request for such changes is subsequently withdrawn but results in a delay in delivering the Services. The Company shall not be liable for such delay and shall be entitled to an extension of time for performing its obligations equal to the period of the delay.
+
+. The Company shall not be obliged to consider or make any changes to the Scope of Work save in accordance with the aforesaid procedure. Pending agreement on any proposed changes, both Parties shall remain bound to comply with their obligations under the latest agreed Scope of Work.
+
+. The Customer undertakes that through the provision of the Services, all equipment, hardware, software and/or such ancillary equipment shall be in a suitable state to enable the Company to carry out the Services without delay and/or interruption.
+
+. The Customer shall provide the Company with reasonable access to such locations which the Company may require to access in order to perform the Services.
+
+. Where the Services include technical security assessments, "`hacking`" and/or any activities as defined as an offence under the Telecommunications Ordinance (Cap 106), the Crimes Ordinance (Cap 200) and/or the Theft Ordinance (Cap 210) or any other relevant laws or regulations in Hong Kong or other jurisdictions, of Customer's information technology infrastructure or other Customer asset, the Customer consents to the Company and/or its authorised representatives carrying out such activities and grants to the Company and/or such representatives such authority to carry out such activities. The Customer agrees to obtain authority to such activities from any relevant third parties, such as infrastructure hosting or management companies.
+
+== Fees
+
+. In consideration of the Company agreeing to provide the Services, the Customer shall pay to the Company the Fees in the amounts and times set out in the Scope of Work.
+
+. Where not specified in the Scope of Work, the Fees shall be payable within 30 days from the Customer's receipt of the Company's invoice(s) unless otherwise agreed in writing by the Parties. For the avoidance of doubt, the Company may issue invoices for stage payments where the same has been agreed by the Parties.
+
+. All payments due under the Contract shall be paid in full without any deduction or withholding other than as required by law. The Customer shall not be entitled to assert any credit, set-off or counterclaim against the Company in order to justify withholding payment of any such amount in whole or in part.
+
+. If the Customer fails to pay the Company any sum due in accordance with the Contract, the Customer will be liable to pay interest to the Company on the amount in arrears at the rate of 8% per month calculated from the date on which the same becomes due for payment until the date of payment as liquidated damages and not as penalty.
+
+. Payment shall be prompt and in accordance with due dates stated on invoices presented to the Customer.
+
+. The Company reserves the right to suspend the Services and/or any part thereof until all outstanding sums owed by the Customer to the Company are settled.
+
+. No payment of any monies including the Fees shall be deemed to have been received until the Company has received cleared funds.
+
+. Unless otherwise agreed by the Parties, all payments by the Customer to the Company shall be in Hong Kong Dollars.
+
+. If the Customer requires a change of previously agreed dates in respect of the Company's Services to be performed, then the Company reserves the right to charge the following fees as liquidated damages:
+
+.. where written notice of cancellation or change of Services date is made 30 Working Days or more before the Service date, no fee shall be payable;
+
+.. where written notice of cancellation or change of Service date is made between 10 and 29 Working Days (inclusive) before the Service date, the Customer shall pay a fee equal to 20% of the project cost as set out in the Scope of Work.
+
+.. where written notice of cancellation or change of Service date is made between 5 and 9 Working Days (inclusive) before the Service date, the Customer shall pay a fee equal to 75% of the project cost as set out in the Scope of Work.
+
+.. where written notice of cancellation or change of Service date is made between 4 and 3 Working Days (inclusive) before the Service date, the Customer shall pay a fee equal to 85% of the project cost as set out in the Scope of Work.
+
+.. where written notice of cancellation or change of Service date is made within 3 Working Days of the Service date, the Customer shall pay a fee equal to 100% of the project cost as set out in the Scope of Work.
+
+.. The Company shall be entitled to charge the Customer for all reasonable expenses, including but not limited to travel and subsistence, incurred by the Company and the Company's representatives in connection with the provision of the Services, unless expenses are explicitly excluded from the Scope of Work.
+
+== Liability
+
+. Except in respect of death or personal injury caused by the Company's negligence, the Company or its Affiliates shall not be liable to the Customer by reason of any representation (unless fraudulent), or any implied warranty, condition or other term, or any duty at common law, or under the express terms of the Contract, for any loss of profit or any indirect, special or consequential loss, damage, costs, expenses or other claims (whether caused by the negligence of the Company, its Affiliates, its servants or agents or otherwise) which arise out of or in connection with the provision of the Services (including any delay in providing the Services).
+
+. Without prejudice to Clause 6.1 above, the entire liability of the Company and/or its Affiliates under or in connection with the Agreement, whether in contract, tort (including negligence or breach of statutory duty), misrepresentation, restitution or otherwise, arising in connection with the performance or contemplated performance of the Agreement shall be limited to the aggregate amount of the Fees received by the Company from the Customer under the Contract.
+
+
+. The Company shall not be liable to the Customer or be deemed to be in breach of the Contract by reason of any delay in performing, or any failure to perform, any of the Company's obligations in relation to the Services, if the delay or failure was due to any cause beyond the Company's reasonable control or results directly or indirectly from any act or omission of the Customer.
+
+. The provisions of this Clause 6 shall survive the termination of the Contract.
+
+. The exclusions and limitations of liability set out in this Clause 6 shall be considered severally. The invalidity or unenforceability of any one of these sub-clauses shall not affect the validity or enforceability of any other part of this Clause 6.
+
+[[confidentiality]]
+== Confidentiality
+
+. Except as provided by Clauses 7.2 and 7.3, each Party shall at all times during the continuance of the Contract and after its termination:-
+
+.. use its best endeavors to keep all Restricted Information confidential and accordingly not to disclose any Restricted Information to any other person; and
+
+.. not use any Restricted Information for any purpose other than the performance of the obligations under this Agreement.
+
+
+. Any Restricted Information may be disclosed by either Party to the other Party to:-
+
+.. any governmental or other authority or regulatory body; or
+
+.. any of either Party's employee(s) for the purposes of carrying out its obligations under the Contract; to such extent only as is necessary for the purposes contemplated by the Contract or as is required by law and subject in each case to each Party using its best endeavors to ensure that the person in question keeps the same confidential and does not use the same except for the purposes for which the disclosure is made.
+
+. The obligations of confidentiality specified in this Clause 7 shall not apply to any Restricted Information:
+
+.. already known to the receiving party;
+
+.. which is in the public domain other than by breach of the obligations of this clause by either party; or
+
+.. is received from a third party otherwise than in breach of an obligation of confidentiality.
+
+. The Parties agree that this Clause 7 shall survive the termination and/or expiry of the Contract for whatsoever reason.
+
+
+== Intellectual Property Rights
+
+. Each Party acknowledges that all intellectual property disclosed by the other Party is exclusively owned by the disclosed Party and/or is lawfully licensed to the disclosing Party.
+
+. The disclosing Party grants to the receiving Party a non-exclusive licence to use any intellectual property for the purposes contemplated under the Contract.
+
+== Termination
+
+. Either Party may (without limiting any other remedy) at any time terminate the Contract with immediate effect by giving written notice to the other if:
+
+.. the other Party commits any material breach of the Contract and (if capable of remedy) fails to remedy the breach within 30 days after being required by written notice to do so; or
+
+.. an order is made or a resolution is passed for the winding up of the other party, or (in the case of an individual or firm) becomes bankrupt, makes a voluntary arrangement or composition with his or its creditors or has a receiver or administrator appointed or the other party takes or suffers any similar or analogous action in any jurisdiction in consequence of debt.
+
+. Without prejudice to Clause 9.1 above, the Company may terminate the Contract with immediate effect by giving written notice to the Customer if the Customer fails to make payment of any amount payable under the Contract within 30 days of the due date.
+
+
+== General
+
+. The Company may perform any of its obligations or exercise any of its rights hereunder by itself or through any other third party sub-contractors. Where the Services (or part thereof) are performed by such third party sub-contractors, any act or omission of any such this party sub-contractors shall be deemed to be the act or omission of the Company.
+
+. The Parties shall comply with the Personal Data (Privacy) Ordinance (Cap. 486). Where applicable, the Customer shall procure such consent from the relevant data subjects (as defined by the Personal Data (Privacy) Ordinance (Cap. 486)) to enable the Company to perform the Services or for such other purposes which the Company may reasonably require.
+
+
+. As the Services undertaken by the Company are based on the information and assistance provided by the Customer, it is the Customer's responsibility to provide the Company with accurate, complete and timely information and/or instructions in order for the Company to properly perform such Services for the Customer. In addition, it is the Customer's responsibility to notify the Company immediately of any changes in circumstances which could render any information the Customer previously provided to the Company to be inaccurate or which would otherwise have a bearing on the advice being rendered and/or services being performed. For the avoidance of doubt and notwithstanding any other provisions set out in these Conditions and any other agreement, contracts entered into between the Parties, the Company does not accept any liability for inaccurate, errors, losses, damages, failures, any missed timelines or problems which arises as a result of the Customer not providing the Company with accurate, complete and timely information and/or instructions.
+
+. These Conditions contains the terms and conditions in respect of the entire agreement between the parties and both Parties acknowledge that they have not relied upon any oral or written representation made to them by the other. In addition, these Conditions supersede all prior agreements entered into between the Parties. Should there be any conflict between these Conditions and any provision in any Scope of Work between the Parties, the relevant provision in that Scope of Work shall prevail.
+
+. Each party irrevocably and unconditionally waives any right it may have to claim damages for any misrepresentation whether or not contained in the Contract for breach of any warranty not contained in these Conditions unless such misrepresentation or warranty was made fraudulently.
+
+. No waiver by the Company of any breach of the Contract by the Customer shall be considered as a waiver of any subsequent breach of the same or any other provision.
+
+. If any provision of these Conditions is held by any competent authority to be invalid or unenforceable in whole or in part the validity of the other provisions of these Conditions and the remainder of the provision in question shall not be affected thereby.
+
+. Both Parties shall be released from their respective obligations in the event of national emergency, war, prohibitive governmental regulation or if any other cause beyond the reasonable control of the Parties or either of them renders the performance of the Contract impossible whereupon all money due but unpaid under the Contract shall be paid immediately.
+
+== Notice
+
+. Any notice required to be given to the Company shall be given by registered post addressed to the Company's registered address in Hong Kong.
+
+== Law and Jurisdiction
+
+These Conditions shall be governed by and construed in accordance with laws of Hong Kong. Any dispute, controversy, difference or claim arising out of or relating to this contract, including the existence, validity, interpretation, performance, breach or termination thereof or any dispute regarding non-contractual obligations arising out of or relating to it shall be referred to and finally resolved by arbitration administered by the Hong Kong International Arbitration Centre (HKIAC) under the HKIAC Administered Arbitration Rules in force when the Notice of Arbitration is submitted. The law of this arbitration clause shall be Hong Kong law. The seat of arbitration shall be Hong Kong.
+

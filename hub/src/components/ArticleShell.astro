@@ -1,0 +1,190 @@
+---
+// Shared long-form article layout: breadcrumbs, hero meta, sticky table of
+// contents with scroll-spy, reading progress, heading anchors, code copy
+// buttons, and image lightbox (see the script at the end of this file).
+interface Crumb { href: string; label: string }
+interface Props {
+  crumbs: Crumb[]
+  title: string
+  sub?: string
+  meta?: string
+  date?: string | null
+  lang?: string
+  bodyHtml: string
+  media?: { href: string; alt?: string; credit?: string } | null
+  notice?: string
+  prevNext?: { prev?: { href: string; title: string }; next?: { href: string; title: string } }
+  share?: { url: string; title: string }
+}
+
+const { crumbs, title, sub, meta, date, lang, bodyHtml, media, notice, prevNext, share } = Astro.props
+const xHref = share ? `https://twitter.com/intent/tweet?url=${encodeURIComponent(share.url)}&text=${encodeURIComponent(share.title)}` : ''
+const liHref = share ? `https://www.linkedin.com/sharing/share-offsite/?url=${encodeURIComponent(share.url)}` : ''
+const mailHref = share ? `mailto:?subject=${encodeURIComponent(share.title)}&body=${encodeURIComponent(share.url)}` : ''
+
+const slugOf = (text: string) =>
+  text.toLowerCase().replace(/<[^>]+>/g, '').replace(/[^a-z0-9一-鿿]+/g, '-').replace(/^-+|-+$/g, '') || 'section'
+
+const used = new Set<string>()
+const toc: { id: string; text: string; level: number }[] = []
+const html = bodyHtml.replace(/<h([23])([^>]*)>([\s\S]*?)<\/h\1>/g, (_m, lvl: string, attrs: string, inner: string) => {
+  const text = inner.replace(/<[^>]+>/g, '').trim()
+  let id = attrs.match(/id="([^"]+)"/)?.[1] ?? slugOf(text)
+  while (used.has(id)) id += '-2'
+  used.add(id)
+  toc.push({ id, text, level: Number(lvl) })
+  return `<h${lvl} id="${id}"${attrs.replace(/\s*id="[^"]*"/, '')}><a class="anchor" href="#${id}" aria-label="Link to this section">#</a>${inner}</h${lvl}>`
+})
+const dateFmt = date ? new Date(date).toISOString().slice(0, 10) : null
+---
+<div class="reading-progress" aria-hidden="true"><div class="reading-progress-fill"></div></div>
+
+<article class="mx-auto max-w-6xl px-4 py-12 sm:px-6" lang={lang}>
+  <nav class="flex flex-wrap items-center gap-1.5 text-sm text-slate-500 dark:text-slate-400" aria-label="Breadcrumb">
+    {crumbs.map((c, i) => (
+      <>
+        {i > 0 && <span aria-hidden="true" class="text-slate-400 dark:text-slate-600">/</span>}
+        <a href={c.href} class="no-underline hover:text-ink hover:underline dark:hover:text-white">{c.label}</a>
+      </>
+    ))}
+  </nav>
+
+  <header class="mt-6 max-w-3xl">
+    {dateFmt && <time class="eyebrow" datetime={date ?? undefined}>{dateFmt}</time>}
+    <h1 class="h-display mt-2 text-3xl font-bold leading-tight sm:text-4xl">{title}</h1>
+    {sub && <p class="mt-3 text-lg leading-8 text-slate-600 dark:text-slate-400">{sub}</p>}
+    {meta && <p class="mt-2 font-mono text-sm text-brand-700 dark:text-brand-400">{meta}</p>}
+  </header>
+
+  {media && (
+    <figure class="mt-8">
+      <img src={media.href} alt={media.alt ?? ''} width="960" height="540" class="w-full rounded-2xl border border-line dark:border-slate-800" loading="eager" />
+      {media.credit && <figcaption class="mt-2 text-xs text-slate-500 dark:text-slate-500">{media.credit}</figcaption>}
+    </figure>
+  )}
+
+  {notice && (
+    <p class="mt-6 max-w-3xl rounded-xl border border-line bg-slate-50 px-4 py-2.5 text-xs text-slate-500 dark:border-slate-800 dark:bg-ink-2 dark:text-slate-400">{notice}</p>
+  )}
+
+  <div class="mt-10 grid gap-10 xl:grid-cols-[minmax(0,1fr)_15rem]">
+    <div class="prose-news max-w-3xl" set:html={html} />
+    {toc.length > 1 && (
+      <aside class="toc-aside hidden xl:block">
+        <nav class="sticky top-24 border-l border-line pl-4 dark:border-slate-800" aria-label="On this page">
+          <p class="eyebrow">On this page</p>
+          <ul class="mt-3 space-y-2 text-sm">
+            {toc.map((h) => (
+              <li class:list={[h.level === 3 && 'pl-3']}>
+                <a href={`#${h.id}`} class="toc-link block truncate text-slate-500 no-underline hover:text-ink dark:text-slate-400 dark:hover:text-white">{h.text}</a>
+              </li>
+            ))}
+          </ul>
+        </nav>
+      </aside>
+    )}
+  </div>
+
+  {share && (
+    <div class="share-row mt-10 flex max-w-3xl flex-wrap items-center gap-2 border-t border-line pt-6 dark:border-slate-800">
+      <span class="eyebrow mr-1">Share</span>
+      <button type="button" class="share-btn" data-share-copy>Copy link</button>
+      <a class="share-btn" href={xHref} target="_blank" rel="noopener" aria-label="Share on X">X</a>
+      <a class="share-btn" href={liHref} target="_blank" rel="noopener" aria-label="Share on LinkedIn">LinkedIn</a>
+      <a class="share-btn" href={mailHref} aria-label="Share by email">Email</a>
+    </div>
+  )}
+
+  {prevNext && (prevNext.prev || prevNext.next) && (
+    <nav class="prevnext-nav mt-10 grid max-w-3xl gap-3 border-t border-line pt-8 sm:grid-cols-2 dark:border-slate-800" aria-label="More articles">
+      {prevNext.prev
+        ? <a href={prevNext.prev.href} class="card group block p-4">
+            <p class="eyebrow">← Newer</p>
+            <p class="mt-1.5 font-semibold leading-snug group-hover:text-brand-700 dark:group-hover:text-brand-300">{prevNext.prev.title}</p>
+          </a>
+        : <span class="hidden sm:block"></span>}
+      {prevNext.next && (
+        <a href={prevNext.next.href} class="card group block p-4 sm:text-right">
+          <p class="eyebrow">Older →</p>
+          <p class="mt-1.5 font-semibold leading-snug group-hover:text-brand-700 dark:group-hover:text-brand-300">{prevNext.next.title}</p>
+        </a>
+      )}
+    </nav>
+  )}
+
+  <slot />
+</article>
+
+<script>
+  let onScroll: (() => void) | undefined
+
+  const init = () => {
+    if (onScroll) { removeEventListener('scroll', onScroll); onScroll = undefined }
+
+    const fill = document.querySelector('.reading-progress-fill') as HTMLElement | null
+    if (fill) {
+      const bar = fill.parentElement!
+      onScroll = () => {
+        const h = document.documentElement
+        const max = h.scrollHeight - h.clientHeight
+        bar.style.visibility = max > 400 ? 'visible' : 'hidden'
+        fill.style.transform = `scaleX(${max > 0 ? h.scrollTop / max : 0})`
+      }
+      addEventListener('scroll', onScroll, { passive: true })
+      onScroll()
+    }
+
+    const links = Array.from(document.querySelectorAll<HTMLAnchorElement>('.toc-link'))
+    const heads = links.map((l) => document.getElementById(l.hash.slice(1))).filter(Boolean) as HTMLElement[]
+    if (heads.length && 'IntersectionObserver' in window) {
+      const io = new IntersectionObserver((entries) => {
+        for (const e of entries) if (e.isIntersecting) {
+          links.forEach((l) => l.classList.toggle('active', l.hash === '#' + (e.target as HTMLElement).id))
+        }
+      }, { rootMargin: '-15% 0px -70% 0px' })
+      heads.forEach((h) => io.observe(h))
+    }
+
+    document.querySelectorAll<HTMLElement>('.prose-news pre').forEach((pre) => {
+      if (pre.querySelector('.copy-btn')) return
+      const btn = document.createElement('button')
+      btn.type = 'button'
+      btn.className = 'copy-btn'
+      btn.textContent = 'Copy'
+      btn.addEventListener('click', async () => {
+        try {
+          await navigator.clipboard.writeText(pre.innerText)
+          btn.textContent = 'Copied'
+          btn.classList.add('copied')
+          setTimeout(() => { btn.textContent = 'Copy'; btn.classList.remove('copied') }, 1600)
+        } catch { /* clipboard unavailable */ }
+      })
+      pre.append(btn)
+    })
+
+    document.querySelectorAll<HTMLElement>('.prose-news img').forEach((img) => {
+      img.addEventListener('click', () => {
+        const box = document.createElement('div')
+        box.className = 'lightbox'
+        box.innerHTML = `<img src="${img.currentSrc || img.src}" alt="${img.alt ?? ''}">`
+        box.addEventListener('click', () => box.remove())
+        box.addEventListener('keydown', (e) => { if (e.key === 'Escape') box.remove() })
+        document.body.append(box)
+        ;(box.querySelector('img') as HTMLImageElement).focus?.()
+      })
+    })
+  }
+
+  document.addEventListener('astro:page-load', init)
+
+  document.addEventListener('click', async (e) => {
+    const btn = (e.target as HTMLElement).closest('[data-share-copy]')
+    if (!btn) return
+    try {
+      await navigator.clipboard.writeText(location.href)
+      const old = btn.textContent
+      btn.textContent = 'Copied'
+      setTimeout(() => { btn.textContent = old ?? 'Copy link' }, 1600)
+    } catch { /* clipboard unavailable */ }
+  })
+</script>

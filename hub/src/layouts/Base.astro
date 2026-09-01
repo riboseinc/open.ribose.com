@@ -1,0 +1,115 @@
+---
+import '../styles/global.css'
+import { ClientRouter } from 'astro:transitions'
+import { t } from '../lib/i18n'
+import Header from '../components/Header.astro'
+import Footer from '../components/Footer.astro'
+import SearchPalette from '../components/SearchPalette.astro'
+
+interface Props {
+  title: string; description: string; path?: string
+  type?: 'website' | 'article'; publishedTime?: string
+  jsonLd?: unknown[]; canonicalHref?: string
+}
+const { title, description, path = '/', type = 'website', publishedTime, jsonLd = [], canonicalHref } = Astro.props
+const canonical = canonicalHref ?? new URL(path, Astro.site).href
+const orgJsonLd = (await import('../lib/seo')).organizationJsonLd()
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <ClientRouter />
+    <meta charset="utf-8" />
+    <script is:inline>(function () {
+      function applyTheme() {
+        var t = localStorage.getItem('theme');
+        var d = t ? t === 'dark' : window.matchMedia('(prefers-color-scheme: dark)').matches;
+        document.documentElement.classList.toggle('dark', d);
+      }
+      applyTheme();
+      // ClientRouter swaps in a fresh <html> without the JS-applied class;
+      // re-apply before first paint of the new page.
+      document.addEventListener('astro:after-swap', applyTheme);
+    })();</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>{title} — Ribose</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
+    <link rel="icon" type="image/png" href="/favicon.png" />
+    <link rel="icon" type="image/png" sizes="192x192" href="/favicon-192x192.png" />
+    <link rel="apple-touch-icon" href="/favicon-192x192.png" />
+    <link rel="preload" href="/fonts/source-sans-3-400-normal.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/fonts/source-sans-3-700-normal.woff2" as="font" type="font/woff2" crossorigin />
+    <meta name="theme-color" content="#fcfcfa" media="(prefers-color-scheme: light)" />
+    <meta name="theme-color" content="#0d1117" media="(prefers-color-scheme: dark)" />
+    <link rel="alternate" hreflang="x-default" href={canonical} />
+    <link rel="alternate" type="application/rss+xml" title="Ribose News" href="/news/feed.xml" />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:type" content={type} />
+    <meta property="og:site_name" content="Ribose" />
+    <meta property="og:image" content={`${new URL('/brand/og-default.png', Astro.site).href}`} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:image:alt" content="Ribose — the digital infrastructure of the standards world" />
+    {publishedTime && <meta property="article:published_time" content={publishedTime} />}
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image" content={`${new URL('/brand/og-default.png', Astro.site).href}`} />
+    <script type="application/ld+json" set:html={JSON.stringify(orgJsonLd)} />
+    {jsonLd.map((obj) => <script type="application/ld+json" set:html={JSON.stringify(obj)} />)}
+  </head>
+  <body class="min-h-dvh flex flex-col">
+    <a href="#main" class="sr-only focus:not-sr-only focus:absolute focus:z-50 focus:m-2 focus:rounded focus:bg-brand-600 focus:px-3 focus:py-2 focus:text-white">Skip to content</a>
+    <Header />
+    <main id="main" class="flex-1">
+      <slot />
+    </main>
+    <Footer />
+    <SearchPalette />
+    <button id="back-to-top" type="button" class="fixed bottom-6 right-6 z-40 hidden h-11 w-11 place-items-center rounded-full border border-line bg-white text-slate-600 shadow-lg transition hover:text-ink dark:border-slate-700 dark:bg-ink-2 dark:text-slate-300 dark:hover:text-white" aria-label="Back to top">
+      <svg class="mx-auto h-5 w-5" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" aria-hidden="true"><path d="M12 19V5m-7 7 7-7 7 7"/></svg>
+    </button>
+    <script>
+      const onScroll = () => {
+        const top = document.getElementById('back-to-top')
+        const header = document.querySelector('.site-header')
+        const past = window.scrollY > 600
+        if (top) top.classList.toggle('hidden', !past), top.classList.toggle('grid', past)
+        if (header) header.classList.toggle('scrolled', window.scrollY > 8)
+      }
+      document.addEventListener('scroll', onScroll, { passive: true })
+      document.addEventListener('click', (e) => {
+        if ((e.target as HTMLElement).closest('#back-to-top')) window.scrollTo({ top: 0, behavior: 'smooth' })
+      })
+    </script>
+    <script is:inline>
+      (function () {
+        if (matchMedia('(prefers-reduced-motion: reduce)').matches || matchMedia('(hover: none)').matches) return
+        var raf = 0
+        document.addEventListener('pointermove', function (e) {
+          var layer = document.getElementById('hero-parallax')
+          if (!layer) return
+          if (raf) return
+          raf = requestAnimationFrame(function () {
+            raf = 0
+            var dx = (e.clientX / innerWidth - 0.5) * 10
+            var dy = (e.clientY / innerHeight - 0.5) * 8
+            layer.style.transform = 'translate(' + -dx + 'px,' + -dy + 'px)'
+          })
+        }, { passive: true })
+      })()
+    </script>
+    <script>
+      const revealAll = () => {
+        const els = document.querySelectorAll<HTMLElement>('.reveal:not(.is-visible)')
+        if (!('IntersectionObserver' in window)) { els.forEach((el) => el.classList.add('is-visible')); return }
+        const io = new IntersectionObserver((entries) => {
+          for (const e of entries) if (e.isIntersecting) { (e.target as HTMLElement).classList.add('is-visible'); io.unobserve(e.target) }
+        }, { rootMargin: '0px 0px -40px 0px' })
+        els.forEach((el) => io.observe(el))
+      }
+      document.addEventListener('astro:page-load', revealAll)
+    </script>
+  </body>
+</html>

@@ -1,0 +1,28 @@
+# Customer/showcase registry. Logos in public/logos/{file}.
+# Confidentiality: per-client work is NOT described on the site. The
+# `note` field is internal-only (never rendered) for our own records.
+clients:
+  - { id: oiml, group: sdo, logo: oiml.svg, logo_dark: oiml-dark.svg, name: OIML, note: OIML SMART platform (Bulletin digitalization pending) }
+  - { id: bipm, group: sdo, logo: bipm.svg, name: BIPM, note: machine-readable CGPM/CIPM outcomes, semantic SI Brochure }
+  - { id: iso, group: sdo, logo: iso.svg, name: ISO, note: Metanorma authoring; Geolexica for ISO/TC 211 }
+  - { id: iec, group: sdo, logo: iec.svg, name: IEC, note: PubID, Relaton data }
+  - { id: itu, group: sdo, logo: itu.svg, name: ITU, note: publication tooling }
+  - { id: ieee-sa, group: sdo, logo: ieee.svg, name: IEEE SA, note: PubID implementation }
+  - { id: bsi, group: sdo, logo: bsi.svg, logo_dark: bsi-dark.svg, name: BSI, note: PubID for BSI publications }
+  - { id: nist, group: sdo, logo: nist.svg, logo_dark: nist-white.svg, name: NIST, note: PubID for technical series }
+  - { id: ietf, group: sdo, logo: ietf.svg, logo_dark: ietf-dark.svg, name: IETF, note: BibXML service, RFC authoring tooling }
+  - { id: ogc, group: sdo, logo: ogc.svg, name: OGC, note: Metanorma flavor, CityGML, ModSpec }
+  - { id: iho, group: sdo, logo: iho.svg, name: IHO, note: Metanorma flavor, S-128 }
+  - { id: plateau, group: sdo, logo: plateau.svg, logo_dark: plateau-dark.svg, name: Project PLATEAU, note: Metanorma flavor (MLIT) }
+  - { id: pdes, group: sdo, logo: pdes.svg, logo_dark: pdes-dark.svg, name: PDES Inc., note: confidential }
+  - { id: pdf-association, group: sdo, logo: pdf-association.svg, logo_dark: pdf-association-dark.svg, name: PDF Association, note: PDF/UA authoring }
+  - { id: icc, group: sdo, logo: icc.svg, logo_dark: icc-dark.svg, name: ICC, note: color management standards }
+  - { id: calconnect, group: sdo, logo: calconnect.svg, name: CalConnect, note: authoring, tooling, leadership }
+  - { id: thunderbird, group: industry, logo: thunderbird.svg, name: Mozilla Thunderbird, note: RNP OpenPGP ships in Thunderbird }
+  - { id: mozilla, group: industry, logo: mozilla.svg, logo_dark: mozilla-white.svg, name: Mozilla, note: RNP OpenPGP shipped in Thunderbird }
+  - { id: nrcan, group: gov, logo: nrcan.svg, logo_dark: nrcan-dark.svg, name: Natural Resources Canada, note: ISO Geodetic Register (isogr) }
+  - { id: ign, group: gov, logo: ign.svg, name: IGN France, note: ISO Geodetic Register (isogr) }
+  - { id: expresslang, group: sdo, logo: expresslang.svg, logo_dark: expresslang-dark.svg, name: ExpressLang, note: EXPRESS language community }
+  - { id: enosema, group: sdo, logo: enosema.svg, name: Enosema, note: confidential }
+  - { id: hkha, group: gov, logo: hkha.svg, logo_dark: hkha-dark.svg, name: Hong Kong Hospital Authority, note: confidential (2019–2020) }
+  - { id: hkirc, group: industry, logo: hkirc.svg, logo_dark: hkirc-dark.svg, name: HKIRC, note: DNSSEC guide (2017) }

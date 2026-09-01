@@ -1,0 +1,11 @@
+---
+name: jeffrey
+full_name: Jeffrey Lau
+role_name: Platform Lead
+picture: pages/about/jeffrey.jpg
+---
+Jeffrey Lau is Ribose's Platform Lead, responsible for service-wide improvements of the Ribose secure collaboration platform. Passionate in protecting individual privacy rights, he is particularly interested in the privacy impact of technology as well as methods to mitigate them through technology.
+
+He holds bachelor's and master's degrees in Computer Science from the University of Cambridge; he leads the business continuity practice and co-leads the privacy practice at Ribose. Jeffrey co-chairs the TC LOCALIZATION committee at CalConnect, and is also an expert delegate representing CalConnect at ISO/TC 46, ISO/TC 46/SC 4, ISO/TC 46/SC 9, ISO/TC 37, ISO/TC 37/SC 4 and ISO/TC 37/SC 5; and representing Hong Kong at ISO/TC 307 and ISO/TC 215.
+
+Jeffrey is an official package maintainer for Fedora, and a lead auditor in information security management systems (ISO/IEC 27001), IT service management systems (ISO/IEC 20000-1) as well as business continuity management systems (ISO 22301).
