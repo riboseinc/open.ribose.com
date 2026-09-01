@@ -1,0 +1,13 @@
+---
+title: "New Product of the Year: BIG Awards for Business"
+name: bigaward-newproduct-2015
+labels:
+- global
+- business
+pictures:
+- pages/awards/bigaward-newproduct-2015.png
+detail_link: http://www.bintelligence.com/blog/2015/10/11/30-names-in-business-you-should-know
+---
+First launched in 2012, the BIG Awards for Business program uses a proprietary
+judging process scored by well-known and experienced leaders and executives
+from around the globe to recognize top-performing companies and organizations.

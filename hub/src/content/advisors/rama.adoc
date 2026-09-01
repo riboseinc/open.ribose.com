@@ -1,0 +1,20 @@
+---
+name: rama
+full_name: A. Rama Krishna
+picture: pages/about/advisor_rama.jpg
+detail_link: http://www.argainvest.com/team/
+---
+:page-liquid:
+
+A++.++ Rama Krishna, CFA, is Founder and Chief Investment Officer of ARGA
+Investment Management, LP, a valuation-based manager of global equity
+strategies based in Connecticut and Chennai, India. Prior to the founding of
+ARGA, he was President - International at Pzena Investment Management, Chief
+Investment Officer, Head of Institutional and International at Citigroup Asset
+Management, a member of the Citigroup Management Committee, and held
+Directorships and Chief Investment Officer roles at AllianceBernstein in New
+York, London and Tokyo. He holds a joint MBA/MA in Asian Studies from
+University of Michigan and a BA (Honors) in Economics from St. Stephen's
+College, University of Delhi.
+
+{{page.detail_link}}[More at ARGA Investment Management]

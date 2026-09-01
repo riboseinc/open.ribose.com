@@ -1,0 +1,11 @@
+---
+name: wa
+full_name: Koon Wa Kwan
+role_name: Operations Lead
+picture: pages/about/wa.jpg
+---
+Koon Wa Kwan is Ribose's Operations Lead where he heads security and service management of the Ribose platform. Graduated from the University of Hong Kong with a bachelor's degree in Mechanical Engineering, he has over two decades software engineering experience especially in workflow and infrastructure automation as well as in governmental solutions.
+
+He is an expert delegate to ISO/TC 154 and ISO/IEC JTC 1/SC 40 representing Hong Kong and is most interested in improving cloud service delivery processes using best practices through software and DevOps and DevSecOps methods.
+
+Koon Wa is a member of the itSMF, ACM and IEEE, and is a lead auditor in quality management systems (ISO 9001), IT service management systems (ISO/IEC 20000-1) and information security management systems (ISO/IEC 27001), as well as a Scrum.org PSM and PSD.

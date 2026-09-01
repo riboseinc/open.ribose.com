@@ -1,0 +1,24 @@
+---
+import { t } from '../lib/i18n'
+import { platformById, suiteById } from '../lib/registry'
+interface Props { powers: string[]; uses: string[] }
+const { powers = [], uses = [] } = Astro.props
+---
+{powers.length > 0 && (
+  <p class="mt-4 flex flex-wrap items-center gap-2 text-sm">
+    <span class="font-semibold">{t('tech.poweredBy')}:</span>
+    {powers.map((id) => {
+      const platform = platformById(id)
+      return platform && <a class="rounded-full bg-brand-700 px-3 py-1 text-xs font-medium text-white no-underline" href={`/platforms/${id}`}>{platform.name}</a>
+    })}
+  </p>
+)}
+{uses.length > 0 && (
+  <p class="mt-2 flex flex-wrap items-center gap-2 text-sm">
+    <span class="font-semibold">{t('tech.uses')}:</span>
+    {uses.map((id) => {
+      const suite = suiteById(id)
+      return suite && <a class="rounded-full border border-brand-300 px-3 py-1 text-xs no-underline dark:border-brand-700" href={`/technologies/${id}`}>{suite.name}</a>
+    })}
+  </p>
+)}

@@ -1,0 +1,32 @@
+---
+import BaseLayout from '../../layouts/Base.astro'
+---
+<BaseLayout title="Company" description="Ribose is an open technology company. Team, history, awards, and how we work." path="/company">
+  <section class="mx-auto max-w-3xl px-4 py-16 sm:px-6">
+    <p class="eyebrow">Company</p>
+    <h1 class="h-display mt-2 text-4xl font-bold sm:text-5xl">Company</h1>
+    <p class="prose-news mt-6">
+      Ribose builds open-source infrastructure for an interoperable world. Everything we ship is
+      open source — from the standards publication platform behind modern SDO workflows to the
+      OpenPGP library in Mozilla Thunderbird.
+    </p>
+    <p class="prose-news">
+      We participate in the standards community as builders: contributions across ISO committees,
+      IETF tooling, CalConnect, the CVE program (as a CVE Numbering Authority), and the Metaverse
+      Standards Forum. Since 2012 our work has been chronicled on this site.
+    </p>
+    <div class="mt-10 grid gap-3 sm:grid-cols-2">
+      {[
+        { href: '/company/awards', label: 'Awards', desc: 'Recognition over the years' },
+        { href: '/security/hall-of-fame', label: 'Hall of fame', desc: 'Security researchers' },
+        { href: '/news', label: 'News archive', desc: '2012–present' },
+        { href: 'https://github.com/riboseinc', label: 'GitHub', desc: 'riboseinc and ~30 orgs' },
+      ].map((l) => (
+        <a href={l.href} class="card group block p-4" rel={l.href.startsWith('http') ? 'noopener' : undefined}>
+          <p class="font-semibold group-hover:text-brand-700 dark:group-hover:text-brand-300">{l.label}</p>
+          <p class="mt-0.5 text-xs text-slate-500 dark:text-slate-400">{l.desc}</p>
+        </a>
+      ))}
+    </div>
+  </section>
+</BaseLayout>

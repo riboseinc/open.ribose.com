@@ -1,0 +1,19 @@
+---
+import type { Suite } from '../lib/registry'
+import SuiteLogo from './SuiteLogo.astro'
+interface Props { suite: Suite; domainName?: string }
+const { suite, domainName } = Astro.props
+---
+<a href={`/technologies/${suite.id}`} class="card group block p-5" transition:name={`suite-${suite.id}`}>
+  <div class="flex items-center gap-3">
+    <SuiteLogo suite={suite} imgClass="h-8 w-8 shrink-0" />
+    <h3 class="font-semibold text-lg leading-tight group-hover:text-brand-700 dark:group-hover:text-brand-300">{suite.name}</h3>
+  </div>
+  <p class="mt-3 text-sm leading-6 text-slate-600 dark:text-slate-400">{suite.tagline}</p>
+  <p class="mt-4 flex flex-wrap items-center gap-x-2 gap-y-1 text-xs text-slate-500 dark:text-slate-500">
+    <span>{suite.softwares.length} repositories</span>
+    <span aria-hidden="true">·</span>
+    <span class="font-mono">github.com/{suite.org}</span>
+    {domainName && <><span aria-hidden="true">·</span><span>{domainName}</span></>}
+  </p>
+</a>

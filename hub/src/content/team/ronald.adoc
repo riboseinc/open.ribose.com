@@ -1,0 +1,43 @@
+---
+name: ronald
+full_name: Ronald Tse
+role_name: Founder and CEO
+picture: pages/about/ronald.jpg
+---
+Ronald Tse is the Founder and CEO of Ribose, leading its strategic
+development and technology roadmap. He graduated from Brown
+University with bachelor's degrees magna cum laude in Computer
+Science and Biology, and a master's degree in Computer Science.
+
+Ronald currently serves CalConnect as Vice President and Director
+of External Relationships, founding co-chair of the CalConnect TC
+VCARD, TC PUBLISH and TC DATETIME committees, co-chair of the CSA Open Certification Framework,
+SaaS Governance and DevSecOps working groups, member of the CSA International
+Standardization Council, Convener of ISO/TC 154/WG 5, and
+expert representative to ISO committees including ISO/TC 154,
+ISO/TC 211, ISO/TC 46, ISO/TC 37, ISO TC 171/SC 2, ISO TC 184/SC 4,
+ISO/IEC JTC 1/SC 27, for the Standards Council of Canada and CalConnect.
+He is also the co-chair of the ISO/SMART SG Technical Solutions sub-group
+and co-convenor of the IEC/SG 12/TF 1 group representing the
+Standards Council of Canada.
+
+Most recently, he helped shaped the ISO 8601-1 and ISO 8601-2 date
+and time standards. He previously worked in the life sciences
+industry and performed research on highly-scalable distributed
+systems at Brown and MIT.
+
+Under his leadership, Ribose has been consistently awarded the
+industry's highest cloud security ratings, it became the world's
+first organization to achieve certification to the NIST
+Cybersecurity Framework (Tier 4), Singapore's Multi-Tier Cloud
+Security (Level 3), the only organization to be triple assured by
+the Cloud Security Alliance: CSA STAR Attestation, CSA STAR
+Certification and CSA C-STAR Assessment, as well as the first in
+the industry to receive BSI's Kitemark for Secure Digital
+Transactions.
+
+He has been named recipient of the CSA Ron Knode Award for his
+service to cloud security, and is an IAPP Fellow of Information
+Privacy, a member of Sigma Xi, a CISSP-ISSAP, ISSMP, CSSLP, CAP,
+SSCP, CISA, CISM, CRISC, CGEIT, CIPP/US, CIPM, CIPT, PSM I-II-III,
+PSPO I-II, PSD and CCIE Emeritus #9650.

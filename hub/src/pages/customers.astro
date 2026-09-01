@@ -1,0 +1,75 @@
+---
+import BaseLayout from '../layouts/Base.astro'
+import LogoFigure from '../components/LogoFigure.astro'
+import { clients, partners, supporters } from '../lib/collections'
+import { treatmentFor } from '../lib/logoTreatment'
+
+const all = clients()
+const groups = [
+  { id: 'sdo', name: 'Standards bodies & SDOs' },
+  { id: 'gov', name: 'Government & agencies' },
+  { id: 'industry', name: 'Industry & institutions' },
+]
+const byGroup = (id: string) => all.filter((c) => c.group === id)
+const logoImg = (logo: string) =>
+  treatmentFor(logo).large
+    ? 'max-h-14 w-auto max-w-[10.5rem] object-contain object-left'
+    : 'max-h-10 w-auto max-w-[9rem] object-contain object-left'
+---
+<BaseLayout title="Customers" description="The standards bodies, governments, and enterprises that rely on Ribose technology." path="/customers">
+  <section class="mx-auto max-w-6xl px-4 pt-16 pb-4 sm:px-6">
+    <p class="eyebrow">Customers</p>
+    <h1 class="h-display mt-2 text-4xl font-bold sm:text-5xl">The organizations we work for</h1>
+    <p class="mt-4 max-w-2xl text-lg leading-8 text-slate-600 dark:text-slate-400">
+      From the world's largest standards bodies to national regulators.
+      Many engagements are confidential, so we let the logos speak for themselves.
+    </p>
+  </section>
+
+  {groups.map((group) => (
+    <section class="mx-auto max-w-6xl px-4 py-10 sm:px-6" aria-labelledby={`group-${group.id}`}>
+      <h2 id={`group-${group.id}`} class="eyebrow">{group.name}</h2>
+      <div class="mt-5 grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-4">
+        {byGroup(group.id).map((client) => (
+          <article class="card reveal flex min-h-28 flex-col justify-between p-5">
+            <LogoFigure logo={client.logo} logoDark={client.logo_dark} name={client.name} imgClass={logoImg(client.logo)} />
+            <p class="mt-3 text-xs font-medium text-slate-500 dark:text-slate-400">{client.name}</p>
+          </article>
+        ))}
+      </div>
+    </section>
+  ))}
+
+  <section class="mx-auto max-w-6xl px-4 py-10 sm:px-6" aria-labelledby="partners-heading">
+    <h2 id="partners-heading" class="eyebrow">Partners</h2>
+    <div class="mt-5 grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-4">
+      {partners().map((p) => (
+        <article class="card reveal flex min-h-28 flex-col justify-between p-5">
+          <LogoFigure logo={p.logo} logoDark={p.logo_dark} name={p.name} imgClass={logoImg(p.logo)} />
+          <p class="mt-3 text-xs font-medium text-slate-500 dark:text-slate-400">{p.name}</p>
+        </article>
+      ))}
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-6xl px-4 py-10 sm:px-6" aria-labelledby="supporters-heading">
+    <h2 id="supporters-heading" class="eyebrow">Supporters</h2>
+    <p class="mt-2 max-w-2xl text-sm text-slate-600 dark:text-slate-400">Organizations that have backed Ribose projects with funding and grants.</p>
+    <div class="mt-5 grid grid-cols-2 gap-4 sm:grid-cols-3 lg:grid-cols-4">
+      {supporters().map((s) => (
+        <article class="card reveal flex min-h-28 flex-col justify-between p-5">
+          <LogoFigure logo={s.logo} logoDark={s.logo_dark} name={s.name} imgClass={logoImg(s.logo)} />
+          <p class="mt-3 text-xs font-medium text-slate-500 dark:text-slate-400">{s.name}</p>
+        </article>
+      ))}
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-6xl px-4 py-12 sm:px-6">
+    <div class="rounded-2xl border border-line bg-white p-8 text-center dark:border-slate-800 dark:bg-ink-2">
+      <h2 class="text-xl font-bold">Building a standard or a registry?</h2>
+      <p class="mx-auto mt-2 max-w-xl text-sm text-slate-600 dark:text-slate-400">Talk to us about authoring platforms, terminology portals, and certification infrastructure.</p>
+      <a href="mailto:info@ribose.com" class="btn-solid mt-6">info@ribose.com</a>
+    </div>
+  </section>
+</BaseLayout>

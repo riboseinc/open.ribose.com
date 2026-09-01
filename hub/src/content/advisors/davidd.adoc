@@ -1,0 +1,17 @@
+---
+name: davidd
+full_name: David Douglas
+picture: pages/about/advisor_davidd.jpg
+detail_link: http://nearwalden.com
+---
+:page-liquid:
+
+Dave focuses on technology and sustainability strategy, and co-authored
+"`Citizen Engineer`". Currently Vice President at Applied Minds, Dave was
+previously CEO at TouchTable, Chief Sustainability Officer and Senior Vice
+President of Cloud Computing at Sun Microsystems. With a BS and MSEE from the
+Massachusetts Institute of Technology, he serves on the Boards of the National
+Ecological Observatory Network, TouchTable and SkySQL, and is a Senior Fellow
+at the Breakthrough Institute.
+
+{{page.detail_link}}[Visit David's blog]

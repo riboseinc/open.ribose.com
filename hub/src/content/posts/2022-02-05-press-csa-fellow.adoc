@@ -1,0 +1,71 @@
+---
+title: "Ribose’s Ronald Tse named Cloud Security Alliance Research Fellow"
+date: 2022-02-05 12:00:00
+categories: [press]
+---
+*Ribose’s Ronald Tse named Cloud Security Alliance Research Fellow*
+
+++[++XX January 2022 – Hong Kong++]++
+
+Ronald Tse, founder of Ribose was recognized as a Research Fellow by the Cloud Security Alliance (CSA) for his significant contribution to CSA research.
+
+With an active membership of the biggest and most forward-thinking names in technology, CSA is the world’s leading organization dedicated to defining and raising awareness of best practices to help ensure a secure cloud computing environment.
+
+“Recognition as a CSA Research Fellow is a distinguished honor and a testament to BSI’s technical expertise,” observed Todd VanderVen, President of BSI Americas. Among the number of contributions to the field, John was the key developer and co-author of the CSA STAR certification and through his educational efforts has helped numerous organizations embed information resilience in their companies.”
+
+Responding to the prestigious designation, John DiMaria stated, “This honor is not only a personal milestone, but a tribute to the entire BSI team globally. We have taken a premier leadership role in the world of cloud computing, information security and cybersecurity, an industry which is experiencing both high scrutiny and explosive growth.”
+
+link:about:blank[Ribose] has become the world’s first cloud service provider (CSP) to achieve link:about:blank[Cloud Security Alliance's (CSA)] link:about:blank[STAR Certification] using the newly released link:about:blank[CSA Cloud Controls Matrix v4].
+
+STAR Certification is the internationally recognized cloud security certification program from CSA that specifies comprehensive and stringent cloud security requirements on CSPs. The CSA Cloud Controls Matrix (CCM) is the de-facto standard for cloud security assurance and compliance, widely used in assessing cloud security performance of cloud implementations. CCM 4.0.1, the latest version of the matrix, is composed of 197 control objectives structured in 17 domains and details leading-edge cloud security practices, covering all key aspects of cloud technology.
+
+The STAR Certification upgrade assessment was performed by BSI, a leading cloud assessment certification body, and original launch partner of the CSA STAR Certification program. Ribose’s certification was granted on December 15, 2021.
+
+“Our users are leading innovators in their industries. By achieving compliance to the latest and most comprehensive cloud security standard to date, users rest assured relying on Ribose for their success,” noted Ronald Tse, founder of Ribose. “As the first organization worldwide to achieve STAR certification to CCM 3 and now CCM 4, our commitment in protecting users’ information and privacy to the greatest extent is continually demonstrated.”
+
+“The CSA CCM, now in its fourth version, is recognised by many governments and industries to encompass leading edge best practices and guidance against the cyberthreats of today. We applaud Ribose’s commitment to cloud security and its continual quest in providing a safe and secure environment for its users,” explained Jim Reavis, CEO of CSA.
+
+XXX, Asia Pacific Managing Director of BSI, remarked, “The landscape of cloud security shifts continuously as is the world we are living in today. In order to provide its users a secure and private way to work, Ribose has demonstrated its world-class commitment to achieving leading best practices in cloud security.”
+
+++#++ ++#++ ++#++
+
+link:about:blank[About Ribose]
+
+Ribose creates asymmetric security™ and standardization technologies trusted by industries with heightened cybersecurity needs. Having pioneered the comprehensive approach to verifiable cybersecurity, Ribose is a Deloitte Technology FAST 20 and link:about:blank[Red Herring Top 100 Global] company, and received the CSA APAC Enterprise Award and several link:about:blank[Stevie® Awards] for cybersecurity innovations.
+
+Ribose is the first cloud service provider (CSP) to achieve certification to the CSA CCM 4.0 and to achieve the highest security tiers in link:about:blank[NIST CSF] and link:about:blank[MTCS]. It is also certified to link:about:blank[ISO 9001], link:about:blank[ISO 14001], link:about:blank[ISO/IEC 20000], link:about:blank[ISO 22301], link:about:blank[ISO/IEC 27001], link:about:blank[ISO/IEC 27017], link:about:blank[ISO/IEC 27018], ISO/IEC 27701 and link:about:blank[ISO 45001].
+
+Learn more at: link:about:blank[ribose.com].
+
+**About Cloud Security Alliance +**
+The Cloud Security Alliance (CSA) is the world’s leading organization dedicated to defining and raising awareness of best practices to help ensure a secure cloud computing environment. CSA harnesses the subject matter expertise of industry practitioners, associations, governments, and its corporate and individual members to offer cloud security-specific research, education, training, certification, events, and products. CSA's activities, knowledge, and extensive network benefit the entire community impacted by cloud — from providers and customers to governments, entrepreneurs, and the assurance industry — and provide a forum through which different parties can work together to create and maintain a trusted cloud ecosystem. For further information, visit us at http://www.cloudsecurityalliance.org/[www.cloudsecurityalliance.org], and follow us on Twitter http://twitter.com/cloudsa[@cloudsa][.underline]#.#
+
+link:about:blank[About BSI]
+
+BSI (British Standards Institution) equips businesses with the necessary solutions to turn standards of best practice into habits of excellence. As the world’s first National Standards Body and a founding member of the link:about:blank[International Organization for Standardization (ISO)], BSI is responsible for originating many of the world’s most commonly used management systems standards.
+
+Learn more at: link:about:blank[bsigroup.com].
+
+Ribose Contact:
+
+Ronald Tse
+
+press@ribose.com
+
+{plus}852 3976 3976
+
+Website: https://www.ribose.com
+
+Twitter: @RiboseUS
+
+BSI Contact:
+
+Ming Tang
+
+haming.tang@bsigroup.com
+
+{plus}852 3149 3324
+
+Website: http://www.bsigroup.com
+
+Twitter: @BSI++_++UK

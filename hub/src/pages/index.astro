@@ -1,0 +1,152 @@
+---
+import BaseLayout from '../layouts/Base.astro'
+import PlatformCard from '../components/PlatformCard.astro'
+import ClientWall from '../components/ClientWall.astro'
+import SuiteLogo from '../components/SuiteLogo.astro'
+import { platforms, suitesByDomain, domains } from '../lib/registry'
+import { wire } from '../lib/wire'
+import { newsPosts } from '../lib/posts'
+import { t } from '../lib/i18n'
+const byDomain = suitesByDomain()
+const wireLatest = wire().index().slice(0, 3)
+const fill = newsPosts().slice(0, 3 - wireLatest.length)
+const latest = [
+  ...wireLatest.map((a) => ({ href: `/news/${a.id.replace(/^urn:ribose:news:/, '').replace(/:/g, '-')}`, date: a.published?.slice(0, 10) ?? '', title: a.headline, origin: a.originSite.replace(/-/g, '.') })),
+  ...fill.map((p) => ({ href: `/news/${p.slug}`, date: p.date, title: p.title, origin: 'ribose.com' })),
+]
+
+const work = [
+  { client: 'IETF', title: 'The IETF BibXML service', what: 'Bibliographic infrastructure behind RFC and Internet-Draft authoring, operated in production.' },
+  { client: 'ISO', title: 'Registration Authority & Registration Agency', what: 'Ribose operates the ISO Geodetic Register (ISO 19127 — geodetic codes, coordinate reference systems and transformations) and maintains the ISO 24229 registry of written language conversion systems.' },
+  { client: 'BIPM', title: 'Machine-readable BIPM outcomes', what: 'CGPM and CIPM resolutions as structured, citable data — the semantic edition of the SI Brochure.' },
+  { client: 'ISO/TC 211', title: 'Geolexica terminology portals', what: 'The Multi-Lingual Glossary of Terms for ISO/TC 211 and terminology sites for standards committees.' },
+]
+---
+<BaseLayout title="Ribose" description="Ribose builds the digital infrastructure of the standards world — modernizing how standards bodies author, publish, and govern, with open-source platforms used worldwide." path="/">
+  <section class="relative overflow-hidden bg-paper text-ink transition-colors duration-300 dark:bg-ink dark:text-white">
+    <div id="hero-parallax" class="hero-parallax pointer-events-none absolute inset-0" aria-hidden="true">
+      <div class="hero-glow"></div>
+      <div class="hero-grid"></div>
+    </div>
+    <div class="hero-stagger relative mx-auto max-w-6xl px-4 pt-20 pb-20 sm:px-6 sm:pt-28 sm:pb-24">
+      <p class="eyebrow text-brand-700 dark:text-brand-300">Open infrastructure for the standards world</p>
+      <h1 class="h-display mt-4 max-w-3xl text-4xl font-bold leading-[1.1] sm:text-6xl">The digital infrastructure of the standards world</h1>
+      <p class="mt-6 max-w-2xl text-lg leading-8 text-slate-600 dark:text-slate-300">
+        We modernize how standards bodies author, publish, and govern — from the IETF's
+        bibliographic services to the ISO Geodetic Register — on open-source platforms
+        anyone can inspect.
+      </p>
+      <div class="mt-9 flex flex-wrap gap-3">
+        <a href="/platforms" class="rounded-xl bg-ink px-6 py-3.5 text-sm font-semibold text-white no-underline transition hover:bg-slate-700 active:translate-y-px dark:bg-white dark:text-ink dark:hover:bg-slate-200">{t('cta.talk')}</a>
+        <a href="/technologies" class="rounded-xl border border-slate-300 px-6 py-3.5 text-sm font-semibold text-ink no-underline transition hover:border-ink hover:bg-slate-100 active:translate-y-px dark:border-white/25 dark:text-white dark:hover:border-white/60 dark:hover:bg-white/5">{t('cta.explore')}</a>
+      </div>
+    </div>
+  </section>
+
+  <ClientWall />
+
+  <section class="mx-auto max-w-6xl px-4 py-14 sm:px-6" aria-labelledby="rnp-heading">
+    <div class="card reveal flex flex-col gap-6 p-8 sm:flex-row sm:items-center sm:gap-8 sm:p-10">
+      <div class="flex-1">
+        <p class="eyebrow text-brand-700 dark:text-brand-400">Featured technology</p>
+        <h2 id="rnp-heading" class="h-display mt-1.5 text-2xl font-bold sm:text-3xl">RNP is trusted by Mozilla Thunderbird</h2>
+        <p class="mt-2.5 max-w-xl text-sm leading-6 text-slate-600 dark:text-slate-400">
+          Our high-performance OpenPGP implementation ships inside Mozilla Thunderbird,
+          bringing standards-based end-to-end encryption to one of the world's most
+          widely used email clients — and it's fully open source.
+        </p>
+        <div class="mt-5 flex flex-wrap items-center gap-3">
+          <a href="/technologies/rnp" class="btn-solid">Explore RNP</a>
+          <a href="/security" class="text-sm font-semibold text-brand-700 no-underline hover:underline dark:text-brand-400">Security at Ribose →</a>
+        </div>
+      </div>
+      <div class="flex shrink-0 flex-col items-center gap-3 border-t border-line pt-6 dark:border-slate-800 sm:border-l sm:border-t-0 sm:pl-8 sm:pt-0">
+        <SuiteLogo suite={{ id: 'rnp', name: 'RNP' }} imgClass="h-16 w-16" />
+        <img src="/logos/thunderbird.svg" alt="Mozilla Thunderbird" width="48" height="48" class="h-12 w-12" loading="lazy" />
+      </div>
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-6xl px-4 py-16 sm:px-6" aria-labelledby="platforms-heading">
+    <p class="eyebrow reveal">Platforms</p>
+    <h2 id="platforms-heading" class="h-display reveal mt-2 text-3xl font-bold sm:text-4xl">From authoring to accreditation</h2>
+    <p class="reveal mt-3 max-w-2xl text-slate-600 dark:text-slate-400">Metanorma is how modern standards get written and published. Primmel Digital CAB is how standards become executable — defined once in Primmel by their authors, run by any organization against its implementation model, yielding trusted evidence and continuous compliance. Both are built on our own open-source suites.</p>
+    <div class="mt-8 grid gap-4 md:grid-cols-2">
+      {platforms.map((platform) => <div class="reveal"><PlatformCard platform={platform} /></div>)}
+    </div>
+  </section>
+
+  <section class="border-y border-line py-16 dark:border-slate-800" aria-labelledby="work-heading">
+    <div class="mx-auto max-w-6xl px-4 sm:px-6">
+      <div class="flex flex-wrap items-end justify-between gap-3">
+        <div>
+          <p class="eyebrow reveal">Selected work</p>
+          <h2 id="work-heading" class="h-display reveal mt-2 text-3xl font-bold sm:text-4xl">In production, worldwide</h2>
+        </div>
+        <a href="/customers" class="reveal text-sm font-semibold text-brand-700 no-underline hover:underline dark:text-brand-400">All customers →</a>
+      </div>
+      <div class="mt-8 grid gap-4 sm:grid-cols-2">
+        {work.map((item, i) => (
+          <article class="card reveal p-6" style={`--reveal-delay: ${i * 60}ms`}>
+            <p class="text-xs font-semibold uppercase tracking-[0.18em] text-brand-700 dark:text-brand-400">{item.client}</p>
+            <h3 class="mt-2 text-lg font-semibold leading-snug">{item.title}</h3>
+            <p class="mt-2 text-sm leading-6 text-slate-600 dark:text-slate-400">{item.what}</p>
+          </article>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-6xl px-4 py-16 sm:px-6" aria-labelledby="domains-heading">
+    <p class="eyebrow reveal">{t('home.domains')}</p>
+    <h2 id="domains-heading" class="h-display reveal mt-2 text-3xl font-bold sm:text-4xl">Where we work</h2>
+    <div class="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+      {domains.map((domain) => (
+        <a href={`/technologies?domain=${domain.id}`} class="card reveal block p-5">
+          <div class="flex items-baseline justify-between gap-2">
+            <h3 class="font-semibold">{domain.name}</h3>
+            <span class="shrink-0 text-xs font-medium text-slate-500 dark:text-slate-500">{(byDomain.get(domain.id) ?? []).length}</span>
+          </div>
+          <p class="mt-1.5 text-sm leading-6 text-slate-600 dark:text-slate-400">{domain.description}</p>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-6xl px-4 py-16 sm:px-6" aria-labelledby="news-heading">
+    <div class="flex flex-wrap items-end justify-between gap-3">
+      <div>
+        <p class="eyebrow reveal">{t('home.latest')}</p>
+        <h2 id="news-heading" class="h-display reveal mt-2 text-3xl font-bold sm:text-4xl">Latest news</h2>
+      </div>
+      <a href="/news" class="reveal text-sm font-semibold text-brand-700 no-underline hover:underline dark:text-brand-400">All news →</a>
+    </div>
+    <div class="mt-8 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+      {latest.map((item) => (
+        <div class="reveal">
+          <a href={item.href} class="card group flex h-full flex-col p-5">
+            <div class="flex items-baseline justify-between gap-2">
+              <time class="text-xs text-slate-500 dark:text-slate-500">{item.date}</time>
+              <span class="text-xs text-slate-400 dark:text-slate-500">{item.origin}</span>
+            </div>
+            <h3 class="mt-2.5 font-semibold leading-snug group-hover:text-brand-700 dark:group-hover:text-brand-300">{item.title}</h3>
+            <span class="mt-4 text-sm font-medium text-brand-700 no-underline group-hover:underline dark:text-brand-400">Read <span class="read-arrow" aria-hidden="true">→</span></span>
+          </a>
+        </div>
+      ))}
+      {latest.length === 0 && <p class="text-slate-500 dark:text-slate-400">News feed will appear here.</p>}
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-6xl px-4 pb-24 sm:px-6" aria-labelledby="security-heading">
+    <div class="reveal rounded-2xl border border-line bg-white p-8 dark:border-slate-800 dark:bg-ink-2 sm:p-10">
+      <p class="eyebrow text-brand-700 dark:text-brand-400">Security, in the open</p>
+      <h2 id="security-heading" class="h-display mt-2 text-2xl font-bold sm:text-3xl">Cryptographic infrastructure you can verify</h2>
+      <p class="mt-3 max-w-3xl text-sm leading-7 text-slate-600 dark:text-slate-400">
+        RNP — high-performance OpenPGP shipped in Mozilla Thunderbird. Confium threshold cryptography
+        on the NIST MPTS reference. Engyon protected text with post-quantum signatures. A CVE Numbering
+        Authority. <a href="/security" class="font-semibold text-brand-700 underline underline-offset-4 hover:text-brand-600 dark:text-brand-400">Security at Ribose →</a>
+      </p>
+    </div>
+  </section>
+</BaseLayout>

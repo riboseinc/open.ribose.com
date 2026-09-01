@@ -1,0 +1,11 @@
+---
+title: "New version released (2023-06-09)"
+tags: []
+permalink: blog/2023/new-version-released-20230609
+archived: true
+---
+= Ribose released new version updates
+KW Kwan
+:revdate: 2023-06-09T00:00:00Z
+
+This new version includes some minor bug fixes.

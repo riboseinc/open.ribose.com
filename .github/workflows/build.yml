@@ -3,37 +3,23 @@ name: build
 on:
   push:
     branches:
-      - '!main'     # excludes main
-      - '!staging'  # excludes staging
+      - '!main'
+      - '!staging'
   pull_request:
 
 jobs:
   build:
-    name: Build site
+    name: Build hub
     runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: hub
     steps:
-    - uses: actions/checkout@v4
-
-    - uses: actions/setup-node@v4
-      with:
-        node-version: '16'
-
-    - uses: ruby/setup-ruby@v1
-      with:
-        ruby-version: '3.3'
-        bundler-cache: true
-
-    - name: Install OpenCC
-      run: |
-        sudo apt-get update
-        sudo apt-get install -y opencc
-
-    - name: Convert zh-hant to zh-hans
-      run: |
-        ruby scripts/convert_hant_to_hans.rb
-
-    - name: Build site
-      env:
-        JEKYLL_ENV: production
-      run: |
-        make _site
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+          cache-dependency-path: hub/package-lock.json
+      - run: npm ci
+      - run: npm run build

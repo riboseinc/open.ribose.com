@@ -1,0 +1,21 @@
+---
+import BaseLayout from '../layouts/Base.astro'
+import { legalPages, type LegalPage } from '../lib/pages'
+
+const Asciidoctor = (await import('asciidoctor')).default
+const asciidoctor = Asciidoctor()
+
+export function getStaticPaths() {
+  return legalPages().map((page) => ({ params: { page: page.slug }, props: { page } }))
+}
+
+const { page } = Astro.props as { page: LegalPage }
+const html = asciidoctor.convert(page.bodyAdoc, { safe: 'safe', doctype: 'book' }) as string
+---
+<BaseLayout title={page.title} description={page.description ?? page.title} path={`/${page.slug}`}>
+  <article class="mx-auto max-w-3xl px-4 py-16 sm:px-6">
+    <h1 class="h-display text-4xl font-bold sm:text-5xl">{page.title}</h1>
+    {page.revisionDate && <p class="mt-2 text-sm text-slate-500 dark:text-slate-400">Last revised on {page.revisionDate}</p>}
+    <div class="prose-news mt-8" set:html={html} />
+  </article>
+</BaseLayout>

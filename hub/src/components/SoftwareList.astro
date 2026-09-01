@@ -1,0 +1,20 @@
+---
+import type { Software } from '../lib/registry'
+import { t } from '../lib/i18n'
+interface Props { softwares: Software[]; org: string }
+const { softwares, org } = Astro.props
+---
+<section aria-labelledby="softwares-heading">
+  <p class="eyebrow mt-12">Inventory</p>
+  <h2 id="softwares-heading" class="h-display mt-2 text-2xl font-bold">{t('tech.softwares')}</h2>
+  <div class="mt-4 grid gap-3 sm:grid-cols-2">
+    {softwares.map((sw) => (
+      <div class="card p-4">
+        <p class="font-mono text-sm font-semibold text-brand-800 dark:text-brand-300">
+          {sw.name.includes(' ') || sw.name.includes(',') ? sw.name : <a class="no-underline" href={`https://github.com/${org}/${sw.name}`}>{sw.name}</a>}
+        </p>
+        {sw.note && <p class="mt-1 text-sm text-slate-600 dark:text-slate-400">{sw.note}</p>}
+      </div>
+    ))}
+  </div>
+</section>

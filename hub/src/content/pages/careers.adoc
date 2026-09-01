@@ -1,0 +1,13 @@
+---
+layout: careers
+title: Careers
+permalink: careers
+---
+== Interested in being part of the Ribose team?
+
+Eager to build something of
+_value_?  We are currently a small team and expanding. Come
+_join us_ on our mission to create the _best_ social
+collaboration platform.
+
+[.subtle]#Gratuity, 5-day work week, health insurance and an excellent location in Central, Hong Kong#

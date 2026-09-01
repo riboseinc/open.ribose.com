@@ -1,0 +1,152 @@
+---
+layout: page_section
+title: Ribose Use of Cookies
+revision_date: 2021-07-07
+revision_date_template: "Last revised on: {{ revision_date | date: '%b %d, %Y' }}"
+permalink: cookies
+body_class: page-document page-cookies
+---
+:page-liquid:
+
+== Introduction
+
+Cookies are small text files that are placed on your computer by websites that
+you visit. They are widely used in order to make websites work, or work more
+efficiently, as well as to provide information to the owners of the site.
+
+This page describes the cookies we use for our service and why.
+
+== Disabling cookies
+
+You may set your browser to refuse cookies. However, some Services may not
+function properly if cookies are disabled.
+
+== More information
+
+If you have questions about our use of cookies, please email {{
+site.emails.privacy }}.
+
+== List of cookies and their usage
+
+[cols=2*]
+|===
+| identifier:
+| **_r**
+
+| type:
+| Session associated with Ribose Services
+
+| duration:
+| 1 week if you checked "Remember Me" option in Login page, otherwise deleted when the browser closes
+
+| description:
+| Stores a unique identifier for the session of each computer or device using Ribose. Does not track any personal information, and is required for Services to function correctly.
+|===
+
+[cols=2*]
+|===
+| identifier:
+| **client_id**
+
+| type:
+| Session associated with Ribose Services
+
+| duration:
+| Expired with session
+
+| description:
+| Stores a unique identifier for the session of each computer or device using Ribose. Does not track any personal information, and is required for Services to function correctly.
+|===
+
+[cols=2*]
+|===
+| identifier:
+| **PREF**
+
+| type:
+| Preference cookie associated with Google
+
+| duration:
+| 2 years
+
+| description:
+| The PREF cookie may store your Google preferences and other information, in
+particular your preferred language (e.g., English), how many search results you
+wish to have shown per page (e.g., 10 or 20), and whether or not you wish to
+have Google's SafeSearch filter turned on.
+|===
+
+[cols=2*]
+|===
+| identifier:
+| **\_ga / _gid / _gat / AMP_TOKEN / _gac_<property-id>**
+
+| type:
+| Preference cookie associated with Google Analytics
+
+| duration:
+| Maximum 2 years
+
+| description:
+| These cookies record particular ID used to come up with data about website usage by the visitors.
+|===
+
+[cols=2*]
+|===
+| identifier:
+| **invitation_code**
+
+| type:
+| Token cookie associated with Ribose
+
+| duration:
+| 5 minutes
+
+| description:
+| This cookie records the code of invitation.
+|===
+
+[cols=2*]
+|===
+| identifier:
+| **otp**
+
+| type:
+| Token cookie associated with Ribose
+
+| duration:
+| 5 minutes
+
+| description:
+| This cookie records one-time password.
+|===
+
+[cols=2*]
+|===
+| identifier:
+| **rpt**
+
+| type:
+| Token cookie associated with Ribose
+
+| duration:
+| 5 minutes
+
+| description:
+| This cookie records the token for password reset.
+|===
+
+[cols=2*]
+|===
+| identifier:
+| **authHeaders / mustResetPassword / firstTimeLogin**
+
+| type:
+| Functional cookies associated with Ribose
+
+| duration:
+| Maximum 2 weeks
+
+| description:
+| These cookies provide functions to operate our services.
+|===

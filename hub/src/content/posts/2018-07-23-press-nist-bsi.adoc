@@ -1,0 +1,59 @@
+---
+title: "Ribose Achieves World's First NIST Cybersecurity Framework Certification by BSI"
+date: 2018-07-23 12:00:00
+categories: [press]
+---
+*[.underline]#Ribose Achieves World's First NIST Cybersecurity Framework Certification by BSI +
+_Verified compliance to NIST Cybersecurity Framework at Tier 4 (Adaptive)_# +*
+  +
+++[++ XX July 2018; Hong Kong++]++ – Ribose has become the world's first organization to certify to the NIST Cybersecurity Framework (Tier 4) by BSI. +
+ +
+The National Institute of Standards and Technology's (NIST) Cybersecurity Framework (CSF) was mandated by U.S. Executive Order (EO) 13636, and was designed to protect critical infrastructure and vital industries from cyberattacks. It also allows organizations to select a “Tier” based on organizational practices – from Tier 1 (Partial) to Tier 4 (Adaptive) – indicating a progressive approach from informal and reactive, to agile and risk-driven. +
+ +
+BSI was part of the team of experts that worked with NIST to develop the CSF, and is the first certification body to offer certification to the CSF. The program validates processes and evidence corresponding to the chosen tier level, and is integrated with ISO/IEC 27001, which comprehensively validates information security and risk management practices. +
+ +
+John DiMaria, Global Product Champion for Information Security and Business Continuity for BSI, said, “BSI has created the world’s first certification on the NIST Cybersecurity Framework. The unique tiered concept combines solid information security principles with application flexibility, which will be valued by organizations worldwide. We congratulate Ribose on being the first organization to receive our NIST CSF certification at Tier 4, and commend its long-standing commitment to international harmonization of cybersecurity providing the highest levels of data protection.” +
+ +
+Enoch Lee, General Manager of Hong Kong for BSI, added, “BSI has long been recognized as a pioneer in information security management. The new NIST Cybersecurity Framework certification program is a key component of our efforts to maintain this leadership position.” +
+ +
+According to Ronald Tse, founder of Ribose, “Achieving NIST CSF certification at Tier 4 reaffirms our unwavering commitment to protecting our customers’ data based on verifiable cybersecurity. Our approach builds upon a solid security foundation that includes the selective Kitemark for Secure Digital Transactions certification, as well as cloud security and privacy certification through ISO/IEC 27017 and ISO/IEC 27018.”
+
+++###++
+
+https://www.ribose.com[About Ribose]
+
+Ribose is the award-winning global developer of asymmetric security™ technologies trusted by industries with heightened cybersecurity needs. Having pioneered the comprehensive approach to verifiable cybersecurity, Ribose has been named to be Deloitte Technology FAST 20, http://www.redherring.com/[Red Herring Top 100 Global], as well as receiver of the CSA APAC Enterprise Award and http://www.stevieawards.com/iba/[Stevie® Awards] for cybersecurity innovations.
+
+Ribose is the only cloud service provider (CSP) https://cloudsecurityalliance.org/star/certification/[triple-assured by the Cloud Security Alliance], first CSP to receive http://www.bsigroup.com/en-GB/kitemark/services/secure-digital-transactions/[BSI's Kitemark for Secure Digital Transactions], first to achieve certification to the highest security tiers in https://www.nist.gov/cyberframework[NIST CSF] and https://www.imda.gov.sg/industry-development/infrastructure/ict-standards-and-frameworks/mtcs-certification-scheme[MTCS], and is also certified to https://www.iso.org/iso-9001-quality-management.html[ISO 9001], https://www.iso.org/iso-14001-environmental-management.html[ISO 14001], http://www.isoiec20000certification.com/[ISO/IEC 20000], https://www.iso.org/standard/50038.html[ISO 22301], https://www.iso.org/isoiec-27001-information-security.html[ISO/IEC 27001], https://www.iso.org/standard/43757.html[ISO/IEC 27017], https://www.iso.org/standard/61498.html[ISO/IEC 27018] and https://www.iso.org/iso-45001-occupational-health-and-safety.html[ISO 45001].
+
+Learn more at: https://www.ribose.com[ribose.com].
+
+http://www.bsigroup.com[About BSI]
+
+BSI (British Standards Institution) equips businesses with the necessary solutions to turn standards of best practice into habits of excellence. As the world’s first National Standards Body and a founding member of the https://www.iso.org/[International Organization for Standardization (ISO)], BSI is responsible for originating many of the world’s most commonly used management systems standards.
+
+Learn more at: http://www.bsigroup.com/[bsigroup.com].
+
+Ribose Contact:
+
+Ronald Tse
+
+press@ribose.com
+
+{plus}852 3976 3976
+
+Website: https://www.ribose.com
+
+Twitter: @RiboseUS
+
+BSI Contact:
+
+Ming Tang
+
+haming.tang@bsigroup.com
+
+{plus}852 3149 3324
+
+Website: http://www.bsigroup.com
+
+Twitter: @BSI++_++UK

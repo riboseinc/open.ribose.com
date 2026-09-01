@@ -1,0 +1,103 @@
+---
+import BaseLayout from '../../layouts/Base.astro'
+import SuiteCard from '../../components/SuiteCard.astro'
+import { suites } from '../../lib/registry'
+import { advisories } from '../../lib/advisories'
+
+const securitySuites = suites.filter((s) => s.domain === 'security-compliance')
+const advisoryCount = advisories().length
+---
+<BaseLayout title="Security" description="Security at Ribose: OpenPGP (RNP), threshold cryptography (Confium), protected text (Engyon), sanction screening (Ammitto), advisories and the CVE program." path="/security">
+  <section class="mx-auto max-w-6xl px-4 py-16 sm:px-6">
+    <p class="eyebrow">Security</p>
+    <h1 class="h-display mt-2 text-4xl font-bold sm:text-5xl">Security, in the open</h1>
+    <p class="mt-4 max-w-2xl text-lg leading-8 text-slate-600 dark:text-slate-400">
+      Security is not a layer on top of our work — it is the work. The same people who build
+      our platforms run our security program, publish every advisory, and answer every report.
+    </p>
+    <p class="mt-3 max-w-2xl text-slate-600 dark:text-slate-400">
+      Ribose operates as a CVE Numbering Authority, runs a coordinated disclosure program across
+      all ribose.com properties, and maintains the OpenPGP tooling trusted by millions.
+    </p>
+
+    <section class="mt-12" aria-labelledby="portfolio-heading">
+      <p class="eyebrow" id="portfolio-heading">Portfolio</p>
+      <h2 class="h-display mt-1.5 text-2xl font-bold">Security software we build</h2>
+      <div class="mt-5 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+        {securitySuites.map((suite) => <SuiteCard suite={suite} />)}
+      </div>
+    </section>
+
+    <section class="mt-14" aria-labelledby="cna-heading">
+      <div class="card p-8">
+        <div class="flex flex-wrap items-start justify-between gap-4">
+          <div class="max-w-2xl">
+            <p class="eyebrow text-brand-700 dark:text-brand-400">CVE Numbering Authority</p>
+            <h2 id="cna-heading" class="h-display mt-1.5 text-2xl font-bold">Authorized by the CVE Program</h2>
+            <p class="mt-2 text-sm leading-6 text-slate-600 dark:text-slate-400">
+              Ribose is authorized as a CVE Numbering Authority (CNA) and publishes authoritative
+              CVE records for its products and services into the CVE List, which feeds the U.S.
+              National Vulnerability Database.
+            </p>
+          </div>
+          <p class="text-right">
+            <span class="h-display block text-4xl font-bold text-brand-600 dark:text-brand-400">{advisoryCount}</span>
+            <span class="text-xs font-medium text-slate-500 dark:text-slate-400">published advisories</span>
+          </p>
+        </div>
+        <div class="mt-6 flex flex-wrap gap-3">
+          <a href="/security/advisories" class="btn-solid">Browse advisories</a>
+          <a href="/cve-policy" class="btn-outline">CVE policy</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="mt-14" aria-labelledby="disclosure-heading">
+      <p class="eyebrow">Coordinated disclosure</p>
+      <h2 id="disclosure-heading" class="h-display mt-1.5 text-2xl font-bold">Responsible Security Disclosure Program</h2>
+      <p class="mt-3 max-w-3xl text-sm leading-6 text-slate-600 dark:text-slate-400">
+        We believe in responsible disclosure and ask that you allow us time to investigate and
+        patch before publishing details — verification and testing can take from several hours to
+        several days. We actively work with security researchers and participate in
+        <a href="https://bugcrowd.com/" rel="noopener">Bugcrowd's</a> bug bounty program. Every
+        report gets a response.
+      </p>
+      <div class="mt-6 grid gap-4 lg:grid-cols-2">
+        <div class="card p-6">
+          <h3 class="font-semibold">To be considered, a report must</h3>
+          <ul class="mt-3 list-disc space-y-1.5 pl-5 text-sm leading-6 text-slate-600 dark:text-slate-400">
+            <li>Be verifiable, with as much detail as possible — browser, platform, and a video are greatly appreciated</li>
+            <li>Be the first report of the issue; the earliest submission counts</li>
+            <li>Describe an actual bug — improvement suggestions are welcome but do not qualify</li>
+            <li>Not negatively impact other users (e.g. no unsolicited XSS messages)</li>
+            <li>Not use automated scanners, DDoS, or capacity testing</li>
+          </ul>
+        </div>
+        <div class="card p-6">
+          <h3 class="font-semibold">Scope and recognition</h3>
+          <ul class="mt-3 list-disc space-y-1.5 pl-5 text-sm leading-6 text-slate-600 dark:text-slate-400">
+            <li>Scope: any Ribose subdomain (<span class="font-mono">*.ribose.com</span>); third-party services operating a subdomain are excluded</li>
+            <li>Valid examples: authentication flaws, XSS, CSRF/XSRF, server-side code execution, SQL injection, directory traversal, stack traces</li>
+            <li>Not valid: reCAPTCHA, raw scanner output without a proof of concept, IP leaks, SSL-setting findings, clickjacking-only issues, logout CSRF</li>
+            <li>Accepted reports receive a swag kit and a place in the <a href="/security/hall-of-fame">Security Hall of Fame</a></li>
+          </ul>
+        </div>
+      </div>
+      <p class="mt-4 text-xs text-slate-500 dark:text-slate-400">
+        Our security team has the final say on whether a report qualifies as a vulnerability.
+        Not a security issue? <a href="/feedback">Use the feedback form</a>.
+      </p>
+    </section>
+
+    <section class="mt-14" aria-labelledby="report-heading">
+      <div class="card flex flex-col items-start gap-6 p-8 sm:flex-row sm:items-center">
+        <div class="flex-1">
+          <p class="eyebrow text-brand-700 dark:text-brand-400">Report a vulnerability</p>
+          <h2 id="report-heading" class="h-display mt-1.5 text-xl font-bold">security.reports@ribose.com</h2>
+          <p class="mt-2 text-sm text-slate-600 dark:text-slate-400">OpenPGP-encrypted reports are welcome and preferred.</p>
+        </div>
+        <a href="mailto:security.reports@ribose.com" class="btn-solid">Email the security team</a>
+      </div>
+    </section>
+  </section>
+</BaseLayout>

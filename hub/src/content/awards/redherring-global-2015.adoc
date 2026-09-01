@@ -1,0 +1,34 @@
+---
+title: Red Herring Top 100 Global
+name: redherring-global-2015
+labels:
+- global
+pictures:
+- pages/awards/redherring-global-2015.png
+detail_link: /blog/2015/ribose-wins-red-herring-top-100-global-award
+---
+Ribose has become the first secure cloud collaboration company to win an
+exclusive Red Herring 2015 Top 100 Global Award, joining a
+http://www.redherring.com/events/red-herring-global/2015-winners/[prestigious list of rising technology stars].
+
+Ribose is the first secure cloud collaboration company to win an
+exclusive Red Herring Top 100 Global Award, joining a prestigious list of
+rising technology stars.
+
+http://www.redherring.com/events/red-herring-global/[Red Herring's Top 100 Global] is a prestigious
+recognition that recognizes the most promising private technology ventures from
+Asia, Europe and North America.  The list has become a mark of distinction for
+up-and-coming companies and entrepreneurs, and Ribose joins prominent previous
+Top 100 Global alumni including Google, Facebook, Twitter, Skype,
+Salesforce.com, eBay and YouTube.  This global award follows Ribose's
+selection as winner of
+http://www.redherring.com/events/red-herring-asia/2015-top100-winners/[Red Herring's Top 100 Asia]
+in September 2015.
+
+Every year, the Red Herring editorial team selects nominees for evaluation
+based on a number of quantitative and qualitative factors, including financial
+performance, technological innovation, quality of management, execution of
+strategy and integration into their respective industries. After presenting its
+secure cloud collaboration platform to judges at the Red Herring Global Forum
+held in Los Angeles, California on 17-19 November 2015, Ribose was named a
+winner of this year's award.
