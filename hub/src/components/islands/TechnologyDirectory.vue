@@ -3,7 +3,7 @@ import { computed, ref } from 'vue'
 
 export interface SuiteEntry {
   id: string; name: string; tagline: string; domain: string; logo?: string
-  domainName: string; org: string; softwares: number; logoDark?: string; logoClass?: string
+  domainName: string; org: string; softwares: number; logoDark?: string; logoClass?: string; deprecated?: boolean
 }
 const props = defineProps<{ suites: SuiteEntry[]; domains: { id: string; name: string }[] }>()
 

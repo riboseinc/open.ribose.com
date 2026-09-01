@@ -5,7 +5,7 @@ export const defaultLocale: Locale = 'en'
 type Dict = Record<string, string>
 const dictionaries: Record<Locale, Dict> = {
   en: {
-    'nav.platforms': 'Platforms', 'nav.technologies': 'Technologies',
+    'nav.platforms': 'Platforms', 'nav.technologies': 'Products',
     'nav.customers': 'Customers', 'nav.news': 'News', 'nav.company': 'Company',
     'nav.security': 'Security', 'tagline': 'Open infrastructure for an interoperable world',
     'cta.explore': 'Explore the technology', 'cta.talk': 'Talk to us',
@@ -14,7 +14,7 @@ const dictionaries: Record<Locale, Dict> = {
     'news.origin': 'Published on', 'news.index': 'All news',
   },
   fr: {
-    'nav.platforms': 'Plateformes', 'nav.technologies': 'Technologies',
+    'nav.platforms': 'Plateformes', 'nav.technologies': 'Products',
     'nav.customers': 'Clients', 'nav.news': 'Actualités', 'nav.company': 'Entreprise',
     'nav.security': 'Sécurité', 'tagline': 'Infrastructure ouverte pour un monde interopérable',
     'cta.explore': 'Explorer la technologie', 'cta.talk': 'Nous contacter',

@@ -29,3 +29,8 @@ domains:
   - id: security-compliance
     name: Security & compliance
     description: OpenPGP, threshold cryptography, sanctions screening, security tooling
+
+  - id: collaboration
+    name: Collaboration Platform
+    description: The discontinued Ribose collaboration platform
+    deprecated: true
