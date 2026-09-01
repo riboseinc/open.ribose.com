@@ -27,7 +27,7 @@ http://www.ribose.com[*About Ribose*]
 
 Ribose makes collaborating easy and fun. Whether planning business projects or social events, the Ribose platform helps users collaborate through world-class security certified to the highest standards, including ISO/IEC 27001, CSA STAR, CDSA CPS and IDA MTCS. Ribose is available through the UK Government's G-Cloud and is free to use: http://www.ribose.com.
 
-For further details, find http://govstore.service.gov.uk/cloudstore/search/?q=ribose[Ribose on CloudStore] and see http://govstore.service.gov.uk/cloudstore/5-g5-2003-001[Ribose’s G-Cloud service].
+For further details, find http://govstore.service.gov.uk/cloudstore/search/?q=ribose[Ribose on CloudStore] and see https://web.archive.org/web/20190930155206/http://govstore.service.gov.uk/cloudstore/5-g5-2003-001[Ribose’s G-Cloud service].
 
 *About G-Cloud*
 

@@ -21,7 +21,7 @@ Emmanuel Herve, Managing Director of BSI Hong Kong, commented, “Many people as
 
 http://www.ribose.com[*About Ribose*]
 
-Ribose is a cloud collaboration platform that makes working together easy and fun. A forerunner in cloud security, Ribose is the world’s first cloud service provider certified to https://cloudsecurityalliance.org/star/[CSA STAR] using https://cloudsecurityalliance.org/research/ccm/[CCM v3] and http://www.ida.gov.sg/Collaboration-and-Initiatives/Initiatives/Store/MTCS-Certification-Scheme[MTCS]. It is also certified to http://www.iso.org/iso/iso27001[ISO/IEC 27001] and http://www.cdsaonline.org/content-protection-and-security-standards-and-procedures/[CDSA CPS] standards, and approved by the https://www.digitalmarketplace.service.gov.uk/[UK Government’s G-Cloud program] for government use.
+Ribose is a cloud collaboration platform that makes working together easy and fun. A forerunner in cloud security, Ribose is the world’s first cloud service provider certified to https://cloudsecurityalliance.org/star/[CSA STAR] using https://cloudsecurityalliance.org/research/ccm/[CCM v3] and https://web.archive.org/web/20000302171106/https://web.archive.org/web/20131121181951/http://www.ida.gov.sg/Collaboration-and-Initiatives/Initiatives/Store/MTCS-Certification-Scheme[MTCS]. It is also certified to http://www.iso.org/iso/iso27001[ISO/IEC 27001] and http://www.cdsaonline.org/content-protection-and-security-standards-and-procedures/[CDSA CPS] standards, and approved by the https://www.digitalmarketplace.service.gov.uk/[UK Government’s G-Cloud program] for government use.
 
 Ribose is free to use: http://www.ribose.com[ribose.com].
 
